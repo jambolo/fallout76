@@ -1,7 +1,7 @@
 {
   "Melee": {
-    "One-handed": [
-      {
+    "One-handed": {
+      "Board": {
         "name": "Board",
         "category": "One-handed",
         "strengthFactor": 0.1,
@@ -48,7 +48,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Sheepsquatch Club": {
         "name": "Sheepsquatch Club",
         "category": "One-handed",
         "speed": 0.55,
@@ -78,7 +78,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Machete": {
         "name": "Machete",
         "category": "One-handed",
         "speed": 0.88,
@@ -120,7 +120,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Bowie Knife": {
         "name": "Bowie Knife",
         "category": "One-handed",
         "kind": "knife",
@@ -142,7 +142,7 @@
         "mods": [],
         "type": "Melee"
       },
-      {
+      "Cultist Blade": {
         "name": "Cultist Blade",
         "category": "One-handed",
         "speed": 0.88,
@@ -163,7 +163,7 @@
         "mods": [],
         "type": "Melee"
       },
-      {
+      "Cultist Dagger": {
         "name": "Cultist Dagger",
         "category": "One-handed",
         "kind": "knife",
@@ -183,7 +183,7 @@
         "mods": [],
         "type": "Melee"
       },
-      {
+      "Multi-purpose Axe": {
         "name": "Multi-purpose Axe",
         "category": "One-handed",
         "speed": 0.55,
@@ -206,7 +206,7 @@
         "mods": [],
         "type": "Melee"
       },
-      {
+      "Combat Knife": {
         "name": "Combat Knife",
         "category": "One-handed",
         "kind": "knife",
@@ -245,7 +245,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Hatchet": {
         "name": "Hatchet",
         "category": "One-handed",
         "speed": 0.88,
@@ -270,7 +270,7 @@
         "mods": [],
         "type": "Melee"
       },
-      {
+      "Ski Sword": {
         "name": "Ski Sword",
         "category": "One-handed",
         "speed": 0.88,
@@ -306,7 +306,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Rolling pin": {
         "name": "Rolling pin",
         "category": "One-handed",
         "speed": 0.88,
@@ -352,7 +352,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Lead Pipe": {
         "name": "Lead Pipe",
         "category": "One-handed",
         "speed": 0.88,
@@ -395,7 +395,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Tire Iron": {
         "name": "Tire Iron",
         "category": "One-handed",
         "speed": 0.88,
@@ -433,7 +433,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Blade of Bastet": {
         "name": "Blade of Bastet",
         "category": "One-handed",
         "speed": 0.88,
@@ -463,7 +463,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Guitar Sword": {
         "name": "Guitar Sword",
         "category": "One-handed",
         "speed": 0.88,
@@ -482,7 +482,7 @@
         "mods": [],
         "type": "Melee"
       },
-      {
+      "Assaultron Blade": {
         "name": "Assaultron Blade",
         "category": "One-handed",
         "speed": 0.88,
@@ -499,7 +499,7 @@
         "mods": [],
         "type": "Melee"
       },
-      {
+      "Revolutionary Sword": {
         "name": "Revolutionary Sword",
         "category": "One-handed",
         "speed": 0.88,
@@ -543,7 +543,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Walking Cane": {
         "name": "Walking Cane",
         "category": "One-handed",
         "strengthFactor": 0.1,
@@ -587,7 +587,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Security Baton": {
         "name": "Security Baton",
         "category": "One-handed",
         "speed": 0.88,
@@ -608,7 +608,7 @@
         "mods": [],
         "type": "Melee"
       },
-      {
+      "Pipe Wrench": {
         "name": "Pipe Wrench",
         "category": "One-handed",
         "speed": 0.88,
@@ -659,7 +659,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Ripper": {
         "name": "Ripper",
         "category": "One-handed",
         "speed": 4.2,
@@ -690,7 +690,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Mr. Handy Buzz Blade": {
         "name": "Mr. Handy Buzz Blade",
         "category": "One-handed",
         "speed": 4.2,
@@ -727,7 +727,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Chinese Officer Sword": {
         "name": "Chinese Officer Sword",
         "category": "One-handed",
         "speed": 0.88,
@@ -771,7 +771,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Shishkebab": {
         "name": "Shishkebab",
         "category": "One-handed",
         "speed": 0.88,
@@ -806,7 +806,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Drill": {
         "name": "Drill",
         "category": "One-handed",
         "strengthFactor": 0.1,
@@ -834,7 +834,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Spear": {
         "name": "Spear",
         "category": "One-handed",
         "strengthFactor": 0.1,
@@ -854,7 +854,7 @@
         "mods": [],
         "type": "Melee"
       },
-      {
+      "Bone Club": {
         "name": "Bone Club",
         "category": "One-handed",
         "speed": 0.88,
@@ -873,7 +873,7 @@
         "mods": [],
         "type": "Melee"
       },
-      {
+      "Cattle Prod": {
         "name": "Cattle Prod",
         "category": "One-handed",
         "speed": 0.88,
@@ -928,9 +928,9 @@
         ],
         "type": "Melee"
       }
-    ],
-    "Unarmed": [
-      {
+    },
+    "Unarmed": {
+      "Deathclaw Gauntlet": {
         "name": "Deathclaw Gauntlet",
         "category": "Unarmed",
         "kind": "unarmed",
@@ -961,7 +961,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Power Fist": {
         "name": "Power Fist",
         "category": "Unarmed",
         "kind": "unarmed",
@@ -992,7 +992,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Mole Miner Gauntlet": {
         "name": "Mole Miner Gauntlet",
         "category": "Unarmed",
         "kind": "unarmed",
@@ -1026,7 +1026,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Death Tambo": {
         "name": "Death Tambo",
         "category": "Unarmed",
         "kind": "unarmed",
@@ -1046,7 +1046,7 @@
         "mods": [],
         "type": "Melee"
       },
-      {
+      "Boxing Glove": {
         "name": "Boxing Glove",
         "category": "Unarmed",
         "kind": "unarmed",
@@ -1089,7 +1089,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Knuckles": {
         "name": "Knuckles",
         "category": "Unarmed",
         "kind": "unarmed",
@@ -1141,7 +1141,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Meat Hook": {
         "name": "Meat Hook",
         "category": "Unarmed",
         "kind": "unarmed",
@@ -1176,7 +1176,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Bear Arm": {
         "name": "Bear Arm",
         "category": "Unarmed",
         "kind": "unarmed",
@@ -1213,7 +1213,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Gauntlet": {
         "name": "Gauntlet",
         "category": "Unarmed",
         "speed": 0.88,
@@ -1248,9 +1248,9 @@
         ],
         "type": "Melee"
       }
-    ],
-    "Two-handed": [
-      {
+    },
+    "Two-handed": {
+      "Super Sledge": {
         "name": "Super Sledge",
         "category": "Two-handed",
         "speed": 0.55,
@@ -1284,7 +1284,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Tenderizer": {
         "name": "Tenderizer",
         "category": "Two-handed",
         "speed": 0.55,
@@ -1322,7 +1322,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Sheepsquatch Staff": {
         "name": "Sheepsquatch Staff",
         "category": "Two-handed",
         "speed": 0.55,
@@ -1352,7 +1352,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Pickaxe": {
         "name": "Pickaxe",
         "category": "Two-handed",
         "speed": 0.55,
@@ -1386,7 +1386,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Fire Axe": {
         "name": "Fire Axe",
         "category": "Two-handed",
         "speed": 0.55,
@@ -1420,7 +1420,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Pitchfork": {
         "name": "Pitchfork",
         "category": "Two-handed",
         "strengthFactor": 0.1,
@@ -1481,7 +1481,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "War Drum": {
         "name": "War Drum",
         "category": "Two-handed",
         "speed": 0.55,
@@ -1500,7 +1500,7 @@
         "mods": [],
         "type": "Melee"
       },
-      {
+      "Grognak's Axe": {
         "name": "Grognak's Axe",
         "category": "Two-handed",
         "speed": 0.55,
@@ -1517,7 +1517,7 @@
         "mods": [],
         "type": "Melee"
       },
-      {
+      "Sledgehammer": {
         "name": "Sledgehammer",
         "category": "Two-handed",
         "speed": 0.55,
@@ -1580,7 +1580,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Baseball Bat": {
         "name": "Baseball Bat",
         "category": "Two-handed",
         "strengthFactor": 0.1,
@@ -1665,7 +1665,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Pole Hook": {
         "name": "Pole Hook",
         "category": "Two-handed",
         "speed": 0.55,
@@ -1700,7 +1700,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Sheperd's Crook": {
         "name": "Sheperd's Crook",
         "category": "Two-handed",
         "speed": 0.55,
@@ -1735,7 +1735,7 @@
         ],
         "type": "Melee"
       },
-      {
+      "Bone Hammer": {
         "name": "Bone Hammer",
         "category": "Two-handed",
         "speed": 0.55,
@@ -1754,7 +1754,7 @@
         "mods": [],
         "type": "Melee"
       },
-      {
+      "Shovel": {
         "name": "Shovel",
         "category": "Two-handed",
         "speed": 0.55,
@@ -1777,11 +1777,11 @@
         "mods": [],
         "type": "Melee"
       }
-    ]
+    }
   },
   "Ranged": {
-    "Rifle": [
-      {
+    "Rifle": {
+      "Handmade": {
         "name": "Handmade",
         "category": "Rifle",
         "kind": "ballistic",
@@ -1922,7 +1922,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Hunting Rifle": {
         "name": "Hunting Rifle",
         "category": "Rifle",
         "kind": "ballistic",
@@ -2056,7 +2056,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Lever Action Rifle": {
         "name": "Lever Action Rifle",
         "category": "Rifle",
         "kind": "ballistic",
@@ -2153,7 +2153,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Black Powder Rifle": {
         "name": "Black Powder Rifle",
         "category": "Rifle",
         "kind": "ballistic",
@@ -2174,7 +2174,7 @@
         "mods": [],
         "type": "Ranged"
       },
-      {
+      "The Dragon": {
         "name": "The Dragon",
         "category": "Rifle",
         "kind": "ballistic",
@@ -2191,7 +2191,7 @@
         "mods": [],
         "type": "Ranged"
       },
-      {
+      "Assault Rifle": {
         "name": "Assault Rifle",
         "category": "Rifle",
         "kind": "ballistic",
@@ -2330,7 +2330,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Railway Rifle": {
         "name": "Railway Rifle",
         "category": "Rifle",
         "kind": "ballistic",
@@ -2373,7 +2373,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Combat Rifle": {
         "name": "Combat Rifle",
         "category": "Rifle",
         "kind": "ballistic",
@@ -2521,7 +2521,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "The Fixer": {
         "name": "The Fixer",
         "category": "Rifle",
         "kind": "ballistic",
@@ -2675,7 +2675,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Submachine Gun": {
         "name": "Submachine Gun",
         "category": "Rifle",
         "kind": "ballistic",
@@ -2746,7 +2746,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "10mm SMG": {
         "name": "10mm SMG",
         "category": "Rifle",
         "kind": "ballistic",
@@ -2832,7 +2832,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Old Guard's 10mm SMG": {
         "name": "Old Guard's 10mm SMG",
         "category": "Rifle",
         "kind": "ballistic",
@@ -2840,7 +2840,7 @@
         "silencer": true,
         "special": true,
         "info": "WeaponOldGuard",
-        "speed": 10.0,
+        "speed": 10,
         "level": [
           10,
           20,
@@ -2923,7 +2923,7 @@
         "legendaryPrefix": "Anti-armor",
         "type": "Ranged"
       },
-      {
+      "Pipe Bolt-action Rifle": {
         "name": "Pipe Bolt-action Rifle",
         "category": "Rifle",
         "kind": "ballistic",
@@ -2963,7 +2963,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Pipe Revolver Rifle": {
         "name": "Pipe Revolver Rifle",
         "category": "Rifle",
         "kind": "ballistic",
@@ -3013,7 +3013,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Pipe Rifle": {
         "name": "Pipe Rifle",
         "category": "Rifle",
         "kind": "ballistic",
@@ -3095,7 +3095,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Gauss Rifle": {
         "name": "Gauss Rifle",
         "category": "Rifle",
         "kind": "energy",
@@ -3158,7 +3158,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Radium Rifle": {
         "name": "Radium Rifle",
         "category": "Rifle",
         "kind": "ballistic",
@@ -3236,7 +3236,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Laser Rifle": {
         "name": "Laser Rifle",
         "category": "Rifle",
         "kind": "laser",
@@ -3298,7 +3298,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Ultracite Laser Rifle": {
         "name": "Ultracite Laser Rifle",
         "category": "Rifle",
         "kind": "laser",
@@ -3356,7 +3356,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Plasma Rifle": {
         "name": "Plasma Rifle",
         "category": "Rifle",
         "kind": "plasma",
@@ -3409,7 +3409,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Slug Buster": {
         "name": "Slug Buster",
         "category": "Rifle",
         "kind": "plasma",
@@ -3479,7 +3479,7 @@
         "legendaryPrefix": "Anti-armor",
         "type": "Ranged"
       },
-      {
+      "Enclave Plasma Rifle": {
         "name": "Enclave Plasma Rifle",
         "category": "Rifle",
         "kind": "plasma",
@@ -3529,7 +3529,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Tesla Rifle": {
         "name": "Tesla Rifle",
         "category": "Rifle",
         "kind": "energy",
@@ -3569,9 +3569,9 @@
         ],
         "type": "Ranged"
       }
-    ],
-    "Heavy": [
-      {
+    },
+    "Heavy": {
+      "Gatling Gun": {
         "name": "Gatling Gun",
         "category": "Heavy",
         "kind": "ballistic",
@@ -3615,7 +3615,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "50 Cal Machine Gun": {
         "name": "50 Cal Machine Gun",
         "category": "Heavy",
         "kind": "ballistic",
@@ -3666,7 +3666,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Final Word": {
         "name": "Final Word",
         "category": "Heavy",
         "kind": "ballistic",
@@ -3722,7 +3722,7 @@
         "legendaryMajor": "25% increased fire rate",
         "type": "Ranged"
       },
-      {
+      "Light Machine Gun": {
         "name": "Light Machine Gun",
         "category": "Heavy",
         "kind": "ballistic",
@@ -3760,7 +3760,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Minigun": {
         "name": "Minigun",
         "category": "Heavy",
         "kind": "ballistic",
@@ -3806,7 +3806,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Broadsider": {
         "name": "Broadsider",
         "category": "Heavy",
         "kind": "ballistic",
@@ -3825,7 +3825,7 @@
         "mods": [],
         "type": "Ranged"
       },
-      {
+      "Harpoon Gun": {
         "name": "Harpoon Gun",
         "category": "Heavy",
         "kind": "ballistic",
@@ -3857,7 +3857,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Gatling Laser": {
         "name": "Gatling Laser",
         "category": "Heavy",
         "kind": "laser",
@@ -3914,7 +3914,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Ultracite Gatling Laser": {
         "name": "Ultracite Gatling Laser",
         "category": "Heavy",
         "kind": "laser",
@@ -3969,7 +3969,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Gatling Plasma": {
         "name": "Gatling Plasma",
         "category": "Heavy",
         "kind": "plasma",
@@ -4013,7 +4013,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Cryolator": {
         "name": "Cryolator",
         "category": "Heavy",
         "kind": "energy",
@@ -4057,7 +4057,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Fat Man": {
         "name": "Fat Man",
         "category": "Heavy",
         "explosive": true,
@@ -4092,7 +4092,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Missile Launcher": {
         "name": "Missile Launcher",
         "category": "Heavy",
         "explosive": true,
@@ -4112,7 +4112,7 @@
         "mods": [],
         "type": "Ranged"
       },
-      {
+      "M79 Grenade Launcher": {
         "name": "M79 Grenade Launcher",
         "category": "Heavy",
         "explosive": true,
@@ -4132,7 +4132,7 @@
         "mods": [],
         "type": "Ranged"
       },
-      {
+      "Auto Grenade Launcher": {
         "name": "Auto Grenade Launcher",
         "category": "Heavy",
         "explosive": true,
@@ -4159,7 +4159,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Gauss Minigun": {
         "name": "Gauss Minigun",
         "category": "Heavy",
         "kind": "energy",
@@ -4227,7 +4227,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Plasma Caster": {
         "name": "Plasma Caster",
         "category": "Heavy",
         "kind": "plasma",
@@ -4274,9 +4274,9 @@
         ],
         "type": "Ranged"
       }
-    ],
-    "Shotgun": [
-      {
+    },
+    "Shotgun": {
+      "Combat Shotgun": {
         "name": "Combat Shotgun",
         "category": "Shotgun",
         "kind": "ballistic",
@@ -4403,7 +4403,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Pump Action Shotgun": {
         "name": "Pump Action Shotgun",
         "category": "Shotgun",
         "kind": "ballistic",
@@ -4472,7 +4472,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Double-barrel Shotgun": {
         "name": "Double-barrel Shotgun",
         "category": "Shotgun",
         "kind": "ballistic",
@@ -4506,7 +4506,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Gauss Shotgun": {
         "name": "Gauss Shotgun",
         "category": "Shotgun",
         "kind": "energy",
@@ -4572,9 +4572,9 @@
         ],
         "type": "Ranged"
       }
-    ],
-    "Bow": [
-      {
+    },
+    "Bow": {
+      "Crossbow": {
         "name": "Crossbow",
         "category": "Bow",
         "kind": "ballistic",
@@ -4660,7 +4660,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Compound Bow": {
         "name": "Compound Bow",
         "category": "Bow",
         "kind": "ballistic",
@@ -4795,7 +4795,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Bow": {
         "name": "Bow",
         "category": "Bow",
         "kind": "ballistic",
@@ -4930,9 +4930,9 @@
         ],
         "type": "Ranged"
       }
-    ],
-    "Pistol": [
-      {
+    },
+    "Pistol": {
+      "10mm Pistol": {
         "name": "10mm Pistol",
         "category": "Pistol",
         "kind": "ballistic",
@@ -5043,7 +5043,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Western Revolver": {
         "name": "Western Revolver",
         "category": "Pistol",
         "kind": "ballistic",
@@ -5107,7 +5107,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      ".44 Pistol": {
         "name": ".44 Pistol",
         "category": "Pistol",
         "kind": "ballistic",
@@ -5143,7 +5143,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Black Powder Pistol": {
         "name": "Black Powder Pistol",
         "category": "Pistol",
         "kind": "ballistic",
@@ -5166,7 +5166,7 @@
         "mods": [],
         "type": "Ranged"
       },
-      {
+      "Black Powder Blunderbuss": {
         "name": "Black Powder Blunderbuss",
         "category": "Pistol",
         "kind": "ballistic",
@@ -5189,7 +5189,7 @@
         "mods": [],
         "type": "Ranged"
       },
-      {
+      "Pipe Bolt-action Pistol": {
         "name": "Pipe Bolt-action Pistol",
         "category": "Pistol",
         "kind": "ballistic",
@@ -5229,7 +5229,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Pipe Pistol": {
         "name": "Pipe Pistol",
         "category": "Pistol",
         "kind": "ballistic",
@@ -5326,7 +5326,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Pipe Revolver Pistol": {
         "name": "Pipe Revolver Pistol",
         "category": "Pistol",
         "kind": "ballistic",
@@ -5376,7 +5376,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Laser Pistol": {
         "name": "Laser Pistol",
         "category": "Pistol",
         "kind": "laser",
@@ -5438,7 +5438,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Ultracite Laser Pistol": {
         "name": "Ultracite Laser Pistol",
         "category": "Pistol",
         "kind": "laser",
@@ -5494,7 +5494,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Plasma Pistol": {
         "name": "Plasma Pistol",
         "category": "Pistol",
         "kind": "plasma",
@@ -5547,7 +5547,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Enclave Plasma Pistol": {
         "name": "Enclave Plasma Pistol",
         "category": "Pistol",
         "kind": "plasma",
@@ -5597,7 +5597,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Gamma Gun": {
         "name": "Gamma Gun",
         "category": "Pistol",
         "kind": "energy",
@@ -5664,7 +5664,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Alien Blaster": {
         "name": "Alien Blaster",
         "category": "Pistol",
         "kind": "energy",
@@ -5691,7 +5691,7 @@
         "mods": [],
         "type": "Ranged"
       },
-      {
+      "The V.A.T.S. Unknown": {
         "name": "The V.A.T.S. Unknown",
         "category": "Pistol",
         "kind": "energy",
@@ -5720,7 +5720,7 @@
         "mods": [],
         "type": "Ranged"
       },
-      {
+      "Gauss Pistol": {
         "name": "Gauss Pistol",
         "category": "Pistol",
         "kind": "energy",
@@ -5790,7 +5790,7 @@
         ],
         "type": "Ranged"
       },
-      {
+      "Single Action Revolver": {
         "name": "Single Action Revolver",
         "category": "Pistol",
         "kind": "ballistic",
@@ -5837,9 +5837,9 @@
         ],
         "type": "Ranged"
       }
-    ],
-    "Thrown": [
-      {
+    },
+    "Thrown": {
+      "Tomahawk": {
         "name": "Tomahawk",
         "category": "Thrown",
         "kind": "ballistic",
@@ -5853,7 +5853,7 @@
         "mods": [],
         "type": "Ranged"
       },
-      {
+      "Throwing Knife": {
         "name": "Throwing Knife",
         "category": "Thrown",
         "kind": "ballistic",
@@ -5867,7 +5867,7 @@
         "mods": [],
         "type": "Ranged"
       },
-      {
+      "Sheepsquatch Shard": {
         "name": "Sheepsquatch Shard",
         "category": "Thrown",
         "kind": "ballistic",
@@ -5881,7 +5881,7 @@
         "mods": [],
         "type": "Ranged"
       },
-      {
+      "Meat Cleaver": {
         "name": "Meat Cleaver",
         "category": "Thrown",
         "kind": "ballistic",
@@ -5895,6 +5895,6 @@
         "mods": [],
         "type": "Ranged"
       }
-    ]
+    }
   }
 }
