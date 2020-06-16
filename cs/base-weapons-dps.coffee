@@ -57,39 +57,36 @@ indent = () ->
 outdent = () ->
   indented = indented.slice(2)
 
-console.log args
+totalDamage = (weapon, i) ->
+  total = weapon.damage[i]
+  total += weapon.damageEnergy[i] if weapon.damageEnergy? 
+  total += weapon.damageRadiation[i] if weapon.damageRadiation?
+  return total
 
 fs.readFile "data/weapons.json", (err, data) ->
   throw err if err
   db = JSON.parse(data)
-  for typeId, type of db
-    if not args.type? or typeId is args.type
+  for typeName, type of db
+    if not args.type? or typeName is args.type
       if not args.category? and not args.weapon?
-        console.log "#{typeId}:"
+        console.log "#{typeName}:"
         indent()
-      for categoryId, category of type
-        if not args.category? or categoryId is args.category
+      for categoryName, category of type
+        if not args.category? or categoryName is args.category
           if not args.weapon?
-            console.log indented + "#{categoryId}:"
+            console.log indented + "#{categoryName}:"
             indent()
-          for weapon in category
-            if not args.weapon? or weapon.name is args.weapon
+          for weaponName, weapon of category
+            if not args.weapon? or weaponName is args.weapon
               if args.level > 0
                 i = atMost(weapon.level, args.level)
                 if i?
-                  damage = weapon.damage[i]
-                  damage += weapon.damageEnergy[i] if weapon.damageEnergy? 
-                  damage += weapon.damageRadiation[i] if weapon.damageRadiation?
-                  console.log indented + "#{weapon.name}(#{weapon.level[i]}): #{Number(damage*weapon.speed).toFixed(0)}"
+                  console.log indented + "#{weaponName}(#{weapon.level[i]}): #{Number(totalDamage(weapon, i)*weapon.speed).toFixed(0)}"
               else
-                console.log indented + "#{weapon.name}:"
+                console.log indented + "#{weaponName}:"
                 for level, i in weapon.level
-                  damage = weapon.damage[i]
-                  damage += weapon.damageEnergy[i] if weapon.damageEnergy? 
-                  damage += weapon.damageRadiation[i] if weapon.damageRadiation?
-                  console.log indented + "  #{level}: #{Number(damage*weapon.speed).toFixed(0)}"
+                  console.log indented + "  #{level}: #{Number(totalDamage(weapon, i)*weapon.speed).toFixed(0)}"
           if not args.weapon?
             outdent()
       if not args.category? and not args.weapon?
         outdent()
-
