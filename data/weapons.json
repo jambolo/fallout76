@@ -1,0 +1,5900 @@
+{
+  "Melee": {
+    "One-handed": [
+      {
+        "name": "Board",
+        "category": "One-handed",
+        "strengthFactor": 0.1,
+        "speed": 0.55,
+        "level": [
+          1,
+          5,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          14,
+          18,
+          22,
+          26,
+          30,
+          33
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Spiked",
+                "damageMultPercent": 15,
+                "ignoreDRPercent": 10
+              },
+              {
+                "name": "Puncturing",
+                "damageMultPercent": 20,
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Bladed",
+                "damageMultPercent": 25
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Sheepsquatch Club",
+        "category": "One-handed",
+        "speed": 0.55,
+        "level": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          20,
+          30,
+          40,
+          50,
+          60
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Machete",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          1,
+          5,
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          15,
+          17,
+          20,
+          25,
+          30,
+          35,
+          40
+        ],
+        "mods": [
+          {
+            "slot": "Blade",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Serrated",
+                "damageMultPercent": 20
+              },
+              {
+                "name": "Sacrificial",
+                "damageMultPercent": 15
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Bowie Knife",
+        "category": "One-handed",
+        "kind": "knife",
+        "speed": 1.26,
+        "level": [
+          10,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          10,
+          15,
+          20,
+          25,
+          30
+        ],
+        "mods": [],
+        "type": "Melee"
+      },
+      {
+        "name": "Cultist Blade",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          21,
+          26,
+          31,
+          36,
+          41
+        ],
+        "mods": [],
+        "type": "Melee"
+      },
+      {
+        "name": "Cultist Dagger",
+        "category": "One-handed",
+        "kind": "knife",
+        "speed": 1.26,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          20,
+          25,
+          28,
+          32
+        ],
+        "mods": [],
+        "type": "Melee"
+      },
+      {
+        "name": "Multi-purpose Axe",
+        "category": "One-handed",
+        "speed": 0.55,
+        "level": [
+          1,
+          5,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          26,
+          32,
+          42,
+          52,
+          62,
+          69
+        ],
+        "mods": [],
+        "type": "Melee"
+      },
+      {
+        "name": "Combat Knife",
+        "category": "One-handed",
+        "kind": "knife",
+        "speed": 1.26,
+        "level": [
+          1,
+          5,
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          9,
+          13,
+          17,
+          21,
+          25,
+          29,
+          33
+        ],
+        "mods": [
+          {
+            "slot": "Blade",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Serrated",
+                "damageMultPercent": 10
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Hatchet",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          1,
+          5,
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          15,
+          17,
+          20,
+          25,
+          30,
+          35,
+          40
+        ],
+        "mods": [],
+        "type": "Melee"
+      },
+      {
+        "name": "Ski Sword",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          35,
+          40,
+          45,
+          50
+        ],
+        "mods": [
+          {
+            "slot": "Blade",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Metal Shards",
+                "damageMultPercent": 20
+              },
+              {
+                "name": "Skate",
+                "damageMultPercent": 10
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Rolling pin",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          1,
+          5,
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          9,
+          12,
+          15,
+          19,
+          22,
+          25,
+          28
+        ],
+        "mods": [
+          {
+            "slot": "Blade",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Sharp",
+                "damageMultPercent": 10
+              },
+              {
+                "name": "Spiked",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Chef's",
+                "damageMultPercent": 20
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Lead Pipe",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          1,
+          5,
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          14,
+          16,
+          19,
+          24,
+          29,
+          34,
+          39
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Heavy",
+                "damageMultPercent": 10
+              },
+              {
+                "name": "Spiked",
+                "damageMultPercent": 10,
+                "ignoreDRPercent": 20
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Tire Iron",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          1,
+          5,
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          12,
+          14,
+          17,
+          20,
+          23,
+          26,
+          29
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Bladed",
+                "damageMultPercent": 10
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Blade of Bastet",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          42,
+          46,
+          52
+        ],
+        "mods": [
+          {
+            "slot": "Blade",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Serrated",
+                "damageMultPercent": 20
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Guitar Sword",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          35,
+          40,
+          45,
+          50
+        ],
+        "mods": [],
+        "type": "Melee"
+      },
+      {
+        "name": "Assaultron Blade",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          28,
+          33,
+          40
+        ],
+        "mods": [],
+        "type": "Melee"
+      },
+      {
+        "name": "Revolutionary Sword",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          24,
+          29,
+          34,
+          39,
+          44
+        ],
+        "mods": [
+          {
+            "slot": "Blade",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Serrated",
+                "damageMultPercent": 10
+              },
+              {
+                "name": "Electrified",
+                "addDamageEnergyPercentLeveled": [
+                  10,
+                  15,
+                  20,
+                  25,
+                  30
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Walking Cane",
+        "category": "One-handed",
+        "strengthFactor": 0.1,
+        "speed": 0.88,
+        "level": [
+          1,
+          5,
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          17,
+          19,
+          22,
+          27,
+          32,
+          37,
+          42
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Barbed",
+                "damageMultPercent": 10,
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Spiked",
+                "damageMultPercent": 10
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Security Baton",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          5,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          15,
+          25,
+          30,
+          35,
+          40
+        ],
+        "mods": [],
+        "type": "Melee"
+      },
+      {
+        "name": "Pipe Wrench",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          1,
+          5,
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          13,
+          15,
+          18,
+          21,
+          24,
+          27,
+          30
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Hooked",
+                "damageMultPercent": 10
+              },
+              {
+                "name": "Heavy",
+                "damageMultPercent": 15
+              },
+              {
+                "name": "Extra Heavy",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Puncturing",
+                "damageMultPercent": 10,
+                "ignoreDRPercent": 20
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Ripper",
+        "category": "One-handed",
+        "speed": 4.2,
+        "level": [
+          40
+        ],
+        "damage": [
+          3
+        ],
+        "mods": [
+          {
+            "slot": "Blade",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Extended",
+                "damageMultPercent": 66.6
+              },
+              {
+                "name": "Curved",
+                "damageMultPercent": 33.3,
+                "ignoreDRPercent": 20
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Mr. Handy Buzz Blade",
+        "category": "One-handed",
+        "speed": 4.2,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "mods": [
+          {
+            "slot": "Blade",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Electrified",
+                "addDamageEnergyPercentLeveled": [
+                  10,
+                  15,
+                  20,
+                  25
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Chinese Officer Sword",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          5,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          16,
+          21,
+          26,
+          31,
+          36
+        ],
+        "mods": [
+          {
+            "slot": "Blade",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Serrated",
+                "damageMultPercent": 10
+              },
+              {
+                "name": "Electrified",
+                "addDamageEnergyPercentLeveled": [
+                  5,
+                  10,
+                  15,
+                  20,
+                  25
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Shishkebab",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          35,
+          45
+        ],
+        "damage": [
+          22,
+          27
+        ],
+        "damageEnergy": [
+          22,
+          27
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Extra Flame Jets",
+                "addDamageEnergyLeveled": [
+                  8,
+                  9.5
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Drill",
+        "category": "One-handed",
+        "strengthFactor": 0.1,
+        "speed": 4.2,
+        "level": [
+          20
+        ],
+        "damage": [
+          14
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Piercing",
+                "damageMultPercent": 15,
+                "ignoreDRPercent": 20
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Spear",
+        "category": "One-handed",
+        "strengthFactor": 0.1,
+        "speed": 0.62,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          43,
+          48,
+          53,
+          58
+        ],
+        "mods": [],
+        "type": "Melee"
+      },
+      {
+        "name": "Bone Club",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          21,
+          31,
+          41,
+          51
+        ],
+        "mods": [],
+        "type": "Melee"
+      },
+      {
+        "name": "Cattle Prod",
+        "category": "One-handed",
+        "speed": 0.88,
+        "level": [
+          5,
+          10,
+          15,
+          20,
+          25,
+          30,
+          35,
+          40,
+          45,
+          50
+        ],
+        "damage": [
+          18,
+          22,
+          30,
+          33,
+          36,
+          39,
+          42,
+          45,
+          48,
+          54
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Electrified",
+                "addDamageEnergyLeveled": [
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      }
+    ],
+    "Unarmed": [
+      {
+        "name": "Deathclaw Gauntlet",
+        "category": "Unarmed",
+        "kind": "unarmed",
+        "speed": 0.88,
+        "level": [
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          45,
+          50,
+          55
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Extra claw",
+                "damageMultPercent": 20
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Power Fist",
+        "category": "Unarmed",
+        "kind": "unarmed",
+        "speed": 0.88,
+        "level": [
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          48,
+          53,
+          58
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Puncturing",
+                "ignoreDRPercent": 20
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Mole Miner Gauntlet",
+        "category": "Unarmed",
+        "kind": "unarmed",
+        "strengthFactor": 0.1,
+        "speed": 0.88,
+        "level": [
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Third Blade",
+                "damageMultPercent": 15
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Death Tambo",
+        "category": "Unarmed",
+        "kind": "unarmed",
+        "speed": 0.88,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "mods": [],
+        "type": "Melee"
+      },
+      {
+        "name": "Boxing Glove",
+        "category": "Unarmed",
+        "kind": "unarmed",
+        "speed": 0.88,
+        "level": [
+          5,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          13,
+          18,
+          23,
+          28,
+          34
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Lead Lining",
+                "damageMultPercent": 20
+              },
+              {
+                "name": "Spiked",
+                "damageMultPercent": 10
+              },
+              {
+                "name": "Puncturing",
+                "ignoreDRPercent": 20
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Knuckles",
+        "category": "Unarmed",
+        "kind": "unarmed",
+        "speed": 0.88,
+        "level": [
+          1,
+          5,
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          8,
+          10,
+          15,
+          20,
+          25,
+          30,
+          35
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Sharp",
+                "damageMultPercent": 10
+              },
+              {
+                "name": "Bladed",
+                "damageMultPercent": 10
+              },
+              {
+                "name": "Spiked",
+                "damageMultPercent": 10
+              },
+              {
+                "name": "Puncturing",
+                "damageMultPercent": 10,
+                "ignoreDRPercent": 20
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Meat Hook",
+        "category": "Unarmed",
+        "kind": "unarmed",
+        "speed": 0.88,
+        "level": [
+          5,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          14,
+          19,
+          24,
+          29,
+          34
+        ],
+        "mods": [
+          {
+            "slot": "Hooks",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Extra",
+                "damageMultPercent": 20
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Bear Arm",
+        "category": "Unarmed",
+        "kind": "unarmed",
+        "speed": 0.55,
+        "level": [
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          35,
+          40,
+          45,
+          50
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Heavy",
+                "damageMultPercent": 10
+              },
+              {
+                "name": "Puncturing",
+                "ignoreDRPercent": 20
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Gauntlet",
+        "category": "Unarmed",
+        "speed": 0.88,
+        "level": [
+          40,
+          50
+        ],
+        "damage": [
+          45,
+          50
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Bladed",
+                "damageMultPercent": 15
+              },
+              {
+                "name": "Shock Pads",
+                "addDamageEnergyLeveled": [
+                  20,
+                  20
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      }
+    ],
+    "Two-handed": [
+      {
+        "name": "Super Sledge",
+        "category": "Two-handed",
+        "speed": 0.55,
+        "level": [
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          65,
+          75,
+          85
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Heating coil",
+                "addDamageEnergyLeveled": [
+                  5,
+                  7.5,
+                  10
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Tenderizer",
+        "category": "Two-handed",
+        "speed": 0.55,
+        "level": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          35,
+          45,
+          55,
+          67,
+          75
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Peppered",
+                "damageMultPercent": 4
+              },
+              {
+                "name": "Salty",
+                "damageMultPercent": 16
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Sheepsquatch Staff",
+        "category": "Two-handed",
+        "speed": 0.55,
+        "level": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          35,
+          45,
+          55,
+          65,
+          75
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Pickaxe",
+        "category": "Two-handed",
+        "speed": 0.55,
+        "level": [
+          5,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          32,
+          41,
+          48,
+          55,
+          60
+        ],
+        "mods": [
+          {
+            "slot": "Blade",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Sharp",
+                "damageMultPercent": 15
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Fire Axe",
+        "category": "Two-handed",
+        "speed": 0.55,
+        "level": [
+          5,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          35,
+          45,
+          55,
+          65,
+          72
+        ],
+        "mods": [
+          {
+            "slot": "Blade",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Spikes",
+                "ignoreDRPercent": 20
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Pitchfork",
+        "category": "Two-handed",
+        "strengthFactor": 0.1,
+        "speed": 0.88,
+        "level": [
+          1,
+          5,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          22,
+          27,
+          32,
+          37,
+          42,
+          47
+        ],
+        "mods": [
+          {
+            "slot": "Forks",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Barbed",
+                "damageMultPercent": 15
+              },
+              {
+                "name": "Flaming",
+                "damageMultPercent": 15,
+                "addDamageEnergyLeveled": [
+                  2,
+                  3.5,
+                  5,
+                  6.5,
+                  8,
+                  9.5
+                ]
+              },
+              {
+                "name": "Barbed Flaming",
+                "damageMultPercent": 15,
+                "addDamageEnergyLeveled": [
+                  2,
+                  3.5,
+                  5,
+                  6.5,
+                  8,
+                  9.5
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "War Drum",
+        "category": "Two-handed",
+        "speed": 0.55,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          48,
+          58,
+          68,
+          78
+        ],
+        "mods": [],
+        "type": "Melee"
+      },
+      {
+        "name": "Grognak's Axe",
+        "category": "Two-handed",
+        "speed": 0.55,
+        "level": [
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          65,
+          75,
+          85
+        ],
+        "mods": [],
+        "type": "Melee"
+      },
+      {
+        "name": "Sledgehammer",
+        "category": "Two-handed",
+        "speed": 0.55,
+        "level": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          43,
+          50,
+          57,
+          65,
+          71
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Sharp",
+                "damageMultPercent": 15
+              },
+              {
+                "name": "Heavy",
+                "damageMultPercent": 20,
+                "ignoreDRPercent": 15
+              },
+              {
+                "name": "Heavy Rocket",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Heavy Spiked",
+                "damageMultPercent": 25,
+                "ignoreDRPercent": 15
+              },
+              {
+                "name": "Heavy Sharp",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Heavy Shearing Sharp Rocket",
+                "damageMultPercent": 15,
+                "addDamageEnergyLeveled": [
+                  3,
+                  4.5,
+                  7,
+                  8.5,
+                  10
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Baseball Bat",
+        "category": "Two-handed",
+        "strengthFactor": 0.1,
+        "speed": 0.55,
+        "level": [
+          1,
+          5,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          28,
+          35,
+          40,
+          45,
+          50,
+          55
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Barbed Wire",
+                "damageMultPercent": 20,
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Nails",
+                "damageMultPercent": 25,
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Razors",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Chains",
+                "damageMultPercent": 50
+              },
+              {
+                "name": "Saw Blades",
+                "damageMultPercent": 75
+              },
+              {
+                "name": "Bladed Rocket",
+                "damageMultPercent": 75
+              },
+              {
+                "name": "Heated Rocket",
+                "damageMultPercent": 20
+              },
+              {
+                "name": "Spiked Rocket",
+                "damageMultPercent": 25,
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Puncturing Rocket",
+                "damageMultPercent": 25,
+                "ignoreDRPercent": 20
+              }
+            ]
+          },
+          {
+            "slot": "Material",
+            "options": [
+              {
+                "name": "Wood"
+              },
+              {
+                "name": "All Star",
+                "damageMultPercent": 20
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Pole Hook",
+        "category": "Two-handed",
+        "speed": 0.55,
+        "level": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          43,
+          50,
+          57,
+          65,
+          71
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Multihook",
+                "damageMultPercent": 50,
+                "ignoreDRPercent": 20
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Sheperd's Crook",
+        "category": "Two-handed",
+        "speed": 0.55,
+        "level": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "mods": [
+          {
+            "slot": "Main",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Spiked",
+                "damageMultPercent": 10,
+                "ignoreDRPercent": 20
+              }
+            ]
+          }
+        ],
+        "type": "Melee"
+      },
+      {
+        "name": "Bone Hammer",
+        "category": "Two-handed",
+        "speed": 0.55,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          50,
+          60,
+          70,
+          80
+        ],
+        "mods": [],
+        "type": "Melee"
+      },
+      {
+        "name": "Shovel",
+        "category": "Two-handed",
+        "speed": 0.55,
+        "level": [
+          1,
+          5,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          15,
+          20,
+          25,
+          30,
+          35,
+          40
+        ],
+        "mods": [],
+        "type": "Melee"
+      }
+    ]
+  },
+  "Ranged": {
+    "Rifle": [
+      {
+        "name": "Handmade",
+        "category": "Rifle",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": true,
+        "speed": 4,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Automatic",
+                "damageMultPercent": -10,
+                "speedAddPercent": 87.5
+              },
+              {
+                "name": "Powerful Automatic",
+                "damageMultPercent": 11.11,
+                "speedAddPercent": 87.5
+              },
+              {
+                "name": "Scorch killer's",
+                "damageMultPercent": -20,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusAddPercent": 50
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              },
+              {
+                "name": "Prime Automatic",
+                "damageMultPercent": 15,
+                "speedAddPercent": 87.5,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Magazine",
+            "options": [
+              {
+                "name": "Standard",
+                "ignoreDRPercent": 0
+              },
+              {
+                "name": "Stinging",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Piercing",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Perforating",
+                "ignoreDRPercent": 40
+              }
+            ]
+          },
+          {
+            "slot": "Muzzle",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Suppressor",
+                "silencer": true
+              }
+            ]
+          },
+          {
+            "slot": "Sights",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Short scope",
+                "scope": true
+              },
+              {
+                "name": "Medium scope",
+                "scope": true
+              },
+              {
+                "name": "Long scope",
+                "scope": true
+              },
+              {
+                "name": "Short night vision scope",
+                "scope": true
+              },
+              {
+                "name": "Medium night vision scope",
+                "scope": true
+              },
+              {
+                "name": "Long night vision scope",
+                "scope": true
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Hunting Rifle",
+        "category": "Rifle",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": true,
+        "speed": 0.3,
+        "level": [
+          1,
+          5,
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          40,
+          45,
+          50,
+          55,
+          60,
+          65,
+          70
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": ".38",
+                "damageMultPercent": -25
+              },
+              {
+                "name": ".50",
+                "damageMultPercent": 33.3
+              },
+              {
+                "name": "Scorch killer's",
+                "damageMultPercent": -20,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusAddPercent": 50
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 40,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Magazine",
+            "options": [
+              {
+                "name": "Standard",
+                "ignoreDRPercent": 0
+              },
+              {
+                "name": "Stinging",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Piercing",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Perforating",
+                "ignoreDRPercent": 40
+              }
+            ]
+          },
+          {
+            "slot": "Muzzle",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Suppressor",
+                "silencer": true
+              }
+            ]
+          },
+          {
+            "slot": "Sights",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Short scope",
+                "scope": true
+              },
+              {
+                "name": "Medium scope",
+                "scope": true
+              },
+              {
+                "name": "Long scope",
+                "scope": true
+              },
+              {
+                "name": "Short night vision scope",
+                "scope": true
+              },
+              {
+                "name": "Medium night vision scope",
+                "scope": true
+              },
+              {
+                "name": "Long night vision scope",
+                "scope": true
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Lever Action Rifle",
+        "category": "Rifle",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": true,
+        "speed": 0.5,
+        "level": [
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          65,
+          70,
+          75
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Scorch killer's",
+                "damageMultPercent": -20,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusAddPercent": 50
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Muzzle",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Suppressor",
+                "silencer": true
+              }
+            ]
+          },
+          {
+            "slot": "Sights",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Short scope",
+                "scope": true
+              },
+              {
+                "name": "Medium scope",
+                "scope": true
+              },
+              {
+                "name": "Long scope",
+                "scope": true
+              },
+              {
+                "name": "Short night vision scope",
+                "scope": true
+              },
+              {
+                "name": "Medium night vision scope",
+                "scope": true
+              },
+              {
+                "name": "Long night vision scope",
+                "scope": true
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Black Powder Rifle",
+        "category": "Rifle",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 0.1,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          150,
+          160,
+          170,
+          180
+        ],
+        "mods": [],
+        "type": "Ranged"
+      },
+      {
+        "name": "The Dragon",
+        "category": "Rifle",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 0.1,
+        "level": [
+          35,
+          45
+        ],
+        "damage": [
+          200,
+          225
+        ],
+        "mods": [],
+        "type": "Ranged"
+      },
+      {
+        "name": "Assault Rifle",
+        "category": "Rifle",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": true,
+        "speed": 4,
+        "level": [
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          25,
+          29,
+          33
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Automatic",
+                "damageMultPercent": -10,
+                "speedAddPercent": 87.5
+              },
+              {
+                "name": "Powerful Automatic",
+                "damageMultPercent": 11.11,
+                "speedAddPercent": 87.5
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Scorch killer's",
+                "damageMultPercent": -20,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusAddPercent": 50
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              },
+              {
+                "name": "Prime Automatic",
+                "damageMultPercent": 15,
+                "speedAddPercent": 87.5,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Magazine",
+            "options": [
+              {
+                "name": "Standard",
+                "ignoreDRPercent": 0
+              },
+              {
+                "name": "Stinging",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Piercing",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Perforating",
+                "ignoreDRPercent": 40
+              }
+            ]
+          },
+          {
+            "slot": "Muzzle",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Suppressor",
+                "silencer": true
+              }
+            ]
+          },
+          {
+            "slot": "Sights",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Short scope",
+                "scope": true
+              },
+              {
+                "name": "Medium scope",
+                "scope": true
+              },
+              {
+                "name": "Long scope",
+                "scope": true
+              },
+              {
+                "name": "Short night vision scope",
+                "scope": true
+              },
+              {
+                "name": "Medium night vision scope",
+                "scope": true
+              },
+              {
+                "name": "Long night vision scope",
+                "scope": true
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Railway Rifle",
+        "category": "Rifle",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 1,
+        "level": [
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          75,
+          85,
+          95
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Automatic",
+                "damageMultPercent": -10,
+                "speedAddPercent": 650
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Combat Rifle",
+        "category": "Rifle",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": true,
+        "speed": 3.3,
+        "level": [
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          28,
+          32,
+          36,
+          40
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Automatic",
+                "damageMultPercent": -10,
+                "speedAddPercent": 127.2727272727273
+              },
+              {
+                "name": "Powerful Automatic",
+                "damageMultPercent": 11.11,
+                "speedAddPercent": 127.2727272727273
+              },
+              {
+                "name": "Hair Triggered",
+                "speedAddPercent": 51.515151515151516
+              },
+              {
+                "name": "Focused",
+                "speedAddPercent": 127.2727272727273
+              },
+              {
+                "name": "Hasty .38",
+                "damageMultPercent": -25,
+                "speedAddPercent": 21.212121212121215
+              },
+              {
+                "name": "Refined .38",
+                "damageMultPercent": -8.75
+              },
+              {
+                "name": "Severe",
+                "damageMultPercent": 8.75
+              },
+              {
+                "name": "Steadfast",
+                "speedAddPercent": 21.212121212121215
+              },
+              {
+                "name": "Tweaked Automatic",
+                "speedAddPercent": 127.2727272727273
+              },
+              {
+                "name": "True"
+              },
+              {
+                "name": "Vicious"
+              },
+              {
+                "name": "Vigorous",
+                "speedAddPercent": 21.212121212121215
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Scorch killer's",
+                "damageMultPercent": -20,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusAddPercent": 50
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              },
+              {
+                "name": "Prime Automatic",
+                "damageMultPercent": 15,
+                "speedAddPercent": 127.2727272727273,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Magazine",
+            "options": [
+              {
+                "name": "Standard",
+                "ignoreDRPercent": 0
+              },
+              {
+                "name": "Stinging",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Piercing",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Perforating",
+                "ignoreDRPercent": 40
+              }
+            ]
+          },
+          {
+            "slot": "Muzzle",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Suppressor",
+                "silencer": true
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "The Fixer",
+        "category": "Rifle",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": true,
+        "speed": 3.3,
+        "level": [
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          33,
+          38,
+          43,
+          48
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Automatic",
+                "damageMultPercent": -10,
+                "speedAddPercent": 127.2727272727273
+              },
+              {
+                "name": "Powerful Automatic",
+                "damageMultPercent": 11.11,
+                "speedAddPercent": 127.2727272727273
+              },
+              {
+                "name": "Hair Triggered",
+                "speedAddPercent": 51.515151515151516
+              },
+              {
+                "name": "Focused",
+                "speedAddPercent": 127.2727272727273
+              },
+              {
+                "name": "Hasty .38",
+                "damageMultPercent": -25,
+                "speedAddPercent": 21.212121212121215
+              },
+              {
+                "name": "Refined .38",
+                "damageMultPercent": -8.75
+              },
+              {
+                "name": "Severe",
+                "damageMultPercent": 8.75
+              },
+              {
+                "name": "Steadfast",
+                "speedAddPercent": 21.212121212121215
+              },
+              {
+                "name": "Tweaked Automatic",
+                "speedAddPercent": 127.2727272727273
+              },
+              {
+                "name": "True"
+              },
+              {
+                "name": "Vicious"
+              },
+              {
+                "name": "Calibrated",
+                "preinstalled": true
+              },
+              {
+                "name": "Vigorous",
+                "speedAddPercent": 21.212121212121215
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Scorch killer's",
+                "damageMultPercent": -20,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusAddPercent": 50
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              },
+              {
+                "name": "Prime Automatic",
+                "damageMultPercent": 15,
+                "speedAddPercent": 127.2727272727273,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Magazine",
+            "options": [
+              {
+                "name": "Standard",
+                "ignoreDRPercent": 0
+              },
+              {
+                "name": "Stinging",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Piercing",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Perforating",
+                "ignoreDRPercent": 40,
+                "preinstalled": true
+              }
+            ]
+          },
+          {
+            "slot": "Muzzle",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Suppressor",
+                "silencer": true,
+                "preinstalled": true
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Submachine Gun",
+        "category": "Rifle",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": true,
+        "speed": 7.5,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          18,
+          22,
+          25,
+          29
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Armor-piercing",
+                "ignoreDRPercent": 40
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Scorch killer's",
+                "damageMultPercent": -20,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusAddPercent": 50
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Muzzle",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Suppressor",
+                "silencer": true
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "10mm SMG",
+        "category": "Rifle",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": true,
+        "speed": 9.1,
+        "level": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          17,
+          19,
+          23,
+          28,
+          34
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Refined",
+                "damageMultPercent": 12.5
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Scorch killer's",
+                "damageMultPercent": -20,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusAddPercent": 50
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Magazine",
+            "options": [
+              {
+                "name": "Standard",
+                "ignoreDRPercent": 0
+              },
+              {
+                "name": "Piercing",
+                "ignoreDRPercent": 20
+              }
+            ]
+          },
+          {
+            "slot": "Muzzle",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Suppressor",
+                "silencer": true
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Old Guard's 10mm SMG",
+        "category": "Rifle",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": true,
+        "special": true,
+        "info": "WeaponOldGuard",
+        "speed": 100,
+        "level": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          17,
+          19,
+          23,
+          28,
+          34
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Refined",
+                "damageMultPercent": 12.5,
+                "preinstalled": true
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Scorch killer's",
+                "damageMultPercent": -20,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusAddPercent": 50
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Magazine",
+            "options": [
+              {
+                "name": "Standard",
+                "ignoreDRPercent": 0
+              },
+              {
+                "name": "Piercing",
+                "ignoreDRPercent": 20,
+                "preinstalled": true
+              }
+            ]
+          },
+          {
+            "slot": "Muzzle",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Suppressor",
+                "silencer": true
+              }
+            ]
+          }
+        ],
+        "legendaryPrefix": "Anti-armor",
+        "type": "Ranged"
+      },
+      {
+        "name": "Pipe Bolt-action Rifle",
+        "category": "Rifle",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 0.3,
+        "level": [
+          1,
+          5,
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          40,
+          45,
+          50,
+          55,
+          60,
+          65,
+          70
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Pipe Revolver Rifle",
+        "category": "Rifle",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 0.6,
+        "level": [
+          1,
+          5,
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          27,
+          31,
+          36,
+          40,
+          45,
+          50,
+          55
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Pipe Rifle",
+        "category": "Rifle",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 6,
+        "level": [
+          1,
+          5,
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          12,
+          13,
+          15,
+          18,
+          21,
+          23,
+          26
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Automatic",
+                "damageMultPercent": -10,
+                "speedAddPercent": 50
+              },
+              {
+                "name": "Powerful Automatic",
+                "damageMultPercent": 11.11,
+                "speedAddPercent": 50
+              },
+              {
+                "name": "Prime Automatic",
+                "damageMultPercent": 15,
+                "speedAddPercent": 50,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Magazine",
+            "options": [
+              {
+                "name": "Standard",
+                "ignoreDRPercent": 0
+              },
+              {
+                "name": "Stinging",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Piercing",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Perforating",
+                "ignoreDRPercent": 40
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Gauss Rifle",
+        "category": "Rifle",
+        "kind": "energy",
+        "explosive": false,
+        "silencer": true,
+        "chargetime": 1,
+        "speed": 6.7,
+        "explosiveDamageMult": 15,
+        "level": [
+          35,
+          45
+        ],
+        "damage": [
+          125,
+          140
+        ],
+        "mods": [
+          {
+            "slot": "Capacitors",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Stinging",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Piercing",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Perforating",
+                "ignoreDRPercent": 40
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Muzzle",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Suppressor",
+                "silencer": true
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Radium Rifle",
+        "category": "Rifle",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": true,
+        "speed": 4,
+        "level": [
+          40,
+          50
+        ],
+        "damage": [
+          33,
+          37
+        ],
+        "damageRadiation": [
+          13,
+          15
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Magazine",
+            "options": [
+              {
+                "name": "Standard",
+                "ignoreDRPercent": 0
+              },
+              {
+                "name": "Stinging",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Piercing",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Perforating",
+                "ignoreDRPercent": 40
+              }
+            ]
+          },
+          {
+            "slot": "Muzzle",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Suppressor",
+                "silencer": true
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Laser Rifle",
+        "category": "Rifle",
+        "kind": "laser",
+        "explosive": false,
+        "silencer": false,
+        "speed": 5,
+        "level": [
+          5,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "damageEnergy": [
+          21,
+          26,
+          31,
+          36,
+          44
+        ],
+        "mods": [
+          {
+            "slot": "Capacitor",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Sniper",
+                "damageMultPercent": 25
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Ultracite Laser Rifle",
+        "category": "Rifle",
+        "kind": "laser",
+        "explosive": false,
+        "silencer": false,
+        "speed": 5,
+        "level": [
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "damageEnergy": [
+          28,
+          31,
+          34
+        ],
+        "mods": [
+          {
+            "slot": "Capacitor",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Sniper",
+                "damageMultPercent": 25
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Plasma Rifle",
+        "category": "Rifle",
+        "kind": "plasma",
+        "explosive": false,
+        "silencer": false,
+        "speed": 3.3,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          15,
+          21,
+          25,
+          29
+        ],
+        "damageEnergy": [
+          15,
+          21,
+          25,
+          29
+        ],
+        "mods": [
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Flamer",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Splitter",
+                "damageMultPercent": 10
+              },
+              {
+                "name": "Sniper",
+                "damageMultPercent": 50
+              },
+              {
+                "name": "Automatic",
+                "damageMultPercent": -15
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Slug Buster",
+        "category": "Rifle",
+        "kind": "plasma",
+        "info": "WeaponSlugBuster",
+        "special": true,
+        "explosive": false,
+        "silencer": false,
+        "speed": 3.3,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          15,
+          21,
+          25,
+          29
+        ],
+        "damageEnergy": [
+          15,
+          21,
+          25,
+          29
+        ],
+        "mods": [
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Flamer",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Splitter",
+                "damageMultPercent": 10
+              },
+              {
+                "name": "Sniper",
+                "damageMultPercent": 50,
+                "preinstalled": true
+              },
+              {
+                "name": "Automatic",
+                "damageMultPercent": -15
+              }
+            ]
+          },
+          {
+            "slot": "Scope",
+            "options": [
+              {
+                "name": "None"
+              },
+              {
+                "name": "Medium Night Vision Scope",
+                "scope": true,
+                "preinstalled": true
+              }
+            ]
+          }
+        ],
+        "legendaryPrefix": "Anti-armor",
+        "type": "Ranged"
+      },
+      {
+        "name": "Enclave Plasma Rifle",
+        "category": "Rifle",
+        "kind": "plasma",
+        "explosive": false,
+        "silencer": false,
+        "speed": 3.3,
+        "level": [
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          24,
+          28,
+          32
+        ],
+        "damageEnergy": [
+          24,
+          28,
+          32
+        ],
+        "mods": [
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Flamer",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Splitter",
+                "damageMultPercent": 10
+              },
+              {
+                "name": "Sniper",
+                "damageMultPercent": 50
+              },
+              {
+                "name": "Automatic",
+                "damageMultPercent": -15
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Tesla Rifle",
+        "category": "Rifle",
+        "kind": "energy",
+        "explosive": false,
+        "silencer": false,
+        "speed": 2,
+        "level": [
+          40,
+          50
+        ],
+        "damage": [
+          0,
+          0
+        ],
+        "damageEnergy": [
+          66,
+          78
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Automatic",
+                "damageMultPercent": -15,
+                "speedAddPercent": 355
+              },
+              {
+                "name": "Charging",
+                "damageMultPercent": 30
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      }
+    ],
+    "Heavy": [
+      {
+        "name": "Gatling Gun",
+        "category": "Heavy",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 2,
+        "level": [
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          43,
+          57,
+          72,
+          86
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Speedy",
+                "speedAddPercent": 25
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "50 Cal Machine Gun",
+        "category": "Heavy",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 9.1,
+        "level": [
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          29,
+          36,
+          43
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard",
+                "ignoreDRPercent": 0
+              },
+              {
+                "name": "Heavy",
+                "damageMultPercent": 15
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Final Word",
+        "category": "Heavy",
+        "kind": "ballistic",
+        "explosive": false,
+        "special": true,
+        "info": "WeaponFinalWord",
+        "speed": 9.1,
+        "level": [
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          29,
+          36,
+          43
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard",
+                "ignoreDRPercent": 0
+              },
+              {
+                "name": "Heavy",
+                "damageMultPercent": 15,
+                "preinstalled": true
+              }
+            ]
+          }
+        ],
+        "legendaryPrefix": "Anti-armor",
+        "legendaryMajor": "25% increased fire rate",
+        "type": "Ranged"
+      },
+      {
+        "name": "Light Machine Gun",
+        "category": "Heavy",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 15.9,
+        "level": [
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          29,
+          34,
+          42
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 10,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Minigun",
+        "category": "Heavy",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 18.2,
+        "level": [
+          35,
+          45
+        ],
+        "damage": [
+          20,
+          24
+        ],
+        "mods": [
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Accelerated",
+                "damageMultPercent": 10,
+                "speedAddPercent": 25
+              },
+              {
+                "name": "Tri",
+                "damageMultPercent": 20,
+                "speedAddPercent": -25
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 15,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Broadsider",
+        "category": "Heavy",
+        "kind": "ballistic",
+        "explosive": true,
+        "speed": 0.3,
+        "level": [
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          95,
+          115,
+          135
+        ],
+        "mods": [],
+        "type": "Ranged"
+      },
+      {
+        "name": "Harpoon Gun",
+        "category": "Heavy",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 0.2,
+        "level": [
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          125,
+          150,
+          175
+        ],
+        "mods": [
+          {
+            "slot": "Ammunition",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Flechette",
+                "damageMultPercent": 100
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Gatling Laser",
+        "category": "Heavy",
+        "kind": "laser",
+        "explosive": false,
+        "silencer": false,
+        "speed": 18.2,
+        "level": [
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          0,
+          0,
+          0
+        ],
+        "damageEnergy": [
+          18,
+          21,
+          25
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 9,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Charging",
+                "damageMultPercent": 55,
+                "speedAddPercent": -506.66666666666663
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Ultracite Gatling Laser",
+        "category": "Heavy",
+        "kind": "laser",
+        "explosive": false,
+        "silencer": false,
+        "speed": 18.2,
+        "level": [
+          35,
+          45
+        ],
+        "damage": [
+          0,
+          0,
+          0
+        ],
+        "damageEnergy": [
+          25,
+          28
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 9,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Charging",
+                "damageMultPercent": 55,
+                "speedAddPercent": -506.66666666666663
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Gatling Plasma",
+        "category": "Heavy",
+        "kind": "plasma",
+        "explosive": false,
+        "silencer": false,
+        "speed": 9.1,
+        "level": [
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          0,
+          0,
+          0
+        ],
+        "damageEnergy": [
+          43,
+          50,
+          58
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 5,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Cryolator",
+        "category": "Heavy",
+        "kind": "energy",
+        "explosive": false,
+        "silencer": false,
+        "speed": 9.1,
+        "level": [
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          0,
+          0,
+          0
+        ],
+        "damageEnergy": [
+          24,
+          30,
+          36
+        ],
+        "mods": [
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Chrystallizing",
+                "damageMultPercent": -25,
+                "speedAddPercent": -25,
+                "addDamageBallisticLeveled": [
+                  33.333333333333336,
+                  33.333333333333336,
+                  33.333333333333336
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Fat Man",
+        "category": "Heavy",
+        "explosive": true,
+        "speed": 0.2,
+        "level": [
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          355,
+          405,
+          455
+        ],
+        "mods": [
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "MIRV",
+                "addDamageBallisticLeveled": [
+                  145,
+                  145,
+                  145
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Missile Launcher",
+        "category": "Heavy",
+        "explosive": true,
+        "speed": 0.2,
+        "level": [
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          105,
+          125,
+          145,
+          155
+        ],
+        "mods": [],
+        "type": "Ranged"
+      },
+      {
+        "name": "M79 Grenade Launcher",
+        "category": "Heavy",
+        "explosive": true,
+        "speed": 0.2,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          90,
+          100,
+          110,
+          120
+        ],
+        "mods": [],
+        "type": "Ranged"
+      },
+      {
+        "name": "Auto Grenade Launcher",
+        "category": "Heavy",
+        "explosive": true,
+        "speed": 10,
+        "level": [
+          50
+        ],
+        "damage": [
+          75
+        ],
+        "mods": [
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Heavy",
+                "damageMultPercent": 10
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Gauss Minigun",
+        "category": "Heavy",
+        "kind": "energy",
+        "explosive": false,
+        "speed": 9.1,
+        "level": [
+          45,
+          50
+        ],
+        "damage": [
+          48,
+          50
+        ],
+        "explosiveDamageMult": 15,
+        "mods": [
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Tri",
+                "speedAddPercent": 20
+              },
+              {
+                "name": "Penta",
+                "damageMultPercent": -15,
+                "speedAddPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Tesla",
+            "options": [
+              {
+                "name": "None"
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              },
+              {
+                "name": "Dynamo",
+                "addDamageEnergyLeveled": [
+                  3,
+                  3
+                ]
+              },
+              {
+                "name": "Capacitor",
+                "addDamageEnergyLeveled": [
+                  6,
+                  6
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Plasma Caster",
+        "category": "Heavy",
+        "kind": "plasma",
+        "explosive": false,
+        "speed": 2,
+        "level": [
+          40,
+          45,
+          50
+        ],
+        "damage": [
+          60,
+          68,
+          76
+        ],
+        "damageEnergy": [
+          60,
+          68,
+          76
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Pulse",
+                "damageMultPercent": -15
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      }
+    ],
+    "Shotgun": [
+      {
+        "name": "Combat Shotgun",
+        "category": "Shotgun",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": true,
+        "speed": 2,
+        "level": [
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          60,
+          70,
+          80,
+          90
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Automatic",
+                "damageMultPercent": -10,
+                "speedAddPercent": 10
+              },
+              {
+                "name": "Powerful Automatic",
+                "damageMultPercent": 11.11,
+                "speedAddPercent": 10
+              },
+              {
+                "name": "Focused Automatic",
+                "damageMultPercent": 11.11,
+                "speedAddPercent": 10
+              },
+              {
+                "name": "Tweaked Automatic",
+                "damageMultPercent": 11.11,
+                "speedAddPercent": 10
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Refined",
+                "damageMultPercent": 12.5
+              },
+              {
+                "name": "Severe",
+                "damageMultPercent": 12.5
+              },
+              {
+                "name": "Scorch killer's",
+                "damageMultPercent": -20,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusAddPercent": 50
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              },
+              {
+                "name": "Prime Automatic",
+                "damageMultPercent": 15,
+                "speedAddPercent": 10,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Magazine",
+            "options": [
+              {
+                "name": "Standard",
+                "ignoreDRPercent": 0
+              },
+              {
+                "name": "Stinging",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Piercing",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Perforating",
+                "ignoreDRPercent": 40
+              }
+            ]
+          },
+          {
+            "slot": "Muzzle",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Suppressor",
+                "silencer": true
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Pump Action Shotgun",
+        "category": "Shotgun",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": true,
+        "speed": 3.6,
+        "level": [
+          5,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          55,
+          65,
+          75,
+          85,
+          95
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Scorch killer's",
+                "damageMultPercent": -20,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusAddPercent": 50
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Muzzle",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Suppressor",
+                "silencer": true
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Double-barrel Shotgun",
+        "category": "Shotgun",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 3.6,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          80,
+          90,
+          100,
+          115
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Powerful",
+                "damageMultPercent": 15
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Gauss Shotgun",
+        "category": "Shotgun",
+        "kind": "energy",
+        "explosive": false,
+        "speed": 6.7,
+        "chargetime": 1,
+        "explosiveDamageMult": 15,
+        "level": [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50
+        ],
+        "damage": [
+          80,
+          85,
+          90,
+          95,
+          100,
+          105
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Refined",
+                "damageMultPercent": 12.5
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Magazine",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Perforating",
+                "ignoreDRPercent": 40
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      }
+    ],
+    "Bow": [
+      {
+        "name": "Crossbow",
+        "category": "Bow",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": true,
+        "speed": 0.4,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          55,
+          60,
+          65,
+          70
+        ],
+        "mods": [
+          {
+            "slot": "Frame",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Plasma",
+                "addDamageEnergyLeveled": [
+                  20,
+                  20,
+                  20,
+                  20
+                ]
+              },
+              {
+                "name": "Cryo",
+                "addDamageEnergyLeveled": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              {
+                "name": "Explosive",
+                "addDamageExplosiveLeveled": [
+                  15,
+                  15,
+                  15,
+                  15
+                ]
+              },
+              {
+                "name": "Flaming",
+                "addDamageEnergyLeveled": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              {
+                "name": "Poison",
+                "addDamageBallisticLeveled": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Compound Bow",
+        "category": "Bow",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": true,
+        "speed": 0.5,
+        "level": [
+          1,
+          5,
+          10,
+          15,
+          20,
+          25,
+          30,
+          35,
+          40,
+          45,
+          50
+        ],
+        "damage": [
+          50,
+          55,
+          60,
+          65,
+          70,
+          75,
+          80,
+          85,
+          90,
+          95,
+          100
+        ],
+        "mods": [
+          {
+            "slot": "Arrow",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Plasma",
+                "addDamageEnergyLeveled": [
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20
+                ]
+              },
+              {
+                "name": "Cryo",
+                "addDamageEnergyLeveled": [
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              {
+                "name": "Explosive",
+                "addDamageExplosiveLeveled": [
+                  15,
+                  15,
+                  15,
+                  15,
+                  15,
+                  15,
+                  15,
+                  15,
+                  15,
+                  15,
+                  15
+                ]
+              },
+              {
+                "name": "Flaming",
+                "addDamageEnergyLeveled": [
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              {
+                "name": "Poison",
+                "addDamageBallisticLeveled": [
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              {
+                "name": "Ultracite",
+                "damageMultPercent": 25,
+                "versusMultPercent": 35,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Bow",
+        "category": "Bow",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": true,
+        "speed": 0.5,
+        "level": [
+          1,
+          5,
+          10,
+          15,
+          20,
+          25,
+          30,
+          35,
+          40,
+          45,
+          50
+        ],
+        "damage": [
+          40,
+          45,
+          50,
+          55,
+          60,
+          65,
+          70,
+          75,
+          80,
+          85,
+          90
+        ],
+        "mods": [
+          {
+            "slot": "Arrow",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Plasma",
+                "addDamageEnergyLeveled": [
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20
+                ]
+              },
+              {
+                "name": "Cryo",
+                "addDamageEnergyLeveled": [
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              {
+                "name": "Explosive",
+                "addDamageExplosiveLeveled": [
+                  15,
+                  15,
+                  15,
+                  15,
+                  15,
+                  15,
+                  15,
+                  15,
+                  15,
+                  15,
+                  15
+                ]
+              },
+              {
+                "name": "Flaming",
+                "addDamageEnergyLeveled": [
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              {
+                "name": "Poison",
+                "addDamageBallisticLeveled": [
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              {
+                "name": "Ultracite",
+                "damageMultPercent": 25,
+                "versusMultPercent": 35,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      }
+    ],
+    "Pistol": [
+      {
+        "name": "10mm Pistol",
+        "category": "Pistol",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": true,
+        "speed": 4.3,
+        "level": [
+          5,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          15,
+          18,
+          21,
+          24,
+          28
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Automatic",
+                "damageMultPercent": -10,
+                "speedAddPercent": 87.5
+              },
+              {
+                "name": "Powerful Automatic",
+                "damageMultPercent": 11.11,
+                "speedAddPercent": 87.5
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Scorch killer's",
+                "damageMultPercent": -20,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusAddPercent": 50
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              },
+              {
+                "name": "Prime Automatic",
+                "damageMultPercent": 15,
+                "speedAddPercent": 87.5,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Magazine",
+            "options": [
+              {
+                "name": "Standard",
+                "ignoreDRPercent": 0
+              },
+              {
+                "name": "Stinging",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Piercing",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Perforating",
+                "ignoreDRPercent": 40
+              }
+            ]
+          },
+          {
+            "slot": "Muzzle",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Suppressor",
+                "silencer": true
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Western Revolver",
+        "category": "Pistol",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 0.6,
+        "level": [
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          50,
+          55,
+          60,
+          65
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Refined",
+                "damageMultPercent": 12.5
+              },
+              {
+                "name": "Refined (Bugged)",
+                "damageMultPercent": 37.5
+              },
+              {
+                "name": "Vigorous",
+                "damageMultPercent": 12.5
+              },
+              {
+                "name": "Severe",
+                "damageMultPercent": 12.5
+              },
+              {
+                "name": "Severe (Bugged)",
+                "damageMultPercent": 37.5
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": ".44 Pistol",
+        "category": "Pistol",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 0.6,
+        "level": [
+          5,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          40,
+          45,
+          50,
+          55,
+          60
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Black Powder Pistol",
+        "category": "Pistol",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 0.2,
+        "level": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          115,
+          130,
+          145,
+          160,
+          175
+        ],
+        "mods": [],
+        "type": "Ranged"
+      },
+      {
+        "name": "Black Powder Blunderbuss",
+        "category": "Pistol",
+        "kind": "ballistic",
+        "explosive": false,
+        "speeD": 0.2,
+        "level": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          115,
+          130,
+          145,
+          160,
+          175
+        ],
+        "mods": [],
+        "type": "Ranged"
+      },
+      {
+        "name": "Pipe Bolt-action Pistol",
+        "category": "Pistol",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 0.3,
+        "level": [
+          1,
+          5,
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          40,
+          45,
+          50,
+          55,
+          60,
+          65,
+          70
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Pipe Pistol",
+        "category": "Pistol",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 6,
+        "level": [
+          1,
+          5,
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          12,
+          13,
+          15,
+          18,
+          21,
+          23,
+          26
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Powerful Automatic",
+                "damageMultPercent": 11.11,
+                "speedAddPercent": 50
+              },
+              {
+                "name": "Scorch killer's",
+                "damageMultPercent": -20,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusAddPercent": 50
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              },
+              {
+                "name": "Prime Automatic",
+                "damageMultPercent": 15,
+                "speedAddPercent": 50,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Magazine",
+            "options": [
+              {
+                "name": "Standard",
+                "ignoreDRPercent": 0
+              },
+              {
+                "name": "Stinging",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Piercing",
+                "ignoreDRPercent": 20
+              },
+              {
+                "name": "Perforating",
+                "ignoreDRPercent": 40
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Pipe Revolver Pistol",
+        "category": "Pistol",
+        "kind": "ballistic",
+        "explosive": false,
+        "speed": 0.5,
+        "level": [
+          1,
+          5,
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          27,
+          31,
+          36,
+          40,
+          45,
+          50,
+          55
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Laser Pistol",
+        "category": "Pistol",
+        "kind": "laser",
+        "explosive": false,
+        "silencer": false,
+        "speed": 4,
+        "level": [
+          5,
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "damageEnergy": [
+          21,
+          26,
+          31,
+          36,
+          44
+        ],
+        "mods": [
+          {
+            "slot": "Capacitor",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Sniper",
+                "damageMultPercent": 25
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Ultracite Laser Pistol",
+        "category": "Pistol",
+        "kind": "laser",
+        "explosive": false,
+        "silencer": false,
+        "speed": 4,
+        "level": [
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          0,
+          0,
+          0
+        ],
+        "damageEnergy": [
+          28,
+          31,
+          34
+        ],
+        "mods": [
+          {
+            "slot": "Capacitor",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          },
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Sniper",
+                "damageMultPercent": 25
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Plasma Pistol",
+        "category": "Pistol",
+        "kind": "plasma",
+        "explosive": false,
+        "silencer": false,
+        "speed": 3.3,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          15,
+          21,
+          25,
+          29
+        ],
+        "damageEnergy": [
+          15,
+          21,
+          25,
+          29
+        ],
+        "mods": [
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Flamer",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Splitter",
+                "damageMultPercent": 10
+              },
+              {
+                "name": "Sniper",
+                "damageMultPercent": 50
+              },
+              {
+                "name": "Automatic",
+                "damageMultPercent": -15
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Enclave Plasma Pistol",
+        "category": "Pistol",
+        "kind": "plasma",
+        "explosive": false,
+        "silencer": false,
+        "speed": 3.3,
+        "level": [
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          24,
+          28,
+          32
+        ],
+        "damageEnergy": [
+          24,
+          28,
+          32
+        ],
+        "mods": [
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Flamer",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Splitter",
+                "damageMultPercent": 10
+              },
+              {
+                "name": "Sniper",
+                "damageMultPercent": 50
+              },
+              {
+                "name": "Automatic",
+                "damageMultPercent": -15
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Gamma Gun",
+        "category": "Pistol",
+        "kind": "energy",
+        "explosive": false,
+        "silencer": false,
+        "speed": 6.7,
+        "level": [
+          15,
+          25,
+          35,
+          45
+        ],
+        "damage": [
+          81,
+          91,
+          105,
+          121
+        ],
+        "damageRadiation": [
+          50,
+          50,
+          50,
+          50
+        ],
+        "mods": [
+          {
+            "slot": "Dish",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Deep Dish",
+                "addDamageRadiationLeveled": [
+                  75,
+                  75,
+                  75,
+                  75
+                ]
+              }
+            ]
+          },
+          {
+            "slot": "Muzzle",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Electric signal carrier",
+                "addDamageEnergyLeveled": [
+                  40,
+                  40,
+                  40,
+                  40
+                ]
+              },
+              {
+                "name": "Signal Repeater",
+                "speedAddPercent": 35.82089552238805
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Alien Blaster",
+        "category": "Pistol",
+        "kind": "energy",
+        "explosive": true,
+        "speed": 10,
+        "level": [
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "damageEnergy": [
+          15,
+          29,
+          22,
+          25
+        ],
+        "mods": [],
+        "type": "Ranged"
+      },
+      {
+        "name": "The V.A.T.S. Unknown",
+        "category": "Pistol",
+        "kind": "energy",
+        "explosive": true,
+        "special": true,
+        "info": "WeaponVATSUnknown",
+        "speed": 10,
+        "level": [
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "damageEnergy": [
+          15,
+          29,
+          22,
+          25
+        ],
+        "mods": [],
+        "type": "Ranged"
+      },
+      {
+        "name": "Gauss Pistol",
+        "category": "Pistol",
+        "kind": "energy",
+        "explosive": false,
+        "speed": 6.7,
+        "chargetime": 1,
+        "explosiveDamageMult": 15,
+        "level": [
+          15,
+          20,
+          25,
+          30,
+          35,
+          40,
+          45,
+          50
+        ],
+        "damage": [
+          62,
+          70,
+          76,
+          85,
+          92,
+          100,
+          108,
+          115
+        ],
+        "mods": [
+          {
+            "slot": "Barrel",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Suppressed",
+                "silencer": true
+              }
+            ]
+          },
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Refined",
+                "damageMultPercent": 12.5
+              },
+              {
+                "name": "Hardened",
+                "damageMultPercent": 25
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      },
+      {
+        "name": "Single Action Revolver",
+        "category": "Pistol",
+        "kind": "ballistic",
+        "explosive": false,
+        "silencer": false,
+        "speed": 0.6,
+        "level": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "damage": [
+          42,
+          48,
+          52,
+          58,
+          62
+        ],
+        "mods": [
+          {
+            "slot": "Receiver",
+            "options": [
+              {
+                "name": "Standard"
+              },
+              {
+                "name": "Fancy",
+                "speedAddPercent": 30
+              },
+              {
+                "name": "Prime",
+                "damageMultPercent": 25,
+                "versus": [
+                  "Scorched",
+                  "Scorchbeast",
+                  "Scorchbeast Queen"
+                ],
+                "versusMultPercent": 35
+              }
+            ]
+          }
+        ],
+        "type": "Ranged"
+      }
+    ],
+    "Thrown": [
+      {
+        "name": "Tomahawk",
+        "category": "Thrown",
+        "kind": "ballistic",
+        "speed": 0.55,
+        "level": [
+          1
+        ],
+        "damage": [
+          100
+        ],
+        "mods": [],
+        "type": "Ranged"
+      },
+      {
+        "name": "Throwing Knife",
+        "category": "Thrown",
+        "kind": "ballistic",
+        "speed": 0.55,
+        "level": [
+          1
+        ],
+        "damage": [
+          75
+        ],
+        "mods": [],
+        "type": "Ranged"
+      },
+      {
+        "name": "Sheepsquatch Shard",
+        "category": "Thrown",
+        "kind": "ballistic",
+        "speed": 0.55,
+        "level": [
+          1
+        ],
+        "damage": [
+          75
+        ],
+        "mods": [],
+        "type": "Ranged"
+      },
+      {
+        "name": "Meat Cleaver",
+        "category": "Thrown",
+        "kind": "ballistic",
+        "speed": 0.55,
+        "level": [
+          1
+        ],
+        "damage": [
+          60
+        ],
+        "mods": [],
+        "type": "Ranged"
+      }
+    ]
+  }
+}
