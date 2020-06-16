@@ -77,7 +77,12 @@ dps = (weapon, i) ->
   energy = if weapon.damageEnergy? then weapon.damageEnergy[i] * weapon.speed else 0
   radiation = if weapon.damageRadiation? then weapon.damageRadiation[i] * weapon.speed else 0
   total = ballistic + energy + radiation
-  return "#{Number(total).toFixed(0)} (#{Number(ballistic).toFixed(0)}/#{Number(energy).toFixed(0)}/#{Number(radiation).toFixed(0)})"
+  return [Math.round(ballistic), Math.round(energy), Math.round(radiation), Math.round(total)]
+
+dpsString = (weapon, i) ->
+  [b, e, r, t] = dps(weapon, i)
+  return Number(t).toString().padStart(4) + " (#{b}/#{e}/#{r})"
+
 
 fs.readFile "data/weapons.json", (err, data) ->
   throw err if err
@@ -157,11 +162,13 @@ fs.readFile "data/weapons.json", (err, data) ->
                 if args.level > 0
                   i = atMost(weapon.level, args.level)
                   if i?
-                    console.log indented + "#{weaponName}(#{weapon.level[i]}): #{dps(weapon, i)}"
+                    console.log indented + String("#{weaponName}(#{weapon.level[i]}):").padEnd(32) + dpsString(weapon, i)
                 else
                   console.log indented + "#{weaponName}:"
+                  indent()
                   for level, i in weapon.level
-                    console.log indented + "  #{level}: #{dps(weapon, i)}"
+                    console.log indented + Number(level).toString().padStart(2) + ": " + dpsString(weapon, i)
+                  outdent()
             if not args.weapon?
               outdent()
         if not args.category? and not args.weapon?
