@@ -2840,7 +2840,7 @@
         "silencer": true,
         "special": true,
         "info": "WeaponOldGuard",
-        "speed": 100,
+        "speed": 10.0,
         "level": [
           10,
           20,
