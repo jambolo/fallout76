@@ -2,11 +2,16 @@
 #
 # Command syntax:
 #
-#     base-weapons-dps [--level n]
+#     base-weapons-dps [--level <n>] [--type <name>] [--category <name>] [--weapon <name>] [--json] [--csv]
 #
 # Options:
 #
-#   --level - List only dps for the best weapon that can be equipped by a player at this level
+#   --level <n>         List only dps for the best weapon that can be equipped by a player at this level
+#   --type <name>       Display only weapons of this type
+#   --category <name>   Display only weapons in this category
+#   --weapon <name>     Display only this weapon
+#   --json              Output the results in JSON format
+#   --csv               Output the results in CSV format
 
 yargs = require "yargs"
 fs = require "fs"
@@ -38,6 +43,16 @@ args = yargs
     alias: "w"
     describe: "Display only this weapon"
   }
+  .option "json", {
+    type: "boolean"
+    describe: "Output the results in JSON format"
+    conflicts: "csv"
+  }
+  .option "csv", {
+    type: "boolean"
+    describe: "Output the results in CSV format"
+    conflicts: "json"
+  }
   .check (argv) ->
     if argv.level? and (argv.level < 1 or argv.level > 50)
       throw new Error "The level must be between 1 and 50"
@@ -67,27 +82,87 @@ dps = (weapon, i) ->
 fs.readFile "data/weapons.json", (err, data) ->
   throw err if err
   db = JSON.parse(data)
-  for typeName, type of db
-    if not args.type? or typeName is args.type
-      if not args.category? and not args.weapon?
-        console.log "#{typeName}:"
-        indent()
-      for categoryName, category of type
-        if not args.category? or categoryName is args.category
-          if not args.weapon?
-            console.log indented + "#{categoryName}:"
-            indent()
-          for weaponName, weapon of category
-            if not args.weapon? or weaponName is args.weapon
-              if args.level > 0
-                i = atMost(weapon.level, args.level)
-                if i?
-                  console.log indented + "#{weaponName}(#{weapon.level[i]}): #{dps(weapon, i)}"
-              else
-                console.log indented + "#{weaponName}:"
-                for level, i in weapon.level
-                  console.log indented + "  #{level}: #{dps(weapon, i)}"
-          if not args.weapon?
-            outdent()
-      if not args.category? and not args.weapon?
-        outdent()
+
+  # JSON output
+  if args.json
+    out = {}
+    for typeName, type of db
+      if not args.type? or typeName is args.type
+        for categoryName, category of type
+          if not args.category? or categoryName is args.category
+            for weaponName, weapon of category
+              if not args.weapon? or weaponName is args.weapon
+                if args.level?
+                  i = atMost(weapon.level, args.level)
+                  if i?
+                    [b, e, r, t] = dps(weapon, i)
+                    out[typeName] = {} if not out[typeName]?
+                    out[typeName][categoryName] = {} if not out[typeName][categoryName]?
+                    out[typeName][categoryName][weaponName] = [] if not out[typeName][categoryName][weaponName]?
+                    out[typeName][categoryName][weaponName].push {
+                      level: weapon.level[i]
+                      ballisticDamage: b
+                      energyDamage: e
+                      radiationDamage: r
+                      totalDamage: t
+                    }
+                else
+                  for level, i in weapon.level
+                    [b, e, r, t] = dps(weapon, i)
+                    out[typeName] = {} if not out[typeName]?
+                    out[typeName][categoryName] = {} if not out[typeName][categoryName]?
+                    out[typeName][categoryName][weaponName] = [] if not out[typeName][categoryName][weaponName]?
+                    out[typeName][categoryName][weaponName].push {
+                      level: weapon.level[i]
+                      ballisticDamage: b
+                      energyDamage: e
+                      radiationDamage: r
+                      totalDamage: t
+                    }
+    console.log JSON.stringify(out)
+
+  # CSV output
+  else if args.csv
+    console.log "\"Type\",\"Category\",\"Name\",\"Level\",\"Ballistic Damage\",\"Energy Damage\",\"Radiation Damage\",\"Total Damage\""
+    for typeName, type of db
+      if not args.type? or typeName is args.type
+        for categoryName, category of type
+          if not args.category? or categoryName is args.category
+            for weaponName, weapon of category
+              if not args.weapon? or weaponName is args.weapon
+                if args.level?
+                  i = atMost(weapon.level, args.level)
+                  if i?
+                    [b, e, r, t] = dps(weapon, i)
+                    console.log "\"#{typeName}\",\"#{categoryName}\",#{weaponName}\",#{weapon.level[i]},#{b},#{e},#{r},#{t}"
+                else
+                  for level, i in weapon.level
+                    [b, e, r, t] = dps(weapon, i)
+                    console.log "\"#{typeName}\",\"#{categoryName}\",#{weaponName}\",#{level},#{b},#{e},#{r},#{t}"
+
+  # Formatted text output
+  else
+    for typeName, type of db
+      if not args.type? or typeName is args.type
+        if not args.category? and not args.weapon?
+          console.log "#{typeName}:"
+          indent()
+        for categoryName, category of type
+          if not args.category? or categoryName is args.category
+            if not args.weapon?
+              console.log indented + "#{categoryName}:"
+              indent()
+            for weaponName, weapon of category
+              if not args.weapon? or weaponName is args.weapon
+                if args.level > 0
+                  i = atMost(weapon.level, args.level)
+                  if i?
+                    console.log indented + "#{weaponName}(#{weapon.level[i]}): #{dps(weapon, i)}"
+                else
+                  console.log indented + "#{weaponName}:"
+                  for level, i in weapon.level
+                    console.log indented + "  #{level}: #{dps(weapon, i)}"
+            if not args.weapon?
+              outdent()
+        if not args.category? and not args.weapon?
+          outdent()
