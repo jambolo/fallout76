@@ -1,0 +1,367 @@
+===Heavy weapons===
+{| class="va-table va-table-center va-table-full sortable"
+!
+! {{Icon|big gun|60px|tooltip=Heavy weapon name}}
+! {{Icon|level|x18px|tooltip=Level}}
+! {{Icon|damage|x18px|tooltip=Damage per shot|link=Damage}}
+! {{Icon|dps|x18px|tooltip=Damage per second}}
+! {{Icon|attack|x18px|tooltip=Fire rate}}
+! {{Icon|range|x18px|tooltip=Range}}
+! {{Icon|spread|x18px|tooltip=Accuracy}}
+! {{Icon|crit|x18px|tooltip=Critical hit Damage}}
+! {{Icon|ap|x18px|tooltip=Action point cost}}
+! {{Icon|dap|x18px|tooltip=Damage per Action Point}}
+! {{Icon|ammo|x18px|tooltip=Ammunition used|link=Fallout 76 ammunition}}
+! {{Icon|mag|x18px|tooltip=Magazine capacity (shots per reload)}}
+! {{Icon|weight|x18px|tooltip=Weapon weight}}
+! {{Icon|merchant|x18px|tooltip=Weapon value in caps}}
+! {{Icon|ratio|x18px|tooltip=Value to weight ratio}}
+! Base ID
+
+|-style="height:32px;"
+| rowspan="2" |[[File:AutoGrenadeLauncher.png|80px|link=Auto grenade launcher]]
+| rowspan="2" |[[Auto grenade launcher]]
+| 40
+| 110
+| 1100
+| 100
+| 120
+| 55
+| ?
+| 28
+| ?
+| [[40mm grenade round|40mm grenade]]
+| 12
+| 19.8
+| 200
+| 10.1
+| rowspan="2" | {{ID|00182634}}
+|-style="height:32px;"
+| 50
+| 120
+| 1200
+| 100
+| 120
+| 55
+| ?
+| 28
+| ?
+| [[40mm grenade round|40mm grenade]]
+| 12
+| 19.8
+| 200
+| 10.1
+
+|-style="height:32px;"
+| rowspan="3" |[[File:FO76 Fat Man.png|80px|link=Fat Man (Fallout 76)]]
+| rowspan="3" |[[Fat Man (Fallout 76)|Fat Man]]
+| 25
+| 721
+| 144.2
+| 2
+| 117
+| 64
+| ?
+| 60
+| ?
+| [[Mini nuke (Fallout 76)|Mini nuke]]
+| 1
+| 20
+| 243
+| 12.15
+| rowspan="3" | {{ID|000BD56F}}
+|-style="height:32px;"
+| 35
+| 821
+| 164.2
+| 2
+| 117
+| 64
+| ?
+| 60
+| ?
+| [[Mini nuke (Fallout 76)|Mini nuke]]
+| 1
+| 20
+| 243
+| 12.15
+|-style="height:32px;"
+| 45
+| 921
+| 184.2
+| 2
+| 117
+| 64
+| ?
+| 60
+| ?
+| [[Mini nuke (Fallout 76)|Mini nuke]]
+| 1
+| 20
+| 243
+| 12.15
+
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="2" |[[File:FO76 Fat Man.png|80px|link=Daisycutter]]
+| rowspan="2" |[[Daisycutter]]
+| 25
+| 150
+| 30
+| 2
+| 117
+| 64
+| ?
+| 60
+| ?
+| [[Mini nuke (Fallout 76)|Mini nuke]]
+| 1
+| 6
+| 316
+| ?
+| rowspan="2" | {{ID|000BD56F}}
+|- class="va-table-highlight" style="height:32px;"
+| 45
+| 173
+| ?
+| 2
+| 117
+| 64
+| ?
+| 60
+| ?
+| [[Mini nuke (Fallout 76)|Mini nuke]]
+| 1
+| 6
+| 316
+| ?
+
+|- class="va-table-highlight" style="height:32px;"
+| [[File:FO76 Fat Man.png|80px|link=The_Guarantee]]
+| [[The Guarantee]] {{icon|FO76WA|link=Wild Appalachia}} {{limited}}
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| 60
+| ?
+| [[Mini nuke (Fallout 76)|Mini nuke]]
+| ?
+| ?
+| ?
+| ?
+| {{ID|00403024}}
+
+|-style="height:32px;"
+| rowspan="4" |[[File:Fo76 M79 grenade launcher.png|80px|link=M79 grenade launcher]]
+| rowspan="4" |[[M79 grenade launcher]]
+| 15
+| 90
+| 27
+| 3
+| 120
+| 27
+| ?
+| 30
+| ?
+| [[40mm grenade round|40mm grenade]]
+| 1
+| 7.8
+| 32
+| 4.1
+| rowspan="4" | {{ID|0008F0EF}}
+|-style="height:32px;"
+| 25
+| 100
+| 30
+| 3
+| 120
+| 27
+| ?
+| 30
+| ?
+| [[40mm grenade round|40mm grenade]]
+| 1
+| 7.8
+| 32
+| 4.1
+|-style="height:32px;"
+| 35
+| 110
+| 33
+| 3
+| 120
+| 27
+| ?
+| 30
+| ?
+| [[40mm grenade round|40mm grenade]]
+| 1
+| 7.8
+| 32
+| 4.1
+|-style="height:32px;"
+| 45
+| 120
+| 36
+| 3
+| 120
+| 27
+| ?
+| 30
+| ?
+| [[40mm grenade round|40mm grenade]]
+| 1
+| 7.8
+| 32
+| 4.1
+
+|- class="va-table-highlight" style="height:32px;"
+| [[File:Fo76 M79 grenade launcher.png|80px|link=Crushing Blow]]
+| [[Crushing Blow]] {{icon|FO76WA|link=Wild Appalachia}} {{limited}}
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| 30
+| ?
+| [[40mm grenade round|40mm grenade]]
+| ?
+| ?
+| ?
+| ?
+| {{ID|00403021}}
+
+|-style="height:32px;"
+| rowspan="4" |[[File:FO76 Missile launcher.png|80px|link=Missile launcher (Fallout 76)]]
+| rowspan="4" |[[Missile launcher (Fallout 76)|Missile launcher]]
+| 20
+| 221
+| 44.2
+| 2
+| 204
+| 69
+| ?
+| 45
+| ?
+| [[Missile (Fallout 76)|Missile]]
+| 1
+| 20
+| 97
+| 4.85
+| rowspan="4" | {{ID|0003F6F8}}
+|-style="height:32px;"
+| 30
+| 261
+| 52.2
+| 2
+| 204
+| 69
+| ?
+| 45
+| ?
+| [[Missile (Fallout 76)|Missile]]
+| 1
+| 20
+| 97
+| 4.85
+|-style="height:32px;"
+| 40
+| 301
+| 60.2
+| 2
+| 204
+| 69
+| ?
+| 45
+| ?
+| [[Missile (Fallout 76)|Missile]]
+| 1
+| 20
+| 97
+| 4.85
+|-style="height:32px;"
+| 50
+| 321
+| 64.2
+| 2
+| 204
+| 69
+| ?
+| 45
+| ?
+| [[Missile (Fallout 76)|Missile]]
+| 1
+| 20
+| 97
+| 4.85
+
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="4" |[[File:FO76 Bunker Buster.png|80px|link=Bunker Buster (weapon)]]
+| rowspan="4" |[[Bunker Buster (weapon)|Bunker Buster]]
+| 20
+| 149
+| 30
+| 2
+| 204
+| 69
+| ?
+| 45
+| ?
+| [[Missile (Fallout 76)|Missile]]
+| 1
+| 43
+| ?
+| ?
+| rowspan="4" | {{ID|0003F6F8}}
+|- class="va-table-highlight" style="height:32px;"
+| 30
+| ?
+| ?
+| 2
+| 204
+| 69
+| ?
+| 45
+| ?
+| [[Missile (Fallout 76)|Missile]]
+| 1
+| ?
+| 45
+| ?
+|- class="va-table-highlight" style="height:32px;"
+| 40
+| 180
+| 36
+| 2
+| 204
+| 69
+| ?
+| 45
+| ?
+| [[Missile (Fallout 76)|Missile]]
+| 1
+| ?
+| ?
+| ?
+|- class="va-table-highlight" style="height:32px;"
+| 50
+| 192
+| 38
+| 2
+| 204
+| 69
+| ?
+| 45
+| ?
+| [[Missile (Fallout 76)|Missile]]
+| 1
+| ?
+| ?
+| ?
+|}

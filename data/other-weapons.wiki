@@ -1,0 +1,255 @@
+===Other===
+{| class="va-table va-table-center va-table-full sortable"
+!
+! {{Icon|pistol|24px|tooltip=Other weapon name}}
+! {{Icon|level|x18px|tooltip=Level}}
+! {{Icon|damage|x18px|tooltip=Damage per shot|link=Damage}}
+! {{Icon|dps|x18px|tooltip=Damage per second}}
+! {{Icon|attack|x18px|tooltip=Fire rate}}
+! {{Icon|range|x18px|tooltip=Range}}
+! {{Icon|spread|x18px|tooltip=Accuracy}}
+! {{Icon|crit|x18px|tooltip=Critical hit Damage}}
+! {{Icon|ap|x18px|tooltip=Action point cost}}
+! {{Icon|dap|x18px|tooltip=Damage per Action Point}}
+! {{Icon|ammo|x18px|tooltip=Ammunition used|link=Fallout 76 ammunition}}
+! {{Icon|mag|x18px|tooltip=Magazine capacity (shots per reload)}}
+! {{Icon|weight|x18px|tooltip=Weapon weight}}
+! {{Icon|merchant|x18px|tooltip=Weapon value in caps}}
+! {{Icon|ratio|x18px|tooltip=Value to weight ratio}}
+! Base ID
+
+|-style="height:32px;"
+| rowspan="4" |[[File:Alien blaster pistol.png|90px]]
+| rowspan="4" |[[Alien blaster (Fallout 76)|Alien blaster]]
+| 20
+| 15{{Icon|energy}}
+| 150{{Icon|energy}}
+| 100
+| 120
+| 75
+| ?
+| 20
+| ?
+| [[Alien blaster round (Fallout 76)|Alien blaster round]]
+| 42
+| 2
+| 90
+| 45
+| rowspan="4" | {{ID|000FF995}}
+|-style="height:32px;"
+| 30
+| 19{{Icon|energy}}
+| 190{{Icon|energy}}
+| 100
+| 120
+| 75
+| ?
+| 20
+| ?
+| [[Alien blaster round (Fallout 76)|Alien blaster round]]
+| 42
+| 2
+| 90
+| 45
+|-style="height:32px;"
+| 40
+| 22{{Icon|energy}}
+| 220{{Icon|energy}}
+| 100
+| 120
+| 75
+| ?
+| 20
+| ?
+| [[Alien blaster round (Fallout 76)|Alien blaster round]]
+| 42
+| 2
+| 90
+| 45
+|-style="height:32px;"
+| 50
+| 29{{Icon|energy}}
+| 290{{Icon|energy}}
+| 100
+| 120
+| 75
+| ?
+| 20
+| ?
+| [[Alien blaster round (Fallout 76)|Alien blaster round]]
+| 42
+| 2
+| 90
+| 45
+
+|- class="va-table-highlight" style="height:32px;"
+| [[File:The VATS Unknown.png|80px|link=The V.A.T.S. Unknown]]
+| [[The V.A.T.S. Unknown]] {{icon|FO76WL}}
+| ?
+| 25{{Icon|energy}}
+| ?{{Icon|energy}}
+| 100
+| 204
+| 73
+| ?
+| ?
+| ?
+| [[Alien blaster round (Fallout 76)|Alien blaster round]]
+| 42
+| 2.25
+| 556
+| ?
+| {{ID|005a21a2}}
+
+|-style="height:32px;"
+| rowspan="3" |[[File:Cryolator (Fallout 4).png|90px]]
+| rowspan="3" |[[Cryolator (Fallout 76)|Cryolator]]
+| 25
+| 24{{Icon|energy}}
+| 218.4
+| 91
+| 120
+| 70
+| ?
+| 20
+| ?
+| [[Cryo cell (Fallout 76)|Cryo cell]]
+| 25
+| 10
+| 145
+| 14.5
+| rowspan="3" | {{ID|00171B2B}}
+|-style="height:32px;"
+| 35
+| 30{{Icon|energy}}
+| 273
+| 91
+| 120
+| 70
+| ?
+| 20
+| ?
+| [[Cryo cell (Fallout 76)|Cryo cell]]
+| 25
+| 10
+| 145
+| 14.5
+|-style="height:32px;"
+| 45
+| 36{{Icon|energy}}
+| 327.6
+| 91
+| 120
+| 70
+| ?
+| 20
+| ?
+| [[Cryo cell (Fallout 76)|Cryo cell]]
+| 25
+| 10
+| 145
+| 14.5
+
+|-style="height:32px;"
+| rowspan="3" |[[File:Salvaged assaultron head.png|50px]]
+| rowspan="3" |[[Salvaged assaultron head (Fallout 76)|Salvaged assaultron head]]
+| 25
+| 30{{Icon|energy}}
+| 36
+| 12
+| 94
+| 65
+| ?
+| 30
+| ?
+| [[Fusion cell (Fallout 76)|Fusion cell]]
+| 12
+| 8
+| 115
+| 14.375
+| rowspan="3" | {{ID|0010FAA7}}
+|-style="height:32px;"
+| 35
+| 40{{Icon|energy}}
+| 48
+| 12
+| 94
+| 65
+| ?
+| 30
+| ?
+| [[Fusion cell (Fallout 76)|Fusion cell]]
+| 12
+| 8
+| 115
+| 14.375
+|-style="height:32px;"
+| 45
+| 50{{Icon|energy}}
+| 60
+| 12
+| 94
+| 65
+| ?
+| 30
+| ?
+| [[Fusion cell (Fallout 76)|Fusion cell]]
+| 12
+| 8
+| 115
+| 14.375
+
+|-style="height:32px;"
+| rowspan="2" |[[File:FO76 Tesla rifle.png|70px]]
+| rowspan="2" |[[Tesla rifle (Fallout 76)|Tesla rifle]]
+| 40
+| 66{{Icon|energy}}
+| 132
+| 20
+| 228
+| 72
+| ?
+| 30
+| ?
+| [[Fusion cell (Fallout 76)|Fusion cell]]
+| 15
+| 8
+| 180
+| 18
+| rowspan="2" | {{ID|0010F0EC}}
+|-style="height:32px;"
+| 50
+| 78{{Icon|energy}}
+| 156
+| 20
+| 228
+| 72
+| ?
+| 30
+| ?
+| [[Fusion cell (Fallout 76)|Fusion cell]]
+| 15
+| 8
+| 180
+| 18
+
+|- class="va-table-highlight" style="height:32px;"
+| [[File:FO76WA Night Light.png|80px]]
+| [[Night Light]] {{icon|FO76WA|link=Wild Appalachia}} {{Limited}}
+| 50
+| 40{{Icon|energy}}
+| 456{{Icon|energy}}
+| 114
+| 204
+| 75
+| ?
+| 30
+| ?
+| [[Fusion cell (Fallout 76)|Fusion cell]]
+| 15
+| 8
+| 180
+| 22.5
+| {{ID|0042b0cd}}
+
+|}

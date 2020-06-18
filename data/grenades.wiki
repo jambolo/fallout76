@@ -1,0 +1,146 @@
+===Thrown===
+{{clear}}
+{| class="va-table va-table-full va-table-center sortable"
+
+|- valign="top"
+! 
+! {{Icon|grenade|x18pxpx|tooltip=Thrown explosive weapon name}}
+! style="width:65px;" | {{Icon|damage|x18px|tooltip=Damage per shot|link=Damage}}
+! {{Icon|explosion|x18px|tooltip=Area of Effect}}
+! {{Icon|weight|x18px|tooltip=Weapon weight}}
+! {{Icon|merchant|x18px|tooltip=Weapon value in caps}}
+! {{Icon|ratio|x18px|tooltip=Value to weight ratio}}
+! Base ID
+
+|-style="height:32px;"
+| [[File:Baseball grenade.png|40px|link=Baseball grenade (Fallout 76)]]
+| [[Baseball grenade (Fallout 76)|Baseball grenade]]
+| 175{{Icon|attack}}
+| ?
+| 1
+| 20
+| 20
+| {{ID|00107BD6}}
+
+|-style="height:32px;"
+| [[File:FO76WA Bug grenade.png|40px|link=Bug grenade]]
+| [[Bug grenade]] {{Icon|FO76WA|link=Wild Appalachia}}
+| 29{{Icon|attack}}
+| ?
+| 0.5
+| 25
+| 50
+| {{ID|003fbba1}}
+
+|-style="height:32px;"
+| [[File:FO76 Cryogenic grenade.png|40px|link=Cryogenic grenade (Fallout 76)]]
+| [[Cryogenic grenade (Fallout 76)|Cryogenic grenade]]
+| 100{{Icon|attack}}
+| ?
+| 0.5
+| 25
+| 50
+| {{ID|00107BD6}}
+
+
+|-style="height:32px;"
+| [[File:F76WL Dynamite.png|40px|link|Dynamite (Wastelanders)]]
+| [[Dynamite (Wastelanders)|Dynamite]] {{Icon|FO76WL}}
+| 175{{Icon|attack}}
+| ?
+| 0.5
+| 15
+| 30
+| {{ID|0055c159}}
+
+|-style="height:32px;"
+| [[File:Fragmentation grenade (Fallout 4).png|40px|link=Fragmentation grenade (Fallout 76)]]
+| [[Fragmentation grenade (Fallout 76)|Fragmentation grenade]]
+| 150{{Icon|attack}}
+| ?
+| 0.5
+| 15
+| 30
+| {{ID|000EEBED}}
+
+|-style="height:32px;"
+| [[File:FO76 Fragmentation grenade MIRV.png|40px|link=Fragmentation grenade MIRV (Fallout 76)]]
+| [[Fragmentation grenade MIRV (Fallout 76)|Fragmentation grenade MIRV]]
+| 100{{Icon|attack}}
+| ?
+| 1
+| 50
+| 50
+| {{ID|00113849}}
+
+|-style="height:32px;"
+| [[File:HalluciGen gas grenade.png|40px|link=HalluciGen gas grenade (Fallout 76)]]
+| [[HalluciGen gas grenade (Fallout 76)|HalluciGen gas grenade]]
+| 1{{Icon|attack}}
+| ?
+| 1
+| 25
+| 25
+| {{ID|000E98E5}}
+
+|-style="height:32px;"
+| [[File:Fo4 Molotov cocktail.png|40px|link=Molotov cocktail (Fallout 76)]]
+| [[Molotov cocktail (Fallout 76)|Molotov cocktail]]
+| 50{{Icon|attack}} + 8{{Icon|energy}}
+| ?
+| 0.5
+| 20
+| 40
+| {{ID|0010C3C6}}
+
+|-style="height:32px;"
+| [[File:FO76 Nuka grenade.png|40px|link=Nuka grenade (Fallout 76)]]
+| [[Nuka grenade (Fallout 76)|Nuka grenade]]
+| 250{{Icon|attack}} + 125{{Icon|radiation}}
+| ?
+| 0.5
+| 35
+| 70
+| {{ID|000E5750}}
+
+|-style="height:32px;"
+| [[File:FO76 Nuka quantum grenade.png|40px|link=Nuka Quantum grenade (Fallout 76)]]
+| [[Nuka Quantum grenade (Fallout 76)|Nuka Quantum grenade]]
+| 300{{Icon|attack}}
+| ?
+| 0.5
+| 50
+| 100
+| {{ID|00113D0F}}
+
+|-style="height:32px;"
+| [[File:Plasma grenade (Fallout 4).png|40px]]
+| [[Plasma grenade (Fallout 76)|Plasma grenade]]
+| 200{{Icon|attack}} + 200{{Icon|energy}}
+| ?
+| 0.5
+| 30
+| 60
+| {{ID|0010A33D}}
+
+|-style="height:32px;"
+| [[File:FO76 Pulse grenade.png|40px|link=Pulse grenade (Fallout 76)]]
+| [[Pulse grenade (Fallout 76)|Pulse grenade]]
+| 175{{Icon|attack}} + 175{{Icon|energy}}
+| ?
+| 0.5
+| 20
+| 40
+| {{ID|000FF21F}}
+
+|-style="height:32px;"
+| [[File:Pumpkin grenade.png|40px]]
+| [[Pumpkin grenade]]
+| 80 {{Icon|attack}} + 40 {{Icon|radiation}}
+| ?
+| 0.5
+| 20
+| 40
+| {{ID|00045884}}
+
+|}

@@ -1,0 +1,253 @@
+===Plasma===
+{| class="va-table va-table-center va-table-full sortable"
+!
+! {{Icon|pistol|24px|tooltip=Plasma weapon name}}
+! {{Icon|level|x18px|tooltip=Level}}
+! {{Icon|damage|x18px|tooltip=Damage per shot|link=Damage}}
+! {{Icon|dps|x18px|tooltip=Damage per second}}
+! {{Icon|attack|x18px|tooltip=Fire rate}}
+! {{Icon|range|x18px|tooltip=Range}}
+! {{Icon|spread|x18px|tooltip=Accuracy}}
+! {{Icon|crit|x18px|tooltip=Critical hit Damage}}
+! {{Icon|ap|x18px|tooltip=Action point cost}}
+! {{Icon|dap|x18px|tooltip=Damage per Action Point}}
+! {{Icon|ammo|x18px|tooltip=Ammunition used|link=Fallout 76 ammunition}}
+! {{Icon|mag|x18px|tooltip=Magazine capacity (shots per reload)}}
+! {{Icon|weight|x18px|tooltip=Weapon weight}}
+! {{Icon|merchant|x18px|tooltip=Weapon value in caps}}
+! {{Icon|ratio|x18px|tooltip=Value to weight ratio}}
+! Base ID
+
+|-
+|-style="height:32px;"
+| rowspan="4" |[[File:FO76 Plasma gun.png|80px|link=Plasma gun (Fallout 76)]]
+| rowspan="4" |[[Plasma gun (Fallout 76)|Plasma gun]]
+| 15
+| 14{{Icon|attack}} + 14{{Icon|energy}}
+| 46.2{{Icon|attack}} + 46.2{{Icon|energy}}
+| 33
+| 120
+| 144
+| ?
+| 25
+| 0.56{{Icon|attack}} + 0.56{{Icon|energy}}
+| [[Plasma cartridge (Fallout 76)|Plasma cartridge]]
+| 30
+| 3.3
+| 75
+| 22.72
+| rowspan="4" | {{ID|00100AE9}}
+|-style="height:32px;"
+| 25
+| 16{{Icon|attack}} + 16{{Icon|energy}}
+| 52.8{{Icon|attack}} + 52.8{{Icon|energy}}
+| 33
+| 120
+| 144
+| ?
+| 25
+| 0.64{{Icon|attack}} + 0.64{{Icon|energy}}
+| [[Plasma cartridge (Fallout 76)|Plasma cartridge]]
+| 30
+| 3.3
+| 75
+| 22.72
+|-style="height:32px;"
+| 35
+| 19{{Icon|attack}} + 19{{Icon|energy}}
+| 62.7{{Icon|attack}} + 62.7{{Icon|energy}}
+| 33
+| 120
+| 144
+| ?
+| 25
+| 0.76{{Icon|attack}} + 0.76{{Icon|energy}}
+| [[Plasma cartridge (Fallout 76)|Plasma cartridge]]
+| 30
+| 3.3
+| 75
+| 22.72
+|-style="height:32px;"
+| 45
+| 22{{Icon|attack}} + 22{{Icon|energy}}
+| 72.6{{Icon|attack}} + 72.6{{Icon|energy}}
+| 33
+| 120
+| 144
+| ?
+| 25
+| 0.88{{Icon|attack}} + 0.88{{Icon|energy}}
+| [[Plasma cartridge (Fallout 76)|Plasma cartridge]]
+| 30
+| 3.3
+| 75
+| 22.72
+
+|-style="height:32px;"
+| rowspan="4" |[[File:FO76 Enclave plasma gun.png|80px|link=Enclave plasma gun]]
+| rowspan="4" |[[Enclave plasma gun]]
+| 15
+| 14{{Icon|attack}} + 14{{Icon|energy}}
+| 46.2{{Icon|attack}} + 46.2{{Icon|energy}}
+| 33
+| 120
+| 144
+| ?
+| 25
+| 0.56{{Icon|attack}} + 0.56{{Icon|energy}}
+| [[Plasma cartridge (Fallout 76)|Plasma cartridge]]
+| 30
+| 3.3
+| 75
+| 22.72
+| rowspan="4" | {{ID|00100AE9}}
+|-style="height:32px;"
+| 25
+| 16{{Icon|attack}} + 16{{Icon|energy}}
+| 52.8{{Icon|attack}} + 52.8{{Icon|energy}}
+| 33
+| 120
+| 144
+| ?
+| 25
+| 0.64{{Icon|attack}} + 0.64{{Icon|energy}}
+| [[Plasma cartridge (Fallout 76)|Plasma cartridge]]
+| 30
+| 3.3
+| 75
+| 22.72
+|-style="height:32px;"
+| 35
+| 19{{Icon|attack}} + 19{{Icon|energy}}
+| 62.7{{Icon|attack}} + 62.7{{Icon|energy}}
+| 33
+| 120
+| 144
+| ?
+| 25
+| 0.76{{Icon|attack}} + 0.76{{Icon|energy}}
+| [[Plasma cartridge (Fallout 76)|Plasma cartridge]]
+| 30
+| 3.3
+| 75
+| 22.72
+|-style="height:32px;"
+| 45
+| 22{{Icon|attack}} + 22{{Icon|energy}}
+| 72.6{{Icon|attack}} + 72.6{{Icon|energy}}
+| 33
+| 120
+| 144
+| ?
+| 25
+| 0.88{{Icon|attack}} + 0.88{{Icon|energy}}
+| [[Plasma cartridge (Fallout 76)|Plasma cartridge]]
+| 30
+| 3.3
+| 75
+| 22.72
+
+
+|-style="height:32px;"
+| rowspan="3" |[[File:F76 Plasma gatling left.png|80px|link=Gatling plasma (Fallout 76)]]
+| rowspan="3" |[[Gatling plasma (Fallout 76)|Gatling plasma]]
+| 30
+| 43{{Icon|energy}}
+| 527.8{{Icon|energy}}
+| 91
+| 204
+| 41
+| ?
+| 30
+| 1.433{{Icon|energy}}
+| [[Plasma core]]
+| 250
+| 18
+| 243
+| 13.5
+| rowspan="3" | {{ID|0001EC47}}
+|-style="height:32px;"
+| 40
+| 50{{Icon|energy}}
+| 455{{Icon|energy}}
+| 91
+| 204
+| 41
+| ?
+| 30
+| 1.66{{Icon|energy}}
+| [[Plasma core]]
+| 250
+| 18
+| 243
+| 13.5
+|-style="height:32px;"
+| 50
+| 58{{Icon|energy}}
+| 527.8{{Icon|energy}}
+| 91
+| 204
+| 41
+| ?
+| 30
+| 1.933{{Icon|energy}}
+| [[Plasma core]]
+| 250
+| 18
+| 243
+| 13.5
+
+|- style="height:32px;"
+| rowspan="2" |[[File:F76WL Plasma Caster left.png|80px|link=Plasma caster (Wastelanders)]]
+| rowspan="2" |[[Plasma caster (Wastelanders)|Plasma caster]] {{Icon|FO76WL}}
+| 45
+| 68{{Icon|attack}} + 68{{Icon|energy}}
+| 136{{Icon|attack}} + 136{{Icon|energy}}
+| 20
+| 120
+| 23
+| ?
+| 30
+| 2.266{{Icon|attack}} + 2.266{{Icon|energy}}
+| [[Plasma cartridge (Fallout 76)|Plasma cartridge]]
+| 20
+| 18
+| 225
+| 12.5
+| rowspan="2" | {{ID|0055c166}}
+|- style="height:32px;"
+| 50
+| 76{{Icon|attack}} + 76{{Icon|energy}}
+| 152{{Icon|attack}} + 152{{Icon|energy}}
+| 20
+| 120
+| 23
+| ?
+| 30
+| 2.533{{Icon|attack}} + 2.533{{Icon|energy}}
+| [[Plasma cartridge (Fallout 76)|Plasma cartridge]]
+| 20
+| 18
+| 225
+| 12.5
+
+|- class="va-table-highlight" style="height:32px;"
+| [[File:SlugBuster.png|80px|link=Slug Buster]]
+| [[Slug Buster]] {{icon|FO76WL}}
+| 45
+| 29{{Icon|attack}} + 29{{Icon|energy}}
+| 95.7{{Icon|attack}} + 95.7{{Icon|energy}}
+| 33
+| 230
+| 172
+| ?
+| 25
+| 1.16{{Icon|attack}} + 1.16{{Icon|energy}}
+| [[Plasma cartridge (Fallout 76)|Plasma cartridge]]
+| 15
+| 2.7
+| 640
+| 237.04
+| {{ID|005a366e}}
+
+|}

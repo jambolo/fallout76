@@ -1,0 +1,420 @@
+===Shotguns===
+{| class="va-table va-table-center sortable va-table-full"
+!
+! {{Icon|shotgun|60px|tooltip=Shotgun name}}
+! {{Icon|level|x18px|tooltip=Level}}
+! {{Icon|damage|x18px|tooltip=Damage per shot|link=Damage}}
+! {{Icon|dps|x18px|tooltip=Damage per second}}
+! {{Icon|attack|x18px|tooltip=Fire rate}}
+! {{Icon|range|x18px|tooltip=Range}}
+! {{Icon|spread|x18px|tooltip=Accuracy}}
+! {{Icon|crit|x18px|tooltip=Critical hit Damage}}
+! {{Icon|ap|x18px|tooltip=Action point cost}}
+! {{Icon|dap|x18px|tooltip=Damage per Action Point}}
+! {{Icon|ammo|x18px|tooltip=Ammunition used|link=Fallout 76 ammunition}}
+! {{Icon|mag|x18px|tooltip=Magazine capacity (shots per reload)}}
+! {{Icon|weight|x18px|tooltip=Weapon weight}}
+! {{Icon|merchant|x18px|tooltip=Weapon value in caps}}
+! {{Icon|ratio|x18px|tooltip=Value to weight ratio}}
+! Base ID
+
+|-style="height:32px;"
+| rowspan="4" |[[File:FO76 combat shotgun.png|80px|link=Combat shotgun (Fallout 76)]]
+| rowspan="4" |[[Combat shotgun (Fallout 76)|Combat shotgun]]
+| 20
+| 60
+| 120
+| 20
+| 36
+| 16
+| ?
+| 35
+| 1.71
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 8
+| 9.8
+| 131
+| 13.37
+| rowspan="4" | {{ID|0014831C}}
+|-style="height:32px;"
+| 30
+| 70
+| 140
+| 20
+| 36
+| 16
+| ?
+| 35
+| 2
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 8
+| 9.8
+| 131
+| 13.37
+|-style="height:32px;"
+| 40
+| 80
+| 160
+| 20
+| 36
+| 16
+| ?
+| 35
+| 2.28
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 8
+| 9.8
+| 131
+| 13.37
+|-style="height:32px;"
+| 50
+| 90
+| 180
+| 20
+| 36
+| 16
+| ?
+| 35
+| 2.57
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 8
+| 9.8
+| 131
+| 13.37
+
+|-style="height:32px;"
+| rowspan="4" |[[File:FO76 Double-barrel shotgun.png|80px|link=Double-barrel shotgun (Fallout 76)]]
+| rowspan="4" |[[Double-barrel shotgun (Fallout 76)|Double-barrel shotgun]]
+| 15
+| 80
+| 288
+| 36
+| 36
+| 14
+| ?
+| 30
+| 2.66
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 2
+| 8.4
+| 105
+| 12.5
+| rowspan="4" | {{ID|00092217}}
+|-style="height:32px;"
+| 25
+| 90
+| 324
+| 36
+| 36
+| 14
+| ?
+| 30
+| 3
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 2
+| 8.4
+| 105
+| 12.5
+|-style="height:32px;"
+| 35
+| 100
+| 360
+| 36
+| 36
+| 14
+| ?
+| 30
+| 3.33
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 2
+| 8.4
+| 105
+| 12.5
+|-style="height:32px;"
+| 45
+| 115
+| 414
+| 36
+| 36
+| 14
+| ?
+| 30
+| 3.833
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 2
+| 8.4
+| 105
+| 12.5
+
+|- class="va-table-highlight" style="height:32px;"
+| [[File:FO76 Double-barrel shotgun.png|80px|link=Salt of the Earth]]
+| [[Salt of the Earth]] {{Icon|FO76NW}} {{limited}}
+| 45
+| 115
+| 590
+| 44
+| 36
+| 14
+| ?
+| 30
+| 3.833
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 2
+| 9.8
+| 219
+| 22.34
+| {{ID|0042b0d3}}
+
+|- style="height:32px;"
+| rowspan="6" |[[File:F76WL Gauss shotgun.png|80px|link=Gauss_shotgun]]
+| rowspan="6" |[[Gauss shotgun]] {{icon|FO76WL|Wastelanders}}
+| 25
+| 80
+| ?
+| ?
+| ?
+| ?
+| ?
+| 35
+| 2.28
+| [[2mm electromagnetic cartridge (Fallout 76)|2mm EC]]
+| 8
+| 7
+| 125
+| 12.85
+| rowspan="6" | {{ID|0055c150}}
+|- style="height:32px;"
+| 30
+| 85
+| ?
+| ?
+| ?
+| ?
+| ?
+| 35
+| 2.43
+| [[2mm electromagnetic cartridge (Fallout 76)|2mm EC]]
+| 8
+| 7
+| 125
+| 12.85
+|- style="height:32px;"
+| 35
+| 90
+| ?
+| ?
+| ?
+| ?
+| ?
+| 35
+| 2.57
+| [[2mm electromagnetic cartridge (Fallout 76)|2mm EC]]
+| 8
+| 7
+| 125
+| 12.85
+|- style="height:32px;"
+| 40
+| 95
+| ?
+| ?
+| ?
+| ?
+| ?
+| 35
+| 2.71
+| [[2mm electromagnetic cartridge (Fallout 76)|2mm EC]]
+| 8
+| 7
+| 125
+| 12.85
+|- style="height:32px;"
+| 45
+| 100
+| ?
+| ?
+| ?
+| ?
+| ?
+| 35
+| 2.85
+| [[2mm electromagnetic cartridge (Fallout 76)|2mm EC]]
+| 8
+| 7
+| 125
+| 12.85
+|- style="height:32px;"
+| 50
+| 105
+| ?
+| ?
+| ?
+| ?
+| ?
+| 35
+| 3
+| [[2mm electromagnetic cartridge (Fallout 76)|2mm EC]]
+| 8
+| 7
+| 125
+| 12.85
+
+|-style="height:32px;"
+| rowspan="5" |[[File:FO76 Pump-action shotgun.png|80px|link=Pump action shotgun (Fallout 76)]]
+| rowspan="5" |[[Pump action shotgun (Fallout 76)|Pump action shotgun]]
+| 5
+| 55
+| 27.5
+| 5
+| 36
+| 24
+| ?
+| 35
+| 1.57
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 8
+| 7.7
+| 45
+| 5.84
+| rowspan="5" | {{ID|0012DBB3}}
+|-style="height:32px;"
+| 15
+| 65
+| 32.5
+| 5
+| 36
+| 24
+| ?
+| 35
+| 1.86
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 8
+| 7.7
+| 45
+| 5.84
+|-style="height:32px;"
+| 25
+| 75
+| 37.5
+| 5
+| 36
+| 24
+| ?
+| 35
+| 2.14
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 8
+| 7.7
+| 45
+| 5.84
+|-style="height:32px;"
+| 35
+| 85
+| 42.5
+| 5
+| 36
+| 24
+| ?
+| 35
+| 2.43
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 8
+| 7.7
+| 45
+| 5.84
+|-style="height:32px;"
+| 45
+| 95
+| 47.5
+| 5
+| 36
+| 24
+| ?
+| 35
+| 2.71
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 8
+| 7.7
+| 45
+| 5.84
+
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="5" |[[File:Civil Unrest.png|80px|link=Civil_Unrest]]
+| rowspan="5" |[[Civil Unrest]]
+| 5
+| 55
+| 27.5
+| 5
+| 36
+| 24
+| ?
+| 35
+| 1.57
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 8
+| 7.7
+| 45
+| 5.84
+| rowspan="5" | {{ID|0012DBB3}}
+|- class="va-table-highlight" style="height:32px;"
+| 15
+| 65
+| 32.5
+| 5
+| 36
+| 24
+| ?
+| 35
+| 1.85
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 8
+| 7.7
+| 45
+| 5.84
+|- class="va-table-highlight" style="height:32px;"
+| 25
+| 75
+| 37.5
+| 5
+| 36
+| 24
+| ?
+| 35
+| 2.14
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 8
+| 7.7
+| 45
+| 5.84
+|- class="va-table-highlight" style="height:32px;"
+| 35
+| 85
+| 42.5
+| 5
+| 36
+| 24
+| ?
+| 35
+| 2.43
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 8
+| 7.7
+| 45
+| 5.84
+|- class="va-table-highlight" style="height:32px;"
+| 45
+| 95
+| 47.5
+| 5
+| 36
+| 24
+| ?
+| 35
+| 2.71
+| [[Shotgun shell (Fallout 76)|Shell]]
+| 8
+| 7.7
+| 45
+| 5.84
+
+|}

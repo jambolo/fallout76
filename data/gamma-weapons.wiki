@@ -1,0 +1,85 @@
+===Gamma===
+{| class="va-table va-table-center va-table-full sortable"
+!
+! {{Icon|pistol|24px|tooltip=Other weapon name}}
+! {{Icon|level|x18px|tooltip=Level}}
+! {{Icon|damage|x18px|tooltip=Damage per shot|link=Damage}}
+! {{Icon|dps|x18px|tooltip=Damage per second}}
+! {{Icon|attack|x18px|tooltip=Fire rate}}
+! {{Icon|range|x18px|tooltip=Range}}
+! {{Icon|spread|x18px|tooltip=Accuracy}}
+! {{Icon|crit|x18px|tooltip=Critical hit Damage}}
+! {{Icon|ap|x18px|tooltip=Action point cost}}
+! {{Icon|dap|x18px|tooltip=Damage per Action Point}}
+! {{Icon|ammo|x18px|tooltip=Ammunition used|link=Fallout 76 ammunition}}
+! {{Icon|mag|x18px|tooltip=Magazine capacity (shots per reload)}}
+! {{Icon|weight|x18px|tooltip=Weapon weight}}
+! {{Icon|merchant|x18px|tooltip=Weapon value in caps}}
+! {{Icon|ratio|x18px|tooltip=Value to weight ratio}}
+! Base ID
+
+|-style="height:32px;"
+| rowspan="4" |[[File:FO76 Gamma gun.png|80px|Gamma gun (Fallout 76)]]
+| rowspan="4" |[[Gamma gun (Fallout 76)|Gamma gun]]
+| 15
+| 77{{Icon|attack}} + 50{{Icon|radiation}}
+| 515.9{{Icon|attack}} + 335{{Icon|radiation}}
+| 67
+| 120
+| 71
+| ?
+| 30
+| 2.566{{Icon|attack}} + 1.66{{Icon|radiation}}
+| [[Gamma round (Fallout 76)|Gamma round]]
+| 8
+| 6
+| 81
+| 13.5
+| rowspan="4" | {{ID|000DDB7C}}
+|-style="height:32px;"
+| 25
+| 91{{Icon|attack}} + 50{{Icon|radiation}}
+| 609.7{{Icon|attack}} + 335{{Icon|radiation}}
+| 67
+| 120
+| 71
+| ?
+| 30
+| 3.033{{Icon|attack}} + 1.66{{Icon|radiation}}
+| [[Gamma round (Fallout 76)|Gamma round]]
+| 8
+| 6
+| 81
+| 13.5
+|-style="height:32px;"
+| 35
+| 105{{Icon|attack}} + 50{{Icon|radiation}}
+| 703.5{{Icon|attack}} + 335{{Icon|radiation}}
+| 67
+| 120
+| 71
+| ?
+| 30
+| 3.5{{Icon|attack}} + 1.66{{Icon|radiation}}
+| [[Gamma round (Fallout 76)|Gamma round]]
+| 8
+| 6
+| 81
+| 13.5
+|-style="height:32px;"
+| 45
+| 121{{Icon|attack}} + 50{{Icon|radiation}}
+| 810.7{{Icon|attack}} + 335{{Icon|radiation}}
+| 67
+| 120
+| 71
+| ?
+| 30
+| 4.033{{Icon|attack}} + 1.66{{Icon|radiation}}
+| [[Gamma round (Fallout 76)|Gamma round]]
+| 8
+| 6
+| 81
+| 13.5
+
+|}
