@@ -1,0 +1,275 @@
+{
+  "0014831a": {
+    "name": "Pipe bolt-action",
+    "levels": [
+      {
+        "level": 1,
+        "rawDamage": "40",
+        "speed": 3,
+        "range": 96,
+        "accuracy": 63,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 6,
+        "weight": 3,
+        "value": 35
+      },
+      {
+        "level": 5,
+        "rawDamage": "45",
+        "speed": 3,
+        "range": 96,
+        "accuracy": 63,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 6,
+        "weight": 3,
+        "value": 35
+      },
+      {
+        "level": 10,
+        "rawDamage": "50",
+        "speed": 3,
+        "range": 96,
+        "accuracy": 63,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 6,
+        "weight": 3,
+        "value": 35
+      },
+      {
+        "level": 20,
+        "rawDamage": "55",
+        "speed": 3,
+        "range": 96,
+        "accuracy": 63,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 6,
+        "weight": 3,
+        "value": 35
+      },
+      {
+        "level": 30,
+        "rawDamage": "60",
+        "speed": 3,
+        "range": 96,
+        "accuracy": 63,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 6,
+        "weight": 3,
+        "value": 35
+      },
+      {
+        "level": 40,
+        "rawDamage": "65",
+        "speed": 3,
+        "range": 96,
+        "accuracy": 63,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 6,
+        "weight": 3,
+        "value": 35
+      },
+      {
+        "level": 50,
+        "rawDamage": "70",
+        "speed": 3,
+        "range": 96,
+        "accuracy": 63,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 6,
+        "weight": 3,
+        "value": 35
+      }
+    ],
+    "id": "0014831a",
+    "ammo": ".308"
+  },
+  "00024f55": {
+    "name": "Pipe gun",
+    "levels": [
+      {
+        "level": 1,
+        "rawDamage": "12",
+        "speed": 60,
+        "range": 84,
+        "accuracy": 55,
+        "rawCrit": "-1",
+        "actionCost": 21,
+        "capacity": 12,
+        "weight": 4,
+        "value": 20
+      },
+      {
+        "level": 5,
+        "rawDamage": "13",
+        "speed": 60,
+        "range": 84,
+        "accuracy": 55,
+        "rawCrit": "-1",
+        "actionCost": 21,
+        "capacity": 12,
+        "weight": 4,
+        "value": 20
+      },
+      {
+        "level": 10,
+        "rawDamage": "15",
+        "speed": 60,
+        "range": 84,
+        "accuracy": 55,
+        "rawCrit": "-1",
+        "actionCost": 21,
+        "capacity": 12,
+        "weight": 4,
+        "value": 20
+      },
+      {
+        "level": 20,
+        "rawDamage": "18",
+        "speed": 60,
+        "range": 84,
+        "accuracy": 55,
+        "rawCrit": "-1",
+        "actionCost": 21,
+        "capacity": 12,
+        "weight": 4,
+        "value": 20
+      },
+      {
+        "level": 30,
+        "rawDamage": "21",
+        "speed": 60,
+        "range": 84,
+        "accuracy": 55,
+        "rawCrit": "-1",
+        "actionCost": 21,
+        "capacity": 12,
+        "weight": 4,
+        "value": 20
+      },
+      {
+        "level": 40,
+        "rawDamage": "23",
+        "speed": 60,
+        "range": 84,
+        "accuracy": 55,
+        "rawCrit": "-1",
+        "actionCost": 21,
+        "capacity": 12,
+        "weight": 4,
+        "value": 20
+      },
+      {
+        "level": 50,
+        "rawDamage": "26",
+        "speed": 60,
+        "range": 84,
+        "accuracy": 55,
+        "rawCrit": "-1",
+        "actionCost": 21,
+        "capacity": 12,
+        "weight": 4,
+        "value": 20
+      }
+    ],
+    "id": "00024f55",
+    "ammo": ".38"
+  },
+  "0014831b": {
+    "name": "Pipe revolver",
+    "levels": [
+      {
+        "level": 1,
+        "rawDamage": "27",
+        "speed": 5,
+        "range": 84,
+        "accuracy": 62,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 6,
+        "weight": 3,
+        "value": 24
+      },
+      {
+        "level": 5,
+        "rawDamage": "31",
+        "speed": 5,
+        "range": 84,
+        "accuracy": 62,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 6,
+        "weight": 3,
+        "value": 24
+      },
+      {
+        "level": 10,
+        "rawDamage": "36",
+        "speed": 5,
+        "range": 84,
+        "accuracy": 62,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 6,
+        "weight": 3,
+        "value": 24
+      },
+      {
+        "level": 20,
+        "rawDamage": "40",
+        "speed": 5,
+        "range": 84,
+        "accuracy": 62,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 6,
+        "weight": 3,
+        "value": 24
+      },
+      {
+        "level": 30,
+        "rawDamage": "45",
+        "speed": 5,
+        "range": 84,
+        "accuracy": 62,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 6,
+        "weight": 3,
+        "value": 24
+      },
+      {
+        "level": 40,
+        "rawDamage": "50",
+        "speed": 5,
+        "range": 84,
+        "accuracy": 62,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 6,
+        "weight": 3,
+        "value": 24
+      },
+      {
+        "level": 50,
+        "rawDamage": "55",
+        "speed": 5,
+        "range": 84,
+        "accuracy": 62,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 6,
+        "weight": 3,
+        "value": 24
+      }
+    ],
+    "id": "0014831b",
+    "ammo": ".45"
+  }
+}

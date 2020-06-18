@@ -18,3 +18,31 @@ Displays base dps for all weapons
 | --weapon, -w   | Display only this weapon |
 | --json         | Output the results in JSON format |
 | --csv          | Output the results in CSV format |
+
+## convert-weapon-wiki-to-json
+Converts the weapon information from the Fallout Wiki (https://fallout.fandom.com/wiki/Fallout_76_weapons) to JSON
+
+#### Command syntax
+
+    convert-weapon-wiki-to-json [--debug <n>] <type> <inpath> <outpath>
+
+#### Options
+
+| Option         | Description |
+|----------------|-------------|
+| --debug, -d    | Dumps the current state of the conversion at the desired stage |
+
+#### Parameters
+
+| Parameter | Description |
+|-----------|-------------|
+| type      | Type of weapon table. One of "ranged", "melee", or "explosives" |
+| inpath    | Wiki input file path |
+| outpath   | JSON output file path |
+
+## convert-all-wiki-data
+Converts all wiki files using convert-weapon-wiki-to-json
+
+#### Command syntax
+
+    convert-all-wiki-data

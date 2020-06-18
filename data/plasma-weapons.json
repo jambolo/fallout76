@@ -1,0 +1,150 @@
+{
+  "00100ae9": {
+    "name": "Plasma gun",
+    "levels": [
+      {
+        "level": 15,
+        "rawDamage": "14&attack& + 14&energy&",
+        "speed": 33,
+        "range": 120,
+        "accuracy": 144,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 30,
+        "weight": 3.3,
+        "value": 75
+      },
+      {
+        "level": 25,
+        "rawDamage": "16&attack& + 16&energy&",
+        "speed": 33,
+        "range": 120,
+        "accuracy": 144,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 30,
+        "weight": 3.3,
+        "value": 75
+      },
+      {
+        "level": 35,
+        "rawDamage": "19&attack& + 19&energy&",
+        "speed": 33,
+        "range": 120,
+        "accuracy": 144,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 30,
+        "weight": 3.3,
+        "value": 75
+      },
+      {
+        "level": 45,
+        "rawDamage": "22&attack& + 22&energy&",
+        "speed": 33,
+        "range": 120,
+        "accuracy": 144,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 30,
+        "weight": 3.3,
+        "value": 75
+      }
+    ],
+    "id": "00100ae9",
+    "ammo": "Plasma cartridge"
+  },
+  "0001ec47": {
+    "name": "Gatling plasma",
+    "levels": [
+      {
+        "level": 30,
+        "rawDamage": "43&energy&",
+        "speed": 91,
+        "range": 204,
+        "accuracy": 41,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 250,
+        "weight": 18,
+        "value": 243
+      },
+      {
+        "level": 40,
+        "rawDamage": "50&energy&",
+        "speed": 91,
+        "range": 204,
+        "accuracy": 41,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 250,
+        "weight": 18,
+        "value": 243
+      },
+      {
+        "level": 50,
+        "rawDamage": "58&energy&",
+        "speed": 91,
+        "range": 204,
+        "accuracy": 41,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 250,
+        "weight": 18,
+        "value": 243
+      }
+    ],
+    "id": "0001ec47",
+    "ammo": "Plasma core"
+  },
+  "0055c166": {
+    "name": "Plasma caster",
+    "levels": [
+      {
+        "level": 45,
+        "rawDamage": "68&attack& + 68&energy&",
+        "speed": 20,
+        "range": 120,
+        "accuracy": 23,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 20,
+        "weight": 18,
+        "value": 225
+      },
+      {
+        "level": 50,
+        "rawDamage": "76&attack& + 76&energy&",
+        "speed": 20,
+        "range": 120,
+        "accuracy": 23,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 20,
+        "weight": 18,
+        "value": 225
+      }
+    ],
+    "id": "0055c166",
+    "ammo": "Plasma cartridge"
+  },
+  "005a366e": {
+    "name": "Slug Buster",
+    "levels": [
+      {
+        "level": 45,
+        "rawDamage": "29&attack& + 29&energy&",
+        "speed": 33,
+        "range": 230,
+        "accuracy": 172,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 15,
+        "weight": 2.7,
+        "value": 640
+      }
+    ],
+    "id": "005a366e",
+    "ammo": "Plasma cartridge"
+  }
+}

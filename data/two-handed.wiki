@@ -1,0 +1,1176 @@
+===Two handed===
+{| class="va-table va-table-center va-table-full sortable"
+!
+! {{Icon|blunt|x24px|tooltip=Two-handed melee weapon name}}
+! {{Icon|level|x18px|tooltip=Level}}
+! {{Icon|damage|x18px|tooltip=Damage per attack|link=Damage}}
+! {{Icon|dps|x18px|tooltip=Damage per second}}
+! {{Icon|attack|x18px|tooltip=Speed}}
+! {{Icon|crit|x18px|tooltip=Critical hit Damage}}
+! {{Icon|ap|x18px|tooltip=Action point cost}}
+! {{Icon|dap|x18px|tooltip=Damage per Action Point}}
+! {{Icon|weight|x18px|tooltip=Weapon weight}}
+! {{Icon|merchant|x18px|tooltip=Weapon value in caps}}
+! {{Icon|ratio|x18px|tooltip=Value to weight ratio}}
+! Base ID
+
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="1" |[[File:All Rise.png|80px|link=All Rise]]
+| rowspan="1" |[[All Rise]]
+| 50
+| 160
+| 96
+| Slow
+| ?
+| 45
+| 3.55
+| 20
+| 70
+| 3.5
+| rowspan="1" | {{ID|000FF964}}
+
+|- style="height:32px;"
+| rowspan="6" |[[File:FO76 Baseball bat.png|80px|link=Baseball bat (Fallout 76)]]
+| rowspan="6" |[[Baseball bat (Fallout 76)|Baseball bat]]
+| 1
+| 28
+| 16.8
+| Slow
+| ?
+| 35
+| ?
+| 3
+| 12
+| 0.25
+| rowspan="6" | {{ID|0008E736}}
+|- style="height:32px;"
+| 5
+| 35
+| 21
+| Slow
+| ?
+| 35
+| ?
+| 3
+| 25
+| 8.33
+|- style="height:32px;"
+| 15
+| 40
+| 24
+| Slow
+| ?
+| 35
+| ?
+| 3
+| 25
+| 8.33
+|- style="height:32px;"
+| 25
+| 45
+| 27
+| Slow
+| ?
+| 35
+| ?
+| 3
+| 25
+| 8.33
+|- style="height:32px;"
+| 35
+| 50
+| 30
+| Slow
+| ?
+| 35
+| ?
+| 3
+| 25
+| 8.33
+|- style="height:32px;"
+| 45
+| 55
+| 33
+| Slow
+| ?
+| 35
+| ?
+| 3
+| 25
+| 8.33
+
+|- style="height:32px;"
+| rowspan="6" |[[File:FO76 Board.png|80px|link=Board (Fallout 76)]]
+| rowspan="6" |[[Board (Fallout 76)|Board]]
+| 1
+| 25
+| 15
+| Slow
+| ?
+| 33
+| ?
+| 10
+| 3
+| 3.33
+| rowspan="6" | {{ID|0005C250}}
+|- style="height:32px;"
+| 5
+| 30
+| 18
+| Slow
+| ?
+| 33
+| ?
+| 10
+| 3
+| 3.33
+|- style="height:32px;"
+| 15
+| 35
+| 21
+| Slow
+| ?
+| 33
+| ?
+| 10
+| 3
+| 3.33
+|- style="height:32px;"
+| 25
+| 40
+| 24
+| Slow
+| ?
+| 33
+| ?
+| 10
+| 3
+| 3.33
+|- style="height:32px;"
+| 35
+| 45
+| 27
+| Slow
+| ?
+| 33
+| ?
+| 10
+| 3
+| 3.33
+|- style="height:32px;"
+| 45
+| 50
+| 30
+| Slow
+| ?
+| 33
+| ?
+| 10
+| 3
+| 3.33
+
+|- style="height:32px;"
+| rowspan="4" |[[File:FO76 Bone hammer.png|80px|link=Bone hammer]]
+| rowspan="4" |[[Bone hammer]]
+| 15
+| 50
+| 12
+| Slow
+| ?
+| 40
+| ?
+| 12
+| 45
+| 3.75
+| rowspan="4" | {{ID|003643D9}}
+|- style="height:32px;"
+| 25
+| 60
+| 36
+| Slow
+| ?
+| 40
+| ?
+| 12
+| 45
+| 3.75
+|- style="height:32px;"
+| 35
+| 70
+| 42
+| Slow
+| ?
+| 40
+| ?
+| 12
+| 45
+| 3.75
+|- style="height:32px;"
+| 45
+| 80
+| 48
+| Slow
+| ?
+| 40
+| ?
+| 12
+| 45
+| 3.75
+
+|- style="height:32px;"
+| rowspan="5" |[[File:Fire axe.png|80px|link=Fire axe (Fallout 76)]]
+| rowspan="5" |[[Fire axe (Fallout 76)|Fire axe]]
+| 5
+| 35
+| 21
+| Slow
+| ?
+| 30
+| ?
+| 3
+| 15
+| 5
+| rowspan="5" | {{ID|0012B793}}
+|- style="height:32px;"
+| 15
+| 45
+| 27
+| Slow
+| ?
+| 30
+| ?
+| 3
+| 15
+| 5
+|- style="height:32px;"
+| 25
+| 55
+| 33
+| Slow
+| ?
+| 30
+| ?
+| 3
+| 15
+| 5
+|- style="height:32px;"
+| 35
+| 65
+| 39
+| Slow
+| ?
+| 30
+| ?
+| 3
+| 15
+| 5
+|- style="height:32px;"
+| 45
+| 72
+| 43.2
+| Slow
+| ?
+| 30
+| ?
+| 3
+| 15
+| 5
+
+|- style="height:32px;"
+| rowspan="6" |[[File:FO76 Golf club.png|100px|link=Golf club]]
+| rowspan="6" |[[Golf club]]
+| 1
+| 24
+| 14.4
+| Slow
+| ?
+| 40
+| ?
+| 3
+| 25
+| 8.33
+| rowspan="6" | {{ID|00073677}}
+|- style="height:32px;"
+| 5
+| 25
+| 15
+| Slow
+| ?
+| 40
+| ?
+| 3
+| 25
+| 8.33
+|- style="height:32px;"
+| 15
+| 30
+| 18
+| Slow
+| ?
+| 40
+| ?
+| 3
+| 25
+| 8.33
+|- style="height:32px;"
+| 25
+| 35
+| 21
+| Slow
+| ?
+| 40
+| ?
+| 3
+| 25
+| 8.33
+|- style="height:32px;"
+| 35
+| 40
+| 24
+| Slow
+| ?
+| 40
+| ?
+| 3
+| 25
+| 8.33
+|- style="height:32px;"
+| 45
+| 45
+| 27
+| Slow
+| ?
+| 40
+| ?
+| 3
+| 25
+| 8.33
+
+
+|- style="height:32px;"
+| rowspan="3" |[[File:Grognaks axe.png|80px|link=Grognak's axe (Fallout 76)]]
+| rowspan="3" |[[Grognak's axe (Fallout 76)|Grognak's axe]]
+| 30
+| 65
+| 39
+| Slow
+| ?
+| 20
+| ?
+| 10
+| 100
+| 10
+| rowspan="3" | {{ID|00183FCD}}
+|- style="height:32px;"
+| 40
+| 75
+| 45
+| Slow
+| ?
+| 20
+| ?
+| 10
+| 100
+| 10
+|- style="height:32px;"
+| 50
+| 85
+| 51
+| Slow
+| ?
+| 20
+| ?
+| 10
+| 100
+| 10
+
+|- style="height:32px;"
+| rowspan="4" |[[File:Mr. Handy buzz blade.png|80px|link=Mr. Handy buzz blade (Fallout 76)]]
+| rowspan="4" |[[Mr. Handy buzz blade (Fallout 76)|Mr. Handy buzz blade]]
+| 15
+| 2
+| 
+| Very Fast
+| ?
+| 40
+| ?
+| 10
+| 50
+| 5
+| rowspan="4" | {{ID|0010EC97}}
+|- style="height:32px;"
+| 25
+| 4
+| 
+| Very Fast
+| ?
+| 40
+| ?
+| 10
+| 50
+| 5
+|- style="height:32px;"
+| 35
+| 6
+| 
+| Very Fast
+| ?
+| 40
+| ?
+| 10
+| 50
+| 5
+|- style="height:32px;"
+| 45
+| 8
+| 
+| Very Fast
+| ?
+| 40
+| ?
+| 10
+| 50
+| 5
+
+
+|- style="height:32px;"
+| rowspan="6" |[[File:F76_Multipurpose_Axe.png|80px]]
+| rowspan="6" |[[Multi-purpose axe]]
+| 1
+| 26
+| 15.6
+| Slow
+| ?
+| 40
+| ?
+| 4
+| 40
+| 10
+| rowspan="6" | {{ID|002A0405}}
+|- style="height:32px;"
+| 5
+| 32
+| 19.2
+| Slow
+| ?
+| 40
+| ?
+| 4
+| 40
+| 10
+|- style="height:32px;"
+| 15
+| 42
+| 25.2
+| Slow
+| ?
+| 40
+| ?
+| 4
+| 40
+| 10
+|- style="height:32px;"
+| 25
+| 52
+| 31.2
+| Slow
+| ?
+| 40
+| ?
+| 4
+| 40
+| 10
+|- style="height:32px;"
+| 35
+| 62
+| 37.2
+| Slow
+| ?
+| 40
+| ?
+| 4
+| 40
+| 10
+|- style="height:32px;"
+| 45
+| 69
+| 41.4
+| Slow
+| ?
+| 40
+| ?
+| 4
+| 40
+| 10
+
+|-style="height:32px;"
+| rowspan="5" |[[File:Pickaxe(FO76).png|80px|link=Pickaxe]]
+| rowspan="5" |[[Pickaxe]]
+| 5
+| 32
+| 19.2
+| Slow
+| ?
+| 40
+| ?
+| 2.5
+| 40
+| 16
+| rowspan="5" | {{ID|00002840}}
+|- style="height:32px;"
+| 15
+| 41
+| 24.6
+| Slow
+| ?
+| 40
+| ?
+| 2.5
+| 40
+| 16
+|- style="height:32px;"
+| 25
+| 48
+| 28.8
+| Slow
+| ?
+| 40
+| ?
+| 2.5
+| 40
+| 16
+|- style="height:32px;"
+| 35
+| 55
+| 33
+| Slow
+| ?
+| 40
+| ?
+| 2.5
+| 40
+| 16
+|- style="height:32px;"
+| 45
+| 60
+| 36
+| Slow
+| ?
+| 40
+| ?
+| 2.5
+| 40
+| 16
+
+|-style="height:32px;"
+| rowspan="6" |[[File:FO76 Pitchfork.png|80px|link=Pitchfork]]
+| rowspan="6" |[[Pitchfork]]
+| 1
+| 22
+| 19.8
+| Medium
+| ?
+| 40
+| ?
+| 2
+| 15
+| 7.5
+| rowspan="6" | {{ID|0003A1D1}}
+|- style="height:32px;"
+| 5
+| 27
+| 24.3
+| Medium
+| ?
+| 40
+| ?
+| 2
+| 15
+| 7.5
+|- style="height:32px;"
+| 15
+| 32
+| 28.8
+| Medium
+| ?
+| 40
+| ?
+| 2
+| 15
+| 7.5
+|- style="height:32px;"
+| 25
+| 37
+| 33.3
+| Medium
+| ?
+| 40
+| ?
+| 2
+| 15
+| 7.5
+|- style="height:32px;"
+| 35
+| 42
+| 37.8
+| Medium
+| ?
+| 40
+| ?
+| 2
+| 15
+| 7.5
+|- style="height:32px;"
+| 45
+| 47
+| 42.3
+| Medium
+| ?
+| 40
+| ?
+| 2
+| 15
+| 7.5
+
+|- style="height:32px;"
+| rowspan="5" |[[File:Pole_hook.png|100px|link= Pole hook (Fallout 76)]]
+| rowspan="5" |[[Pole hook (Fallout 76)|Pole hook]]
+| 10
+| 43
+| 25.8
+| Slow
+| ?
+| 40
+| ?
+| 7
+| 45
+| 6.42
+| rowspan="5" | {{ID|00110771}}
+|- style="height:32px;"
+| 20
+| 50
+| 30
+| Slow
+| ?
+| 40
+| ?
+| 7
+| 45
+| 6.42
+|- style="height:32px;"
+| 30
+| 57
+| 34.2
+| Slow
+| ?
+| 40
+| ?
+| 7
+| 45
+| 6.42
+|- style="height:32px;"
+| 40
+| 65
+| 39
+| Slow
+| ?
+| 40
+| ?
+| 7
+| 45
+| 6.42
+|- style="height:32px;"
+| 50
+| 71
+| 42.6
+| Slow
+| ?
+| 40
+| ?
+| 7
+| 45
+| 6.42
+
+
+|- style="height:32px;"
+| rowspan="6" |[[File:Fallout4_Pool_cue.png|80px|link=Pool cue (Fallout 76)]]
+| rowspan="6" |[[Pool cue (Fallout 76)|Pool cue]]
+| 1
+| 21
+| 12.6
+| Slow
+| ?
+| 30
+| ?
+| 1
+| 10
+| 10
+| rowspan="6" | {{ID|000FA3E8}}
+|- style="height:32px;"
+| 5
+| 26
+| 15.6
+| Slow
+| ?
+| 30
+| ?
+| 1
+| 10
+| 10
+|- style="height:32px;"
+| 15
+| 31
+| 18.6
+| Slow
+| ?
+| 30
+| ?
+| 1
+| 10
+| 10
+|- style="height:32px;"
+| 25
+| 36
+| 21.6
+| Slow
+| ?
+| 30
+| ?
+| 1
+| 10
+| 10
+|- style="height:32px;"
+| 35
+| 41
+| 24.6
+| Slow
+| ?
+| 30
+| ?
+| 1
+| 10
+| 10
+|- style="height:32px;"
+| 45
+| 46
+| 27.6
+| Slow
+| ?
+| 30
+| ?
+| 1
+| 10
+| 10
+
+|- style="height:32px;"
+| rowspan="1" |[[File:Fallout_76_Protest_Sign_3_Against_Automation.png|50px|link=Protest sign]]
+| rowspan="1" |[[Protest sign]] (All Variants)
+| 1
+| 10
+| 6
+| Slow
+| ?
+| 33
+| ?
+| 3
+| 1
+| 0.33
+| rowspan="1" |{{ID|002d481e}} (Dad Needs Jobs)<br />{{ID|002d4837}} (Jobs) <br />{{ID|002d4857}} (Against Automation)<br />{{ID|002d4864}} (Want to Work)<br />{{ID|002d4865}} (People First)<br />{{ID|002d4866}} (Jobs or Blood)<br />{{ID|002d4867}} (Give Jobs Back)<br />{{ID|002d4960}} (Block the Bot)<br />{{ID|002d4a7f}} (Men not machines)<br />{{ID|002d4aa0}} (Ain't a Commie)
+
+|- style="height:32px;"
+| rowspan="5" |[[File:F76WA Sheepsquatch staff.png|80px|link=Sheepsquatch staff]]
+| rowspan="5" |[[Sheepsquatch staff]] {{icon|FO76WA|link=Wild Appalachia}}
+| 10
+| 35
+| 21
+| Slow
+| ?
+| 40
+| ?
+| 12
+| 40
+| 3.33
+| rowspan="5" | {{ID|00455847}}
+|- style="height:32px;"
+| 20
+| 45
+| 27
+| Slow
+| ?
+| 40
+| ?
+| 12
+| 40
+| 3.33
+|- style="height:32px;"
+| 30
+| 55
+| 33
+| Slow
+| ?
+| 40
+| ?
+| 12
+| 40
+| 3.33
+|- style="height:32px;"
+| 40
+| 65
+| 39
+| Slow
+| ?
+| 40
+| ?
+| 12
+| 40
+| 3.33
+|- style="height:32px;"
+| 50
+| 75
+| 45
+| Slow
+| ?
+| 40
+| ?
+| 12
+| 40
+| 3.33
+
+
+|- style="height:32px;"
+| rowspan="5" |[[File:FO76WA Shepherd's crook.png|100px|link=Shepherd's crook]]
+| rowspan="5" |[[Shepherd's crook]] {{icon|FO76WA|link=Wild Appalachia}}
+| 10
+| 10
+| 6
+| Slow
+| ?
+| 40
+| ?
+| 7
+| 45
+| 6.42
+| rowspan="5" | {{ID|0045582b}}
+|- style="height:32px;"
+| 20
+| 20
+| 12
+| Slow
+| ?
+| 40
+| ?
+| 7
+| 45
+| 6.42
+|- style="height:32px;"
+| 30
+| 30
+| 18
+| Slow
+| ?
+| 40
+| ?
+| 7
+| 45
+| 6.42
+|- style="height:32px;"
+| 40
+| 40
+| 24
+| Slow
+| ?
+| 40
+| ?
+| 7
+| 45
+| 6.42
+|- style="height:32px;"
+| 50
+| 50
+| 30
+| Slow
+| ?
+| 40
+| ?
+| 7
+| 45
+| 6.42
+
+|- style="height:32px;"
+| rowspan="6" |[[File:FO76 Shovel.png|60px|link=Shovel (Fallout 76)]]
+| rowspan="6" |[[Shovel (Fallout 76)|Shovel]]
+| 1
+| 15
+| 9
+| Slow
+| ?
+| 40
+| ?
+| 6
+| 40
+| 6.67
+| rowspan="6" | {{ID|004E2E20}}
+|- style="height:32px;"
+| 5
+| 20
+| 12
+| Slow
+| ?
+| 40
+| ?
+| 6
+| 40
+| 6.67
+|- style="height:32px;"
+| 15
+| 25
+| 15
+| Slow
+| ?
+| 40
+| ?
+| 6
+| 40
+| 6.67
+|- style="height:32px;"
+| 25
+| 30
+| 18
+| Slow
+| ?
+| 40
+| ?
+| 6
+| 40
+| 6.67
+|- style="height:32px;"
+| 35
+| 35
+| 21
+| Slow
+| ?
+| 40
+| ?
+| 6
+| 40
+| 6.67
+|- style="height:32px;"
+| 45
+| 40
+| 24
+| Slow
+| ?
+| 40
+| ?
+| 6
+| 40
+| 6.67
+
+|- style="height:32px;"
+| rowspan="5" |[[File:Fo4 sledgehammer.png|80px|link=Sledgehammer (Fallout 76)]]
+| rowspan="5" |[[Sledgehammer (Fallout 76)|Sledgehammer]]
+| 10
+| 43
+| 25.8
+| Slow
+| ?
+| ?
+| ?
+| 12
+| ?
+| ?
+| rowspan="5" | {{ID|000E7AB9}}
+|- style="height:32px;"
+| 20
+| 50
+| 30
+| Slow
+| ?
+| 40
+| ?
+| 12
+| 40
+| 3.33
+|- style="height:32px;"
+| 30
+| 57
+| 34.2
+| Slow
+| ?
+| 40
+| ?
+| 12
+| 40
+| 3.33
+|- style="height:32px;"
+| 40
+| 65
+| 39
+| Slow
+| ?
+| 40
+| ?
+| 12
+| 40
+| 3.33
+|- style="height:32px;"
+| 50
+| 71
+| 42.6
+| Slow
+| ?
+| 40
+| ?
+| 12
+| 40
+| 3.33
+
+|-style="height:32px;"
+| rowspan="4" |[[File:FO76 Spear.png|80px|link=Spear (Fallout 76)]]
+| rowspan="4" |[[Spear (Fallout 76)|Spear]]
+| 15
+| 43
+| 38.7
+| Medium
+| ?
+| 40
+| ?
+| 2
+| 40
+| 80
+| rowspan="4" | {{ID|002D473A}}
+|- style="height:32px;"
+| 25
+| 48
+| 43.2
+| Medium
+| ?
+| 40
+| ?
+| 2
+| 40
+| 80
+|- style="height:32px;"
+| 35
+| 53
+| 47.7
+| Medium
+| ?
+| 40
+| ?
+| 2
+| 40
+| 80
+|- style="height:32px;"
+| 45
+| 58
+| 52.2
+| Medium
+| ?
+| 40
+| ?
+| 2
+| 40
+| 80
+
+|- style="height:32px;"
+| rowspan="3" |[[File:Super sledge (Fallout_4).png|80px|link=Super sledge (Fallout 76)]]
+| rowspan="3" |[[Super sledge (Fallout 76)|Super sledge]]
+| 30
+| 65
+| 39
+| Slow
+| ?
+| 45
+| ?
+| 20
+| 70
+| 3.5
+| rowspan="3" | {{ID|000FF964}}
+|- style="height:32px;"
+| 40
+| 75
+| 45
+| Slow
+| ?
+| 45
+| ?
+| 20
+| 70
+| 3.5
+|- style="height:32px;"
+| 50
+| 85
+| 51
+| Slow
+| ?
+| 45
+| ?
+| 20
+| 70
+| 3.5
+
+|- style="height:32px;"
+| rowspan="1" |[[File:FO76NW Tenderizer.png|80px|link=Tenderizer]]
+| rowspan="1" |[[Tenderizer]] {{icon|FO76NW}} {{Limited}}
+| 50
+| 75
+| 45
+| Slow
+| ?
+| 45
+| ?
+| 20
+| 70
+| 3.5
+| {{ID|00553295}}
+
+|- style="height:32px;"
+| rowspan="4" |[[File:Wardrum.png|80px|link=War drum]]
+| rowspan="4" |[[War drum]]
+| 15
+| 48
+| 28.8
+| Slow
+| ?
+| 45
+| ?
+| 20
+| 115
+| 5.75
+| rowspan="4" | {{ID|0000DC57}}
+|- style="height:32px;"
+| 25
+| 58
+| 34.8
+| Slow
+| ?
+| 45
+| ?
+| 20
+| 115
+| 5.75
+|- style="height:32px;"
+| 35
+| 68
+| 40.8
+| Slow
+| ?
+| 45
+| ?
+| 20
+| 115
+| 5.75
+|- style="height:32px;"
+| 45
+| 78
+| 46.8
+| Slow
+| ?
+| 45
+| ?
+| 20
+| 115
+| 5.75
+
+|}

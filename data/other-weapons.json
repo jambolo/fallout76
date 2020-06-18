@@ -1,0 +1,212 @@
+{
+  "000ff995": {
+    "name": "Alien blaster",
+    "levels": [
+      {
+        "level": 20,
+        "rawDamage": "15&energy&",
+        "speed": 100,
+        "range": 120,
+        "accuracy": 75,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 42,
+        "weight": 2,
+        "value": 90
+      },
+      {
+        "level": 30,
+        "rawDamage": "19&energy&",
+        "speed": 100,
+        "range": 120,
+        "accuracy": 75,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 42,
+        "weight": 2,
+        "value": 90
+      },
+      {
+        "level": 40,
+        "rawDamage": "22&energy&",
+        "speed": 100,
+        "range": 120,
+        "accuracy": 75,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 42,
+        "weight": 2,
+        "value": 90
+      },
+      {
+        "level": 50,
+        "rawDamage": "29&energy&",
+        "speed": 100,
+        "range": 120,
+        "accuracy": 75,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 42,
+        "weight": 2,
+        "value": 90
+      }
+    ],
+    "id": "000ff995",
+    "ammo": "Alien blaster round"
+  },
+  "005a21a2": {
+    "name": "The V.A.T.S. Unknown",
+    "levels": [
+      {
+        "level": -1,
+        "rawDamage": "25&energy&",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 73,
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "capacity": 42,
+        "weight": 2.25,
+        "value": 556
+      }
+    ],
+    "id": "005a21a2",
+    "ammo": "Alien blaster round"
+  },
+  "00171b2b": {
+    "name": "Cryolator",
+    "levels": [
+      {
+        "level": 25,
+        "rawDamage": "24&energy&",
+        "speed": 91,
+        "range": 120,
+        "accuracy": 70,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 25,
+        "weight": 10,
+        "value": 145
+      },
+      {
+        "level": 35,
+        "rawDamage": "30&energy&",
+        "speed": 91,
+        "range": 120,
+        "accuracy": 70,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 25,
+        "weight": 10,
+        "value": 145
+      },
+      {
+        "level": 45,
+        "rawDamage": "36&energy&",
+        "speed": 91,
+        "range": 120,
+        "accuracy": 70,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 25,
+        "weight": 10,
+        "value": 145
+      }
+    ],
+    "id": "00171b2b",
+    "ammo": "Cryo cell"
+  },
+  "0010faa7": {
+    "name": "Salvaged assaultron head",
+    "levels": [
+      {
+        "level": 25,
+        "rawDamage": "30&energy&",
+        "speed": 12,
+        "range": 94,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 12,
+        "weight": 8,
+        "value": 115
+      },
+      {
+        "level": 35,
+        "rawDamage": "40&energy&",
+        "speed": 12,
+        "range": 94,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 12,
+        "weight": 8,
+        "value": 115
+      },
+      {
+        "level": 45,
+        "rawDamage": "50&energy&",
+        "speed": 12,
+        "range": 94,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 12,
+        "weight": 8,
+        "value": 115
+      }
+    ],
+    "id": "0010faa7",
+    "ammo": "Fusion cell"
+  },
+  "0010f0ec": {
+    "name": "Tesla rifle",
+    "levels": [
+      {
+        "level": 40,
+        "rawDamage": "66&energy&",
+        "speed": 20,
+        "range": 228,
+        "accuracy": 72,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 15,
+        "weight": 8,
+        "value": 180
+      },
+      {
+        "level": 50,
+        "rawDamage": "78&energy&",
+        "speed": 20,
+        "range": 228,
+        "accuracy": 72,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 15,
+        "weight": 8,
+        "value": 180
+      }
+    ],
+    "id": "0010f0ec",
+    "ammo": "Fusion cell"
+  },
+  "0042b0cd": {
+    "name": "Night Light",
+    "levels": [
+      {
+        "level": 50,
+        "rawDamage": "40&energy&",
+        "speed": 114,
+        "range": 204,
+        "accuracy": 75,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 15,
+        "weight": 8,
+        "value": 180
+      }
+    ],
+    "id": "0042b0cd",
+    "ammo": "Fusion cell"
+  }
+}

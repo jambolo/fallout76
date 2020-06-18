@@ -1,0 +1,335 @@
+{
+  "0055c152": {
+    "name": null,
+    "levels": [
+      {
+        "level": null,
+        "rawDamage": "1",
+        "speed": 400,
+        "range": 100,
+        "accuracy": 204,
+        "rawCrit": "53",
+        "actionCost": -1,
+        "capacity": null,
+        "weight": 1,
+        "value": 3
+      },
+      {
+        "level": 5,
+        "rawDamage": "45",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 10,
+        "rawDamage": "50",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 15,
+        "rawDamage": "55",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 20,
+        "rawDamage": "60",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 25,
+        "rawDamage": "65",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 30,
+        "rawDamage": "70",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 35,
+        "rawDamage": "75",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 40,
+        "rawDamage": "80",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 45,
+        "rawDamage": "85",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 50,
+        "rawDamage": "90",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      }
+    ],
+    "id": "0055c152",
+    "ammo": null
+  },
+  "00013ce9": {
+    "name": "Compound bow",
+    "levels": [
+      {
+        "level": 1,
+        "rawDamage": "50",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 5,
+        "rawDamage": "55",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 10,
+        "rawDamage": "60",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 15,
+        "rawDamage": "65",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 20,
+        "rawDamage": "70",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 25,
+        "rawDamage": "75",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 30,
+        "rawDamage": "80",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 35,
+        "rawDamage": "85",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 40,
+        "rawDamage": "90",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 45,
+        "rawDamage": "95",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      },
+      {
+        "level": 50,
+        "rawDamage": "100",
+        "speed": 100,
+        "range": 204,
+        "accuracy": 53,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 1,
+        "weight": 3,
+        "value": 44
+      }
+    ],
+    "id": "00013ce9",
+    "ammo": "Arrow"
+  },
+  "00055463": {
+    "name": "Crossbow",
+    "levels": [
+      {
+        "level": 15,
+        "rawDamage": "55",
+        "speed": 4,
+        "range": 186,
+        "accuracy": 70,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 7.2,
+        "value": 73
+      },
+      {
+        "level": 25,
+        "rawDamage": "60",
+        "speed": 4,
+        "range": 186,
+        "accuracy": 70,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 7.2,
+        "value": 73
+      },
+      {
+        "level": 35,
+        "rawDamage": "65",
+        "speed": 4,
+        "range": 186,
+        "accuracy": 70,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 7.2,
+        "value": 73
+      },
+      {
+        "level": 45,
+        "rawDamage": "70",
+        "speed": 4,
+        "range": 186,
+        "accuracy": 70,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 7.2,
+        "value": 73
+      }
+    ],
+    "id": "00055463",
+    "ammo": "Crossbow bolt"
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "00182634": {
+    "name": "Auto grenade launcher",
+    "levels": [
+      {
+        "level": 40,
+        "rawDamage": "110",
+        "speed": 100,
+        "range": 120,
+        "accuracy": 55,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 12,
+        "weight": 19.8,
+        "value": 200
+      },
+      {
+        "level": 50,
+        "rawDamage": "120",
+        "speed": 100,
+        "range": 120,
+        "accuracy": 55,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 12,
+        "weight": 19.8,
+        "value": 200
+      }
+    ],
+    "id": "00182634",
+    "ammo": "40mm grenade"
+  },
+  "000bd56f": {
+    "name": "Fat Man",
+    "levels": [
+      {
+        "level": 25,
+        "rawDamage": "721",
+        "speed": 2,
+        "range": 117,
+        "accuracy": 64,
+        "rawCrit": "-1",
+        "actionCost": 60,
+        "capacity": 1,
+        "weight": 20,
+        "value": 243
+      },
+      {
+        "level": 35,
+        "rawDamage": "821",
+        "speed": 2,
+        "range": 117,
+        "accuracy": 64,
+        "rawCrit": "-1",
+        "actionCost": 60,
+        "capacity": 1,
+        "weight": 20,
+        "value": 243
+      },
+      {
+        "level": 45,
+        "rawDamage": "921",
+        "speed": 2,
+        "range": 117,
+        "accuracy": 64,
+        "rawCrit": "-1",
+        "actionCost": 60,
+        "capacity": 1,
+        "weight": 20,
+        "value": 243
+      }
+    ],
+    "id": "000bd56f",
+    "ammo": "Mini nuke"
+  },
+  "00403024": {
+    "name": "The Guarantee",
+    "levels": [
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": -1,
+        "range": -1,
+        "accuracy": -1,
+        "rawCrit": "-1",
+        "actionCost": 60,
+        "capacity": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "00403024",
+    "ammo": "Mini nuke"
+  },
+  "0008f0ef": {
+    "name": "M79 grenade launcher",
+    "levels": [
+      {
+        "level": 15,
+        "rawDamage": "90",
+        "speed": 3,
+        "range": 120,
+        "accuracy": 27,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 1,
+        "weight": 7.8,
+        "value": 32
+      },
+      {
+        "level": 25,
+        "rawDamage": "100",
+        "speed": 3,
+        "range": 120,
+        "accuracy": 27,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 1,
+        "weight": 7.8,
+        "value": 32
+      },
+      {
+        "level": 35,
+        "rawDamage": "110",
+        "speed": 3,
+        "range": 120,
+        "accuracy": 27,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 1,
+        "weight": 7.8,
+        "value": 32
+      },
+      {
+        "level": 45,
+        "rawDamage": "120",
+        "speed": 3,
+        "range": 120,
+        "accuracy": 27,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 1,
+        "weight": 7.8,
+        "value": 32
+      }
+    ],
+    "id": "0008f0ef",
+    "ammo": "40mm grenade"
+  },
+  "00403021": {
+    "name": "Crushing Blow",
+    "levels": [
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": -1,
+        "range": -1,
+        "accuracy": -1,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "00403021",
+    "ammo": "40mm grenade"
+  },
+  "0003f6f8": {
+    "name": "Bunker Buster",
+    "levels": [
+      {
+        "level": 20,
+        "rawDamage": "149",
+        "speed": 2,
+        "range": 204,
+        "accuracy": 69,
+        "rawCrit": "-1",
+        "actionCost": 45,
+        "capacity": 1,
+        "weight": 43,
+        "value": -1
+      },
+      {
+        "level": 30,
+        "rawDamage": "-1",
+        "speed": 2,
+        "range": 204,
+        "accuracy": 69,
+        "rawCrit": "-1",
+        "actionCost": 45,
+        "capacity": 1,
+        "weight": -1,
+        "value": 45
+      },
+      {
+        "level": 40,
+        "rawDamage": "180",
+        "speed": 2,
+        "range": 204,
+        "accuracy": 69,
+        "rawCrit": "-1",
+        "actionCost": 45,
+        "capacity": 1,
+        "weight": -1,
+        "value": -1
+      },
+      {
+        "level": 50,
+        "rawDamage": "192",
+        "speed": 2,
+        "range": 204,
+        "accuracy": 69,
+        "rawCrit": "-1",
+        "actionCost": 45,
+        "capacity": 1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "0003f6f8",
+    "ammo": "Missile"
+  }
+}

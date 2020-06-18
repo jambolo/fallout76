@@ -1,0 +1,205 @@
+{
+  "000e27bc": {
+    "name": "Gatling laser",
+    "levels": [
+      {
+        "level": 25,
+        "rawDamage": "18&energy&",
+        "speed": 182,
+        "range": 204,
+        "accuracy": 56,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 500,
+        "weight": 18,
+        "value": 200
+      },
+      {
+        "level": 35,
+        "rawDamage": "21&energy&",
+        "speed": 182,
+        "range": 204,
+        "accuracy": 56,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 500,
+        "weight": 18,
+        "value": 200
+      },
+      {
+        "level": 45,
+        "rawDamage": "25&energy&",
+        "speed": 182,
+        "range": 204,
+        "accuracy": 56,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 500,
+        "weight": 18,
+        "value": 200
+      }
+    ],
+    "id": "000e27bc",
+    "ammo": "Fusion core"
+  },
+  "0009983b": {
+    "name": "Laser gun",
+    "levels": [
+      {
+        "level": 5,
+        "rawDamage": "21&energy&",
+        "speed": 40,
+        "range": 120,
+        "accuracy": 72,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 30,
+        "weight": 3,
+        "value": 60
+      },
+      {
+        "level": 15,
+        "rawDamage": "26&energy&",
+        "speed": 40,
+        "range": 120,
+        "accuracy": 72,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 30,
+        "weight": 3,
+        "value": 60
+      },
+      {
+        "level": 25,
+        "rawDamage": "31&energy&",
+        "speed": 40,
+        "range": 120,
+        "accuracy": 72,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 30,
+        "weight": 3,
+        "value": 60
+      },
+      {
+        "level": 35,
+        "rawDamage": "36&energy&",
+        "speed": 40,
+        "range": 120,
+        "accuracy": 72,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 30,
+        "weight": 3,
+        "value": 60
+      },
+      {
+        "level": 45,
+        "rawDamage": "44&energy&",
+        "speed": 40,
+        "range": 120,
+        "accuracy": 72,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 30,
+        "weight": 3,
+        "value": 60
+      }
+    ],
+    "id": "0009983b",
+    "ammo": "Fusion cell"
+  },
+  "0042b0cf": {
+    "name": "Acceptable Overkill",
+    "levels": [
+      {
+        "level": 45,
+        "rawDamage": "28&energy&",
+        "speed": 40,
+        "range": 210,
+        "accuracy": 111,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 30,
+        "weight": 3,
+        "value": 60
+      }
+    ],
+    "id": "0042b0cf",
+    "ammo": "Fusion cell"
+  },
+  "002ef66e": {
+    "name": "Ultracite Gatling laser",
+    "levels": [
+      {
+        "level": 35,
+        "rawDamage": "25&energy&",
+        "speed": 182,
+        "range": 206,
+        "accuracy": 70,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 500,
+        "weight": 18,
+        "value": 300
+      },
+      {
+        "level": 45,
+        "rawDamage": "28&energy&",
+        "speed": 182,
+        "range": 206,
+        "accuracy": 70,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 500,
+        "weight": 18,
+        "value": 300
+      }
+    ],
+    "id": "002ef66e",
+    "ammo": "Fusion core"
+  },
+  "00186171": {
+    "name": "Ultracite laser gun",
+    "levels": [
+      {
+        "level": 30,
+        "rawDamage": "28&energy&",
+        "speed": 50,
+        "range": 120,
+        "accuracy": 72,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 25,
+        "weight": 3,
+        "value": 150
+      },
+      {
+        "level": 40,
+        "rawDamage": "31&energy&",
+        "speed": 50,
+        "range": 120,
+        "accuracy": 72,
+        "rawCrit": "56",
+        "actionCost": 25,
+        "capacity": 25,
+        "weight": 3,
+        "value": 150
+      },
+      {
+        "level": 50,
+        "rawDamage": "34&energy&",
+        "speed": 50,
+        "range": 120,
+        "accuracy": 72,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 25,
+        "weight": 3,
+        "value": 150
+      }
+    ],
+    "id": "00186171",
+    "ammo": "Fusion cell"
+  }
+}
