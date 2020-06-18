@@ -1,0 +1,348 @@
+===Pipe weapons===
+{| class="va-table va-table-center sortable va-table-full"
+!
+! {{Icon|pistol|24px|tooltip=Weapon name}}
+! {{Icon|level|x18px|tooltip=Level}}
+! {{Icon|damage|x18px|tooltip=Damage per shot|link=Damage}}
+! {{Icon|dps|x18px|tooltip=Damage per second}}
+! {{Icon|attack|x18px|tooltip=Fire rate}}
+! {{Icon|range|x18px|tooltip=Range}}
+! {{Icon|spread|x18px|tooltip=Accuracy}}
+! {{Icon|crit|x18px|tooltip=Critical hit Damage}}
+! {{Icon|ap|x18px|tooltip=Action point cost}}
+! {{Icon|dap|x18px|tooltip=Damage per Action Point}}
+! {{Icon|ammo|x18px|tooltip=Ammunition used|link=Fallout 76 ammunition}}
+! {{Icon|mag|x18px|tooltip=Magazine capacity (shots per reload)}}
+! {{Icon|weight|x18px|tooltip=Weapon weight}}
+! {{Icon|merchant|x18px|tooltip=Weapon value in caps}}
+! {{Icon|ratio|x18px|tooltip=Value to weight ratio}}
+! Base ID
+
+|-style="height:32px;"
+| rowspan="7" |[[File:FO76 Pipe bolt-action.png|80px|link=Pipe bolt-action (Fallout 76)]]
+| rowspan="7" |[[Pipe bolt-action (Fallout 76)|Pipe bolt-action]]
+| 1
+| 40
+| 12
+| 3
+| 96
+| 63
+| ?
+| 20
+| 2
+| [[.308 round (Fallout 76)|.308]]
+| 6
+| 3
+| 35
+| 11.66
+| rowspan="7" | {{ID|0014831A}}
+|-style="height:32px;"
+| 5
+| 45
+| 13.5
+| 3
+| 96
+| 63
+| ?
+| 20
+| 2.25
+| [[.308 round (Fallout 76)|.308]]
+| 6
+| 3
+| 35
+| 11.66
+|-style="height:32px;"
+| 10
+| 50
+| 15
+| 3
+| 96
+| 63
+| ?
+| 20
+| 2.5
+| [[.308 round (Fallout 76)|.308]]
+| 6
+| 3
+| 35
+| 11.66
+|-style="height:32px;"
+| 20
+| 55
+| 16.5
+| 3
+| 96
+| 63
+| ?
+| 20
+| 2.75
+| [[.308 round (Fallout 76)|.308]]
+| 6
+| 3
+| 35
+| 11.66
+|-style="height:32px;"
+| 30
+| 60
+| 18
+| 3
+| 96
+| 63
+| ?
+| 20
+| 3
+| [[.308 round (Fallout 76)|.308]]
+| 6
+| 3
+| 35
+| 11.66
+|-style="height:32px;"
+| 40
+| 65
+| 19.5
+| 3
+| 96
+| 63
+| ?
+| 20
+| 3.25
+| [[.308 round (Fallout 76)|.308]]
+| 6
+| 3
+| 35
+| 11.66
+|-style="height:32px;"
+| 50
+| 70
+| 21
+| 3
+| 96
+| 63
+| ?
+| 20
+| 3.5
+| [[.308 round (Fallout 76)|.308]]
+| 6
+| 3
+| 35
+| 11.66
+
+|-style="height:32px;"
+| rowspan="7" |[[File:FO76 Pipe gun.png|80px|link=Pipe gun (Fallout 76)]]
+| rowspan="7" |[[Pipe gun (Fallout 76)|Pipe gun]]
+| 1
+| 12
+| 72
+| 60
+| 84
+| 55
+| ?
+| 21
+| 0.57
+| [[.38 round (Fallout 76)|.38]]
+| 12
+| 4
+| 20
+| 5
+| rowspan="7" | {{ID|00024F55}}
+|-style="height:32px;"
+| 5
+| 13
+| 78
+| 60
+| 84
+| 55
+| ?
+| 21
+| 0.62
+| [[.38 round (Fallout 76)|.38]]
+| 12
+| 4
+| 20
+| 5
+|-style="height:32px;"
+| 10
+| 15
+| 90
+| 60
+| 84
+| 55
+| ?
+| 21
+| 0.71
+| [[.38 round (Fallout 76)|.38]]
+| 12
+| 4
+| 20
+| 5
+|-style="height:32px;"
+| 20
+| 18
+| 108
+| 60
+| 84
+| 55
+| ?
+| 21
+| 0.85
+| [[.38 round (Fallout 76)|.38]]
+| 12
+| 4
+| 20
+| 5
+|-style="height:32px;"
+| 30
+| 21
+| 126
+| 60
+| 84
+| 55
+| ?
+| 21
+| 1
+| [[.38 round (Fallout 76)|.38]]
+| 12
+| 4
+| 20
+| 5
+|-style="height:32px;"
+| 40
+| 23
+| 138
+| 60
+| 84
+| 55
+| ?
+| 21
+| 1.09
+| [[.38 round (Fallout 76)|.38]]
+| 12
+| 4
+| 20
+| 5
+|-style="height:32px;"
+| 50
+| 26
+| 156
+| 60
+| 84
+| 55
+| ?
+| 21
+| 1.24
+| [[.38 round (Fallout 76)|.38]]
+| 12
+| 4
+| 20
+| 5
+
+|-style="height:32px;"
+| rowspan="7" |[[File:FO76 Pipe revolver.png|80px|link=Pipe revolver (Fallout 76)]]
+| rowspan="7" |[[Pipe revolver (Fallout 76)|Pipe revolver]]
+| 1
+| 27
+| 13.5
+| 5
+| 84
+| 62
+| ?
+| 25
+| 1.08
+| [[.45 round (Fallout 76)|.45]]
+| 6
+| 3
+| 24
+| 8
+| rowspan="7" | {{ID|0014831B}}
+|-style="height:32px;"
+| 5
+| 31
+| 15.5
+| 5
+| 84
+| 62
+| ?
+| 25
+| 1.24
+| [[.45 round (Fallout 76)|.45]]
+| 6
+| 3
+| 24
+| 8
+|-style="height:32px;"
+| 10
+| 36
+| 18
+| 5
+| 84
+| 62
+| ?
+| 25
+| 1.44
+| [[.45 round (Fallout 76)|.45]]
+| 6
+| 3
+| 24
+| 8
+|-style="height:32px;"
+| 20
+| 40
+| 20
+| 5
+| 84
+| 62
+| ?
+| 25
+| 1.6
+| [[.45 round (Fallout 76)|.45]]
+| 6
+| 3
+| 24
+| 8
+|-style="height:32px;"
+| 30
+| 45
+| 22.5
+| 5
+| 84
+| 62
+| ?
+| 25
+| 1.8
+| [[.45 round (Fallout 76)|.45]]
+| 6
+| 3
+| 24
+| 8
+|-style="height:32px;"
+| 40
+| 50
+| 25
+| 5
+| 84
+| 62
+| ?
+| 25
+| 2
+| [[.45 round (Fallout 76)|.45]]
+| 6
+| 3
+| 24
+| 8
+|-style="height:32px;"
+| 50
+| 55
+| 27.5
+| 5
+| 84
+| 62
+| ?
+| 25
+| 2.2
+| [[.45 round (Fallout 76)|.45]]
+| 6
+| 3
+| 24
+| 8
+
+|}

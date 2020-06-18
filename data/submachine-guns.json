@@ -1,0 +1,215 @@
+{
+  "0010db0f": {
+    "name": "10mm submachine gun",
+    "levels": [
+      {
+        "level": 10,
+        "rawDamage": "17",
+        "speed": 91,
+        "range": 84,
+        "accuracy": 50,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 30,
+        "weight": 3,
+        "value": 57
+      },
+      {
+        "level": 20,
+        "rawDamage": "19",
+        "speed": 91,
+        "range": 84,
+        "accuracy": 50,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 30,
+        "weight": 3,
+        "value": 57
+      },
+      {
+        "level": 30,
+        "rawDamage": "23",
+        "speed": 91,
+        "range": 84,
+        "accuracy": 50,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 30,
+        "weight": 3,
+        "value": 57
+      },
+      {
+        "level": 40,
+        "rawDamage": "28",
+        "speed": 91,
+        "range": 84,
+        "accuracy": 50,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 30,
+        "weight": 3,
+        "value": 57
+      },
+      {
+        "level": 50,
+        "rawDamage": "34",
+        "speed": 91,
+        "range": 84,
+        "accuracy": 50,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 30,
+        "weight": 3,
+        "value": 57
+      }
+    ],
+    "id": "0010db0f",
+    "ammo": "10mm"
+  },
+  "0015b043": {
+    "name": "Submachine gun",
+    "levels": [
+      {
+        "level": 15,
+        "rawDamage": "17",
+        "speed": 75,
+        "range": 72,
+        "accuracy": 54,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 50,
+        "weight": 12.95,
+        "value": 154
+      },
+      {
+        "level": 25,
+        "rawDamage": "20",
+        "speed": 75,
+        "range": 72,
+        "accuracy": 54,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 50,
+        "weight": 12.95,
+        "value": 154
+      },
+      {
+        "level": 35,
+        "rawDamage": "23",
+        "speed": 75,
+        "range": 72,
+        "accuracy": 54,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 50,
+        "weight": 12.95,
+        "value": 154
+      },
+      {
+        "level": 45,
+        "rawDamage": "27",
+        "speed": 75,
+        "range": 72,
+        "accuracy": 54,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 50,
+        "weight": 12.95,
+        "value": 154
+      }
+    ],
+    "id": "0015b043",
+    "ammo": ".45"
+  },
+  "004fd64b": {
+    "name": "The Black Knight",
+    "levels": [
+      {
+        "level": 1,
+        "rawDamage": "40",
+        "speed": -1,
+        "range": -1,
+        "accuracy": -1,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 5,
+        "weight": 6,
+        "value": 40
+      },
+      {
+        "level": 5,
+        "rawDamage": "45",
+        "speed": -1,
+        "range": -1,
+        "accuracy": -1,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 5,
+        "weight": 6,
+        "value": 40
+      },
+      {
+        "level": 10,
+        "rawDamage": "50",
+        "speed": -1,
+        "range": -1,
+        "accuracy": -1,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 5,
+        "weight": 6,
+        "value": 40
+      },
+      {
+        "level": 20,
+        "rawDamage": "55",
+        "speed": -1,
+        "range": -1,
+        "accuracy": -1,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 5,
+        "weight": 6,
+        "value": 40
+      },
+      {
+        "level": 30,
+        "rawDamage": "60",
+        "speed": -1,
+        "range": -1,
+        "accuracy": -1,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 5,
+        "weight": 6,
+        "value": 40
+      },
+      {
+        "level": 40,
+        "rawDamage": "65",
+        "speed": -1,
+        "range": -1,
+        "accuracy": -1,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 5,
+        "weight": 6,
+        "value": 40
+      },
+      {
+        "level": 50,
+        "rawDamage": "70",
+        "speed": -1,
+        "range": -1,
+        "accuracy": -1,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 5,
+        "weight": 6,
+        "value": 40
+      }
+    ],
+    "id": "004fd64b",
+    "ammo": ".308"
+  }
+}

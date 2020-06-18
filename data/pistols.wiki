@@ -1,0 +1,820 @@
+===Pistols===
+{{clear}}
+{| class="va-table va-table-center sortable va-table-full"
+!
+! {{Icon|pistol|24px|tooltip=Pistol name}}
+! {{Icon|level|x18px|tooltip=Level}}
+! {{Icon|damage|x18px|tooltip=Damage per shot|link=Damage}}
+! {{Icon|dps|x18px|tooltip=Damage per second}}
+! {{Icon|attack|x18px|tooltip=Fire rate}}
+! {{Icon|range|x18px|tooltip=Range}}
+! {{Icon|spread|x18px|tooltip=Accuracy}}
+! {{Icon|crit|x18px|tooltip=Critical hit Damage}}
+! {{Icon|ap|x18px|tooltip=Action point cost}}
+! {{Icon|dap|x18px|tooltip=Damage per Action Point}}
+! {{Icon|ammo|x18px|tooltip=Ammunition used|link=Fallout 76 ammunition}}
+! {{Icon|mag|x18px|tooltip=Magazine capacity (shots per reload)}}
+! {{Icon|weight|x18px|tooltip=Weapon weight}}
+! {{Icon|merchant|x18px|tooltip=Weapon value in caps}}
+! {{Icon|ratio|x18px|tooltip=Value to weight ratio}}
+! Base ID
+
+|-style="height:32px;"
+| rowspan="5" |[[File:44 pistol.png|80px|link=.44 pistol (Fallout 76)]]
+| rowspan="5" |[[.44 pistol (Fallout 76)|.44 pistol]]
+| 5
+| 40
+| 24
+| 6
+| 84
+| 65
+| ?
+| 35
+| 1.14
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 40
+| 10
+| rowspan="5" | {{ID|000CE97D}}
+|-style="height:32px;"
+| 15
+| 45
+| 27
+| 6
+| 84
+| 65
+| ?
+| 35
+| 1.28
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 40
+| 10
+|-style="height:32px;"
+| 25
+| 50
+| 30
+| 6
+| 84
+| 65
+| ?
+| 35
+| 1.43
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 40
+| 10
+|-style="height:32px;" 
+| 35
+| 55
+| 33
+| 6
+| 84
+| 65
+| ?
+| 35
+| 1.57
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 40
+| 10
+|-style="height:32px;"
+| 45
+| 60
+| 36
+| 6
+| 84
+| 65
+| ?
+| 35
+| 1.71
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 40
+| 10
+
+|- class="va-table-highlight" style="height:32px;"
+| [[File:Fo76 Medical Malpractice.png|80px|link=Medical Malpractice]]
+| [[Medical Malpractice]] {{icon|FO76WA|link=Wild Appalachia}} {{limited}}
+| 45
+| 81
+| 56.7
+| 7
+| 84
+| 37
+| ?
+| 35
+| 2.31
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 40
+| 10
+| {{ID|00403022}}
+
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="5" | [[File:SpecialRevolver.png|80px|link=Somerset Special]]
+| rowspan="5" | [[Somerset Special]]
+| 5
+| 40
+| 24
+| 6
+| 84
+| 65
+| ?
+| 35
+| 1.14
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 40
+| 10
+| rowspan="5" | {{ID|000CE97D}}
+|-style="height:32px;" class="va-table-highlight"
+| 15
+| 45
+| 27
+| 6
+| 84
+| 65
+| ?
+| 35
+| 1.28
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 40
+| 10
+|-style="height:32px;" class="va-table-highlight"
+| 25
+| 50
+| 30
+| 6
+| 84
+| 65
+| ?
+| 35
+| 1.43
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 40
+| 10
+|-style="height:32px;" class="va-table-highlight"
+| 35
+| 55
+| 33
+| 6
+| 84
+| 65
+| ?
+| 35
+| 1.57
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 40
+| 10
+|-style="height:32px;" class="va-table-highlight"
+| 45
+| 60
+| 36
+| 6
+| 84
+| 65
+| ?
+| 35
+| 1.71
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 40
+| 10
+
+
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="3" |[[File:Voice of Set.png|80px|link=Voice_of_Set]]
+| rowspan="3" |[[Voice of Set]]
+| 25
+| 60
+| 36
+| 6
+| 84
+| 68
+| 61
+| 20
+| 3
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 125
+| 31.25
+| rowspan="3" | {{ID|0039C6C9}}
+|- class="va-table-highlight" style="height:32px;"
+| 35
+| 66
+| 39.6
+| 6
+| 84
+| 68
+| ?
+| 20
+| 3.3
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 125
+| 31.25
+|- class="va-table-highlight" style="height:32px;"
+| 45
+| 72
+| 43.2
+| 6
+| 84
+| 68
+| ?
+| 20
+| 3.6
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 125
+| 31.25
+
+|-style="height:32px;"
+| rowspan="5" |[[File:FO76 10mmPistol.png|80px|link=10mm pistol (Fallout 76)]]
+| rowspan="5" |[[10mm pistol (Fallout 76)|10mm pistol]]
+| 5
+| 15
+| 64.5
+| 43
+| 120
+| 63
+| ?
+| 28
+| 0.54
+| [[10mm round (Fallout 76)|10mm]]
+| 12
+| 3
+| 40
+| 13.33
+| rowspan="5" | {{ID|00004822}}
+|-style="height:32px;"
+| 15
+| 18
+| 77.4
+| 43
+| 120
+| 63
+| ?
+| 28
+| 0.64
+| [[10mm round (Fallout 76)|10mm]]
+| 12
+| 3
+| 40
+| 13.33
+|-style="height:32px;"
+| 25
+| 21
+| 90.3
+| 43
+| 120
+| 63
+| ?
+| 28
+| 0.75
+| [[10mm round (Fallout 76)|10mm]]
+| 12
+| 3
+| 40
+| 13.33
+|-style="height:32px;"
+| 35
+| 24
+| 103.2
+| 43
+| 120
+| 63
+| ?
+| 28
+| 0.86
+| [[10mm round (Fallout 76)|10mm]]
+| 12
+| 3
+| 40
+| 13.33
+|-style="height:32px;"
+| 45
+| 28
+| 120.4
+| 43
+| 120
+| 63
+| ?
+| 28
+| 1
+| [[10mm round (Fallout 76)|10mm]]
+| 12
+| 3
+| 40
+| 13.33
+
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="3" | [[File:FO76 Anti-Scorched Training Pistol.png|80px|link=Anti-Scorched training pistol]]
+| rowspan="3" | [[Anti-Scorched training pistol]]
+| 5
+| 12
+| 90
+| 75
+| 108
+| 66
+| ?
+| 20
+| 0.6
+| [[10mm round (Fallout 76)|10mm]]
+| 12
+| 3
+| 45
+| 15
+| rowspan="3" | {{ID|004F496F}}
+|- class="va-table-highlight" style="height:32px;"
+| 15
+| 12
+| 90
+| 75
+| 108
+| 66
+| ?
+| 20
+| 0.6
+| [[10mm round (Fallout 76)|10mm]]
+| 12
+| 3
+| 45
+| 15
+|- class="va-table-highlight" style="height:32px;"
+| 5
+| 12
+| 90
+| 75
+| 108
+| 66
+| ?
+| 20
+| 0.6
+| [[10mm round (Fallout 76)|10mm]]
+| 12
+| 3
+| 45
+| 15
+
+|-style="height:32px;"
+| rowspan="5" |[[File:76Blunderbuss.png|80px|link=Black powder blunderbuss]]
+| rowspan="5" |[[Black powder blunderbuss]]
+| 10
+| 115
+| 23
+| 2
+| 12
+| 66
+| ?
+| 28
+| 4.10
+| [[.50 caliber ball|.50 ball]]
+| 1
+| 3
+| 90
+| 30
+| rowspan="5" | {{ID|00003AAD}}
+|-style="height:32px;"
+| 20
+| 130
+| 26
+| 2
+| 12
+| 66
+| ?
+| 28
+| 4.64
+| [[.50 caliber ball|.50 ball]]
+| 1
+| 3
+| 90
+| 30
+|-style="height:32px;"
+| 30
+| 145
+| 29
+| 2
+| 12
+| 66
+| ?
+| 28
+| 5.17
+| [[.50 caliber ball|.50 ball]]
+| 1
+| 3
+| 90
+| 30
+|-style="height:32px;"
+| 40
+| 160
+| 32
+| 2
+| 12
+| 66
+| ?
+| 28
+| 5.71
+| [[.50 caliber ball|.50 ball]]
+| 1
+| 3
+| 90
+| 30
+|-style="height:32px;"
+| 50
+| 175
+| 35
+| 2
+| 12
+| 66
+| ?
+| 28
+| 6.25
+| [[.50 caliber ball|.50 ball]]
+| 1
+| 3
+| 90
+| 30
+
+|-style="height:32px;"
+| rowspan="5" |[[File:Black Powder Gun.png|80px|link=Black powder pistol]]
+| rowspan="5" |[[Black powder pistol]]
+| 10
+| 115
+| 23
+| 2
+| 204
+| 66
+| ?
+| 28
+| 4.10
+| [[.50 caliber ball|.50 ball]]
+| 1
+| 3
+| 90
+| 30
+| rowspan="5" | {{ID|00003AAC}}
+|-style="height:32px;"
+| 20
+| 130
+| 26
+| 2
+| 204
+| 66
+| ?
+| 28
+| 4.64
+| [[.50 caliber ball|.50 ball]]
+| 1
+| 3
+| 90
+| 30
+|-style="height:32px;"
+| 30
+| 145
+| 29
+| 2
+| 204
+| 66
+| ?
+| 28
+| 5.18
+| [[.50 caliber ball|.50 ball]]
+| 1
+| 3
+| 90
+| 30
+|-style="height:32px;"
+| 40
+| 160
+| 32
+| 2
+| 204
+| 66
+| ?
+| 28
+| 5.71
+| [[.50 caliber ball|.50 ball]]
+| 1
+| 3
+| 90
+| 30
+|-style="height:32px;"
+| 50
+| 175
+| 35
+| 2
+| 204
+| 66
+| ?
+| 28
+| 6.25
+| [[.50 caliber ball|.50 ball]]
+| 1
+| 3
+| 90
+| 30
+
+|-style="height:32px;"
+| rowspan="1" |[[File:FO76 Flare gun.png|80px|link=Flare gun (Fallout 76)]]
+| rowspan="1" |[[Flare gun (Fallout 76)|Flare gun]]
+| 1
+| 5
+| 1.5
+| 3
+| 147
+| 75
+| ?
+| 40
+| 0.125
+| [[Flare (Fallout 76)|Flare]]
+| 1
+| 2
+| 50
+| 25
+| {{ID|001025AC}}
+
+|- style="height:32px;"
+| rowspan="8" |[[File:F76WL Gauss pistol.png|80px|link=Gauss pistol (Wastelanders)]]
+| rowspan="8" |[[Gauss pistol (Wastelanders)|Gauss pistol]] {{Icon|FO76WL}}
+| 15
+| 62
+| 415.4
+| 67
+| 120
+| 58
+| ?
+| 35
+| 1.77
+| [[2mm electromagnetic cartridge (Fallout 76)|2mm EC]]
+| 18
+| 4
+| 85
+| 21.25
+| rowspan="8" | {{ID|0054a165}}
+|- style="height:32px;"
+| 20
+| 70
+| 469
+| 67
+| 120
+| 58
+| ?
+| 35
+| 3
+| [[2mm electromagnetic cartridge (Fallout 76)|2mm EC]]
+| 18
+| 4
+| 85
+| 21.25
+|- style="height:32px;"
+| 25
+| 76
+| 524.4
+| 67
+| 120
+| 58
+| ?
+| 35
+| 2.17
+| [[2mm electromagnetic cartridge (Fallout 76)|2mm EC]]
+| 18
+| 4
+| 85
+| 21.25
+|- style="height:32px;"
+| 30
+| 85
+| 569.5
+| 67
+| 120
+| 58
+| ?
+| 35
+| 2.43
+| [[2mm electromagnetic cartridge (Fallout 76)|2mm EC]]
+| 18
+| 4
+| 85
+| 21.25
+|- style="height:32px;"
+| 35
+| 92
+| 616.4
+| 67
+| 120
+| 58
+| ?
+| 35
+| 2.63
+| [[2mm electromagnetic cartridge (Fallout 76)|2mm EC]]
+| 18
+| 4
+| 85
+| 21.25
+|- style="height:32px;"
+| 40
+| 100
+| 670
+| 67
+| 120
+| 58
+| ?
+| 35
+| 2.86
+| [[2mm electromagnetic cartridge (Fallout 76)|2mm EC]]
+| 18
+| 4
+| 85
+| 21.25
+|- style="height:32px;"
+| 45
+| 108
+| 723.6
+| 67
+| 120
+| 58
+| ?
+| 35
+| 3.09
+| [[2mm electromagnetic cartridge (Fallout 76)|2mm EC]]
+| 18
+| 4
+| 85
+| 21.25
+|- style="height:32px;"
+| 50
+| 115
+| 770.5
+| 67
+| 120
+| 58
+| ?
+| 35
+| 3.29
+| [[2mm electromagnetic cartridge (Fallout 76)|2mm EC]]
+| 18
+| 4
+| 85
+| 21.25
+
+|-style="height:32px;"
+| rowspan="5" |[[File:FO76 Single action revolver.png|80px|link=Single action revolver]]
+| rowspan="5" |[[Single action revolver]]
+| 10
+| 42
+| 25.2
+| 6
+| 204
+| 65
+| ?
+| 35
+| 1.2
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 85
+| 21.25
+| rowspan="5" | {{ID|001C7A69}}
+|-style="height:32px;"
+| 20
+| 48
+| 28.8
+| 6
+| 204
+| 65
+| ?
+| 35
+| 1.37
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 85
+| 21.25
+|-style="height:32px;"
+| 30
+| 52
+| 31.2
+| 6
+| 204
+| 65
+| ?
+| 35
+| 1.49
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 85
+| 21.25
+|-style="height:32px;"
+| 40
+| 58
+| 34.8
+| 6
+| 204
+| 65
+| ?
+| 35
+| 1.66
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 85
+| 21.25
+|-style="height:32px;"
+| 50
+| 62
+| 37.2
+| 6
+| 204
+| 65
+| ?
+| 35
+| 1.77
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 85
+| 21.25
+
+|- style="height:32px;"
+| rowspan="4" |[[File:WesternPistol.png|80px|link=Western revolver (Fallout 76)]]
+| rowspan="4" |[[Western revolver (Fallout 76)|Western revolver]]
+| 20
+| 50
+| 30
+| 6
+| 120
+| 68
+| ?
+| 35
+| 1.43
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 120
+| 30
+| rowspan="4" | {{ID|00113D6A}}
+|-style="height:32px;"
+| 30
+| 55
+| 33
+| 6
+| 120
+| 68
+| ?
+| 35
+| 1.57
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 120
+| 30
+|-style="height:32px;"
+| 40
+| 60
+| 36
+| 6
+| 120
+| 68
+| ?
+| 35
+| 1.71
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 120
+| 30
+|-style="height:32px;"
+| 50
+| 65
+| 39
+| 6
+| 120
+| 68
+| ?
+| 35
+| 1.86
+| [[.44 round (Fallout 76)|.44]]
+| 6
+| 4
+| 120
+| 30
+|}

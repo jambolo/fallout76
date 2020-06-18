@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Convert ranged weapon files
+for file in bows explosive-weapons gamma-weapons heavy-weapons laser-weapons other-weapons pipe-weapons pistols plasma-weapons rifles shotguns submachine-guns
+do
+  echo "coffee ../cs/convert-weapon-wiki-to-json.coffee ranged ${file}.wiki ${file}.json"
+  coffee ../cs/convert-weapon-wiki-to-json.coffee ranged ${file}.wiki ${file}.json
+done
+
+# Convert melee weapon files
+for file in one-handed two-handed unarmed
+do
+  echo "coffee ../cs/convert-weapon-wiki-to-json.coffee melee ${file}.wiki ${file}.json"
+  coffee ../cs/convert-weapon-wiki-to-json.coffee melee ${file}.wiki ${file}.json
+done
+
+# Convert explosives weapon files
+for file in grenades mines
+do
+  echo "coffee ../cs/convert-weapon-wiki-to-json.coffee explosives ${file}.wiki ${file}.json"
+  coffee ../cs/convert-weapon-wiki-to-json.coffee explosives ${file}.wiki ${file}.json
+done

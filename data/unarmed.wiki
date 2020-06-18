@@ -1,0 +1,477 @@
+===Unarmed===
+Unarmed weapons will benefit from melee perks such as [[Martial Artist]], [[Incisor]], [[Ninja]], etc. However, damage perks are restricted to the [[Iron Fist]] perk instead of the melee perks. Unarmed weapons cannot be used while wearing [[Power armor (Fallout 76)|Power armor]].
+{| class="va-table va-table-center va-table-full sortable"
+!
+! {{Icon|unarmed|x24px|tooltip=Fist melee weapon name}}
+! {{Icon|level|x18px|tooltip=Level}}
+! {{Icon|damage|x18px|tooltip=Damage per attack|link=Damage}}
+! {{Icon|dps|x18px|tooltip=Damage per second}}
+! {{Icon|attack|x18px|tooltip=Speed}}
+! {{Icon|crit|x18px|tooltip=Critical hit Damage}}
+! {{Icon|ap|x18px|tooltip=Action point cost}}
+! {{Icon|dap|x18px|tooltip=Damage per Action Point}}
+! {{Icon|weight|x18px|tooltip=Weapon weight}}
+! {{Icon|merchant|x18px|tooltip=Weapon value in caps}}
+! {{Icon|ratio|x18px|tooltip=Value to weight ratio}}
+! Base ID
+
+|- style="height:32px;"
+| rowspan="4" |[[File:Fo76wa bear arm.png|80px|link=Bear Arm]]
+| rowspan="4" |[[Bear Arm]] {{icon|FO76WA|link=Wild Appalachia}}
+| 20
+| 35
+| 30.6
+| Medium
+| ?
+| 40
+| ?
+| 10
+| 75
+| 7.5
+| rowspan="4" |{{ID|003f06e2}}
+|- style="height:32px;"
+| 30
+| 40
+| 36
+| Medium
+| ?
+| 40
+| ?
+| 10
+| 75
+| 7.5
+|- style="height:32px;"
+| 40
+| 45
+| 40.5
+| Medium
+| ?
+| 40
+| ?
+| 10
+| 75
+| 7.5
+|- style="height:32px;"
+| 50
+| 50
+| 45
+| Medium
+| ?
+| 40
+| ?
+| 10
+| 75
+| 7.5
+
+|- style="height:32px;"
+| rowspan="5" |[[File:Fallout4_boxing_glove.png|80px|link=Boxing glove (Fallout 76)]]
+| rowspan="5" |[[Boxing glove (Fallout 76)|Boxing glove]]
+| 5
+| 13
+| 11.7
+| Medium
+| ?
+| 25
+| ?
+| 1
+| 15
+| 15
+| rowspan="5" | {{ID|0016498F}}
+|- style="height:32px;"
+| 15
+| 18
+| 16.2
+| Medium
+| ?
+| 25
+| ?
+| 1
+| 15
+| 15
+|- style="height:32px;"
+| 25
+| 23
+| 20.7
+| Medium
+| ?
+| 25
+| ?
+| 1
+| 15
+| 15
+|- style="height:32px;"
+| 35
+| 28
+| 25.2
+| Medium
+| ?
+| 25
+| ?
+| 1
+| 15
+| 15
+|- style="height:32px;"
+| 45
+| 34
+| 30.6
+| Medium
+| ?
+| 25
+| ?
+| 1
+| 15
+| 15
+
+|- style="height:32px;"
+| rowspan="4" |[[File:death tambo.png|80px|link=Death tambo]]
+| rowspan="4" |[[Death tambo]]
+| 15
+| 30
+| 27
+| Medium
+| ?
+| 25
+| ?
+| 0.5
+| 60
+| 120
+| rowspan="4" | {{ID|0000DC55}}
+|- style="height:32px;"
+| 25
+| 35
+| 31.5
+| Medium
+| ?
+| 25
+| ?
+| 0.5
+| 60
+| 120
+|- style="height:32px;"
+| 35
+| 40
+| 36
+| Medium
+| ?
+| 25
+| ?
+| 0.5
+| 60
+| 120
+|- style="height:32px;"
+| 45
+| 45
+| 40.5
+| Medium
+| ?
+| 25
+| ?
+| 0.5
+| 60
+| 120
+
+|- style="height:32px;"
+| rowspan="3" |[[File:Deathclaw gauntlet (Fallout 4).png|80px]]
+| rowspan="3" |[[Deathclaw gauntlet (Fallout 76)|Deathclaw gauntlet]]
+| 30
+| 45
+| 40.5
+| Medium
+| ?
+| 40
+| ?
+| 10
+| 85
+| 8.5
+| rowspan="3" | {{ID|000D8576}}
+|- style="height:32px;"
+| 40
+| 50
+| 45
+| Medium
+| ?
+| 40
+| ?
+| 10
+| 85
+| 8.5
+|- style="height:32px;"
+| 50
+| 55
+| 49.5
+| Medium
+| ?
+| 40
+| ?
+| 10
+| 85
+| 8.5
+
+|- class="va-table-highlight" style="height:32px;"
+| [[File:FO76WA_Unstoppable_Monster.png|80px|link=Unstoppable Monster]]
+| [[Unstoppable Monster]] {{Icon|FO76WA|link=Wild Appalachia}} {{Limited}}
+| 50
+| 55
+| 49.5
+| Medium
+| ?
+| 40
+| ?
+| 10
+| 85
+| 8.5
+| {{ID|0042b0ce}}
+
+|- style="height:32px;"
+| rowspan="2" |[[File:F76WL Industrial hand.png|80px|link=Gauntlet_(Wastelanders)]]
+| rowspan="2" |[[Gauntlet (Wastelanders)|Gauntlet]] {{Icon|FO76WL}}
+| 40
+| ?
+| ?
+| Medium
+| ?
+| 40
+| ?
+| 6
+| 130
+| 21.66
+| rowspan="2" |{{ID|0055C156}}
+|- style="height:32px;"
+| 50
+| ?
+| ?
+| Medium
+| ?
+| 40
+| ?
+| 6
+| 130
+| 21.66
+
+|- style="height:32px;"
+| rowspan="7" |[[File:Fallout4 Knuckles.png|80px|link=Knuckles (Fallout 76)]]
+| rowspan="7" |[[Knuckles (Fallout 76)|Knuckles]]
+| 1
+| 8
+| 7.2
+| Medium
+| ?
+| 25
+| ?
+| 0.5
+| 10
+| 50
+| rowspan="7" | {{ID|0005524B}}
+|- style="height:32px;"
+| 5
+| 10
+| 9
+| Medium
+| ?
+| 25
+| ?
+| 0.5
+| 10
+| 50
+|- style="height:32px;"
+| 10
+| 15
+| 13.5
+| Medium
+| ?
+| 25
+| ?
+| 0.5
+| 10
+| 50
+|- style="height:32px;"
+| 20
+| 20
+| 18
+| Medium
+| ?
+| 25
+| ?
+| 0.5
+| 10
+| 50
+|- style="height:32px;"
+| 30
+| 25
+| 22.5
+| Medium
+| ?
+| 25
+| ?
+| 0.5
+| 10
+| 50
+|- style="height:32px;"
+| 40
+| 30
+| 27
+| Medium
+| ?
+| 25
+| ?
+| 0.5
+| 10
+| 50
+|- style="height:32px;"
+| 50
+| 35
+| 31.5
+| Medium
+| ?
+| 25
+| ?
+| 0.5
+| 10
+| 50
+
+|- style="height:32px;"
+| rowspan="5" |[[File:Meat hook.png|80px|link=Meat hook (Fallout 76)]]
+| rowspan="5" |[[Meat hook (Fallout 76)|Meat hook]]
+| 5
+| 14
+| 12.6
+| Medium
+| ?
+| 30
+| ?
+| 2
+| 20
+| 10
+| rowspan="5" |{{ID|00111562}}
+|- style="height:32px;"
+| 15
+| 19
+| 17.1
+| Medium
+| ?
+| 30
+| ?
+| 2
+| 20
+| 10
+|- style="height:32px;"
+| 25
+| 24
+| 21.6
+| Medium
+| ?
+| 30
+| ?
+| 2
+| 20
+| 10
+|- style="height:32px;"
+| 35
+| 29
+| 26.1
+| Medium
+| ?
+| 30
+| ?
+| 2
+| 20
+| 10
+|- style="height:32px;"
+| 45
+| 34
+| 30.6
+| Medium
+| ?
+| 30
+| ?
+| 2
+| 20
+| 10
+
+|- style="height:32px;"
+| rowspan="4" |[[File:FO76 Mole Miner Gauntlet.png|80px]]
+| rowspan="4" |[[Mole miner gauntlet]]
+| 20
+| 30
+| 27
+| Medium
+| ?
+| 40
+| ?
+| 10
+| 75
+| 7.5
+| rowspan="4" | {{ID|00012E73}}
+|- style="height:32px;"
+| 30
+| 35
+| 31.5
+| Medium
+| ?
+| 40
+| ?
+| 10
+| 75
+| 7.5
+|- style="height:32px;"
+| 40
+| 40
+| 36
+| Medium
+| ?
+| 40
+| ?
+| 10
+| 75
+| 7.5
+|- style="height:32px;"
+| 50
+| 45
+| 40.5
+| Medium
+| ?
+| 40
+| ?
+| 10
+| 75
+| 7.5
+
+
+|- style="height:32px;"
+| rowspan="3" |[[File:Power_fist_(Fallout_4).png|80px|link=Power fist (Fallout 76)]]
+| rowspan="3" |[[Power fist (Fallout 76)|Power fist]]
+| 30
+| 48
+| 43.2
+| Medium
+| ?
+| 35
+| ?
+| 4
+| 100
+| 25
+| rowspan="3" | {{ID|0011B336}}
+|- style="height:32px;"
+| 40
+| 53
+| 47.7
+| Medium
+| ?
+| 35
+| ?
+| 4
+| 100
+| 25
+|- style="height:32px;"
+| 50
+| 58
+| 52.2
+| Medium
+| ?
+| 35
+| ?
+| 4
+| 100
+| 25
+
+|}

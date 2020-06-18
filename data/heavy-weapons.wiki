@@ -1,0 +1,523 @@
+===Heavy weapons===
+{| class="va-table va-table-center va-table-full sortable"
+!
+! {{Icon|big gun|60px|tooltip=Heavy weapon name}}
+! {{Icon|level|x18px|tooltip=Level}}
+! data-sort-type="number" | {{Icon|damage|x18px|tooltip=Damage per shot|link=Damage}}
+! {{Icon|dps|x18px|tooltip=Damage per second}}
+! {{Icon|attack|x18px|tooltip=Fire rate}}
+! {{Icon|range|x18px|tooltip=Range}}
+! {{Icon|spread|x18px|tooltip=Accuracy}}
+! {{Icon|crit|x18px|tooltip=Critical hit Damage}}
+! {{Icon|ap|x18px|tooltip=Action point cost}}
+! {{Icon|dap|x18px|tooltip=Damage per Action Point}}
+! {{Icon|ammo|x18px|tooltip=Ammunition used|link=Fallout 76 ammunition}}
+! {{Icon|mag|x18px|tooltip=Magazine capacity (shots per reload)}}
+! {{Icon|weight|x18px|tooltip=Weapon weight}}
+! {{Icon|merchant|x18px|tooltip=Weapon value in caps}}
+! {{Icon|ratio|x18px|tooltip=Value to weight ratio}}
+! Base ID
+
+|-style="height:32px;"
+| rowspan="3" |[[File:50Cal Machine Gun.png|80px|link=50 cal machine gun]]
+| rowspan="3" |[[50 cal machine gun]]
+| 25
+| 29
+| 263.9
+| 91
+| 204
+| 47
+| ?
+| 35
+| 0.83
+| [[.50 round (Fallout 76)|.50 round]]
+| 250
+| 18
+| 170
+| 9.44
+| rowspan="3" | {{ID|0003A0D4}}
+|-style="height:32px;"
+| 35
+| 36
+| 327.6
+| 91
+| 204
+| 47
+| ?
+| 35
+| 1.03
+| [[.50 round (Fallout 76)|.50 round]]
+| 250
+| 18
+| 170
+| 9.44
+|-style="height:32px;"
+| 45
+| 43
+| 391.3
+| 91
+| 204
+| 47
+| ?
+| 35
+| 1.23
+| [[.50 round (Fallout 76)|.50 round]]
+| 250
+| 18
+| 170
+| 9.44
+
+|- class="va-table-highlight" style="height:32px;"
+| [[File:FO76 50 cal machine gun heavy barrel.png|80px|link=Final Word]]
+| [[Final Word]] {{icon|FO76WL}}
+| 45
+| 48
+| 547.2
+| 114
+| 204
+| 47
+| ?
+| 30
+| 1.6
+| [[.50 round (Fallout 76)|.50 round]]
+| 250
+| 18
+| 175
+| 9.72
+| {{ID|005A21E4}}
+
+|- class="va-table-highlight" style="height:32px;"
+| [[File:FO76 50 cal machine gun heavy barrel.png|80px|link=The Action Hero]]
+| [[The Action Hero]] {{icon|FO76WA|link=Wild Appalachia}} {{limited}}
+| 45
+| 49
+| 558.6
+| 114
+| 204
+| 19
+| ?
+| 30
+| 1.633
+| [[.50 round (Fallout 76)|.50 round]]
+| 250
+| 18
+| 175
+| 9.72
+| {{ID|00403025}}
+
+|-style="height:32px;"
+| rowspan="3" |[[File:FO76 Broadsider.png|80px|link=Broadsider (Fallout 76)]]
+| rowspan="3" |[[Broadsider (Fallout 76)|Broadsider]]
+| 25
+| 100
+| 30
+| 3
+| 204
+| 65
+| ?
+| 40
+| 2.5
+| [[Cannonball (Fallout 76)|Cannonball]]
+| 1
+| 16
+| 136
+| 8.5
+| rowspan="3" | {{ID|000FD11B}}
+|-style="height:32px;"
+| 35
+| 120
+| 36
+| 3
+| 204
+| 65
+| ?
+| 40
+| 3
+| [[Cannonball (Fallout 76)|Cannonball]]
+| 1
+| 16
+| 136
+| 8.5
+|-style="height:32px;"
+| 45
+| 140
+| 42
+| 3
+| 204
+| 65
+| ?
+| 40
+| 3.5
+| [[Cannonball (Fallout 76)|Cannonball]]
+| 1
+| 16
+| 136
+| 8.5
+
+|-style="height:32px;"
+| rowspan="3" |[[File:FO76 Flamer.png|80px|link=Flamer (Fallout 76)]]
+| rowspan="3" |[[Flamer (Fallout 76)|Flamer]]
+| 30
+| 29{{icon|fire}}
+| 263.9{{icon|fire}}
+| 91
+| 264
+| 60
+| ?
+| 30
+| 0.966{{icon|fire}}
+| [[Fuel]]
+| 100
+| 15
+| 150
+| 10
+| rowspan="3" | {{ID|000E5881}}
+|-style="height:32px;"
+| 40
+| 32{{icon|fire}}
+| 291.2{{icon|fire}}
+| 91
+| 264
+| 60
+| ?
+| 30
+| 1.066{{icon|fire}}
+| [[Fuel]]
+| 100
+| 15
+| 150
+| 10
+|-style="height:32px;"
+| 50
+| 36{{icon|fire}}
+| 327.6{{icon|fire}}
+| 91
+| 264
+| 60
+| ?
+| 30
+| 1.2{{icon|fire}}
+| [[Fuel]]
+| 100
+| 15
+| 150
+| 10
+
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="3" |[[File:Fo76 Pyrolyzer.png|80px|link=Pyrolyzer]]
+| rowspan="3" |[[Pyrolyzer]]
+| 30
+| 29{{icon|fire}}
+| 263.9{{icon|fire}}
+| 91
+| 264
+| 60
+| ?
+| 30
+| 0.966{{icon|fire}}
+| [[Fuel]]
+| 100
+| 15
+| 150
+| 10
+| rowspan="3" | {{ID|000E5881}}
+|- class="va-table-highlight" style="height:32px;"
+| 40
+| 32{{icon|fire}}
+| 291.2{{icon|fire}}
+| 91
+| 264
+| 60
+| ?
+| 30
+| 1.066{{icon|fire}}
+| [[Fuel]]
+| 100
+| 15
+| 150
+| 10
+|- class="va-table-highlight" style="height:32px;"
+| 50
+| 36{{icon|fire}}
+| 327.6{{icon|fire}}
+| 91
+| 264
+| 60
+| ?
+| 30
+| 1.2{{icon|fire}}
+| [[Fuel]]
+| 100
+| 15
+| 150
+| 10
+
+
+|-style="height:32px;"
+| rowspan="4" |[[file:Fo76 Gatling gun.png|80px]]
+| rowspan="4" |[[Gatling gun]]
+| 20
+| 43
+| 86
+| 20
+| 120
+| 55
+| ?
+| 30
+| 1.433
+| [[5mm round (Fallout 76)|5mm round]]
+| 250
+| 19.8
+| 156
+| 7.88
+| rowspan="4" | {{ID|00011BF6}}
+|-style="height:32px;"
+| 30
+| 57
+| 114
+| 20
+| 120
+| 55
+| ?
+| 30
+| 1.9
+| [[5mm round (Fallout 76)|5mm round]]
+| 250
+| 19.8
+| 156
+| 7.88
+|-style="height:32px;"
+| 40
+| 72
+| 144
+| 20
+| 120
+| 55
+| ?
+| 30
+| 2.4
+| [[5mm round (Fallout 76)|5mm round]]
+| 250
+| 19.8
+| 156
+| 7.88
+|-style="height:32px;"
+| 50
+| 86
+| 172
+| 20
+| 120
+| 55
+| ?
+| 30
+| 2.866
+| [[5mm round (Fallout 76)|5mm round]]
+| 250
+| 19.8
+| 156
+| 7.88
+
+|- class="va-table-highlight" style="height:32px;"
+| [[File:FO76 Resolute Veteran.png|80px|link=Resolute Veteran]]
+| [[Resolute Veteran]] {{icon|FO76WA|link=Wild Appalachia}} {{limited}}
+| 50
+| 86
+| 172
+| 20
+| 204
+| 52
+| ?
+| 30
+| 2.866
+| [[5mm round (Fallout 76)|5mm round]]
+| 250
+| 21.6
+| 250
+| 11.57
+| {{ID|0042b0cc}}
+
+|- style="height:32px;"
+| rowspan="2" |[[File:F76WL Gauss minigun.png|80px|link=Gauss minigun (Wastelanders)]]
+| rowspan="2" |[[Gauss minigun (Wastelanders)|Gauss minigun]] {{Icon|FO76WL}}
+| 45
+| 48{{Icon|energy}}
+| 436.8{{Icon|energy}}
+| 91
+| 204
+| 57
+| ?
+| 30
+| 1.6{{Icon|energy}}
+| [[2mm electromagnetic cartridge (Fallout 76)|2mm EC]]
+| 500
+| 18
+| 150
+| 8.3
+| rowspan="2" | {{ID|0055c151}}
+|- style="height:32px;"
+| 50
+| 58{{Icon|energy}}
+| 527.8{{Icon|energy}}
+| 91
+| 204
+| 57
+| ?
+| 30
+| 1.933{{Icon|energy}}
+| [[2mm electromagnetic cartridge (Fallout 76)|2mm EC]]
+| 500
+| 18
+| 150
+| 8.3
+
+|-style="height:32px;"
+| rowspan="3" |[[File:FO76 Harpoon gun.png|80px|link=Harpoon gun (Fallout 76)]]
+| rowspan="3" |[[Harpoon gun (Fallout 76)|Harpoon gun]]
+| 30
+| 125
+| 25
+| 2
+| 120
+| 66
+| ?
+| 40
+| 3.125
+| [[Harpoon (Fallout 76)|Harpoon]]
+| 1
+| 17.6
+| 107
+| 6.08
+| rowspan="3" | {{ID|001109CF}}
+|-style="height:32px;"
+| 40
+| 150
+| 30
+| 2
+| 120
+| 66
+| ?
+| 40
+| 3.75
+| [[Harpoon (Fallout 76)|Harpoon]]
+| 1
+| 17.6
+| 107
+| 6.08
+|-style="height:32px;"
+| 50
+| 175
+| 35
+| 2
+| 120
+| 66
+| ?
+| 40
+| 4.375
+| [[Harpoon (Fallout 76)|Harpoon]]
+| 1
+| 17.6
+| 107
+| 6.08
+
+|- class="va-table-highlight" style="height:32px;"
+| [[File:FO76 Harpoon gun.png|80px|link=Harpoon gun (Fallout 76)]]
+| [[Kingfisher]] {{icon|FO76WA|link=Wild Appalachia}} {{limited}}
+| 50
+| 175
+| 35
+| 2
+| 120
+| 83
+| ?
+| 40
+| 4.375
+| [[Harpoon (Fallout 76)|Harpoon]]
+| 1
+| 16
+| 120
+| 7.5
+| {{ID|0042b0d0}}
+
+|-style="height:32px;"
+| rowspan="3" |[[File:FO76LMG.png|80px|link=Light machine gun (Fallout 76)]]
+| rowspan="3" |[[Light machine gun (Fallout 76)|Light machine gun]]
+| 30
+| 29
+| 461.1
+| 159
+| 174
+| 74
+| ?
+| 32
+| 0.91
+| [[.308 round (Fallout 76)|.308 round]]
+| 75
+| 16
+| 382
+| 23.88
+| rowspan="3" | {{ID|0007CAB1}}
+|-style="height:32px;"
+| 40
+| 34
+| 540.6
+| 159
+| 174
+| 74
+| ?
+| 32
+| 1.06
+| [[.308 round (Fallout 76)|.308 round]]
+| 75
+| 16
+| 382
+| 23.88
+|-style="height:32px;"
+| 50
+| 42
+| 667.8
+| 159
+| 174
+| 74
+| ?
+| 32
+| 1.31
+| [[.308 round (Fallout 76)|.308 round]]
+| 75
+| 16
+| 382
+| 23.88
+
+|-style="height:32px;"
+| rowspan="2" |[[File:Fallout4_Minigun.png|80px|link=Flamer (Fallout 76)]]
+| rowspan="2" |[[Minigun (Fallout 76)|Minigun]]
+| 35
+| 20
+| 364
+| 182
+| 204
+| 47
+| ?
+| 30
+| 0.66
+| [[5mm round (Fallout 76)|5mm round]]
+| 500
+| 18
+| 146
+| 8.11
+| rowspan="2" | {{ID|0001F669}}
+|-style="height:32px;"
+| 45
+| 24
+| 436.8
+| 182
+| 204
+| 47
+| ?
+| 30
+| 0.8
+| [[5mm round (Fallout 76)|5mm round]]
+| 500
+| 18
+| 146
+| 8.11
+|}

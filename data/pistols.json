@@ -1,0 +1,619 @@
+{
+  "000ce97d": {
+    "name": ".44 pistol",
+    "levels": [
+      {
+        "level": 5,
+        "rawDamage": "40",
+        "speed": 6,
+        "range": 84,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 6,
+        "weight": 4,
+        "value": 40
+      },
+      {
+        "level": 15,
+        "rawDamage": "45",
+        "speed": 6,
+        "range": 84,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 6,
+        "weight": 4,
+        "value": 40
+      },
+      {
+        "level": 25,
+        "rawDamage": "50",
+        "speed": 6,
+        "range": 84,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 6,
+        "weight": 4,
+        "value": 40
+      },
+      {
+        "level": 35,
+        "rawDamage": "55",
+        "speed": 6,
+        "range": 84,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 6,
+        "weight": 4,
+        "value": 40
+      },
+      {
+        "level": 45,
+        "rawDamage": "60",
+        "speed": 6,
+        "range": 84,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 6,
+        "weight": 4,
+        "value": 40
+      }
+    ],
+    "id": "000ce97d",
+    "ammo": ".44"
+  },
+  "00403022": {
+    "name": "Medical Malpractice",
+    "levels": [
+      {
+        "level": 45,
+        "rawDamage": "81",
+        "speed": 7,
+        "range": 84,
+        "accuracy": 37,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 6,
+        "weight": 4,
+        "value": 40
+      }
+    ],
+    "id": "00403022",
+    "ammo": ".44"
+  },
+  "0039c6c9": {
+    "name": "Voice of Set",
+    "levels": [
+      {
+        "level": 25,
+        "rawDamage": "60",
+        "speed": 6,
+        "range": 84,
+        "accuracy": 68,
+        "rawCrit": "61",
+        "actionCost": 20,
+        "capacity": 6,
+        "weight": 4,
+        "value": 125
+      },
+      {
+        "level": 35,
+        "rawDamage": "66",
+        "speed": 6,
+        "range": 84,
+        "accuracy": 68,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 6,
+        "weight": 4,
+        "value": 125
+      },
+      {
+        "level": 45,
+        "rawDamage": "72",
+        "speed": 6,
+        "range": 84,
+        "accuracy": 68,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 6,
+        "weight": 4,
+        "value": 125
+      }
+    ],
+    "id": "0039c6c9",
+    "ammo": ".44"
+  },
+  "00004822": {
+    "name": "10mm pistol",
+    "levels": [
+      {
+        "level": 5,
+        "rawDamage": "15",
+        "speed": 43,
+        "range": 120,
+        "accuracy": 63,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 12,
+        "weight": 3,
+        "value": 40
+      },
+      {
+        "level": 15,
+        "rawDamage": "18",
+        "speed": 43,
+        "range": 120,
+        "accuracy": 63,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 12,
+        "weight": 3,
+        "value": 40
+      },
+      {
+        "level": 25,
+        "rawDamage": "21",
+        "speed": 43,
+        "range": 120,
+        "accuracy": 63,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 12,
+        "weight": 3,
+        "value": 40
+      },
+      {
+        "level": 35,
+        "rawDamage": "24",
+        "speed": 43,
+        "range": 120,
+        "accuracy": 63,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 12,
+        "weight": 3,
+        "value": 40
+      },
+      {
+        "level": 45,
+        "rawDamage": "28",
+        "speed": 43,
+        "range": 120,
+        "accuracy": 63,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 12,
+        "weight": 3,
+        "value": 40
+      }
+    ],
+    "id": "00004822",
+    "ammo": "10mm"
+  },
+  "004f496f": {
+    "name": "Anti-Scorched training pistol",
+    "levels": [
+      {
+        "level": 5,
+        "rawDamage": "12",
+        "speed": 75,
+        "range": 108,
+        "accuracy": 66,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 12,
+        "weight": 3,
+        "value": 45
+      },
+      {
+        "level": 15,
+        "rawDamage": "12",
+        "speed": 75,
+        "range": 108,
+        "accuracy": 66,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 12,
+        "weight": 3,
+        "value": 45
+      },
+      {
+        "level": 5,
+        "rawDamage": "12",
+        "speed": 75,
+        "range": 108,
+        "accuracy": 66,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 12,
+        "weight": 3,
+        "value": 45
+      }
+    ],
+    "id": "004f496f",
+    "ammo": "10mm"
+  },
+  "00003aad": {
+    "name": "Black powder blunderbuss",
+    "levels": [
+      {
+        "level": 10,
+        "rawDamage": "115",
+        "speed": 2,
+        "range": 12,
+        "accuracy": 66,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 90
+      },
+      {
+        "level": 20,
+        "rawDamage": "130",
+        "speed": 2,
+        "range": 12,
+        "accuracy": 66,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 90
+      },
+      {
+        "level": 30,
+        "rawDamage": "145",
+        "speed": 2,
+        "range": 12,
+        "accuracy": 66,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 90
+      },
+      {
+        "level": 40,
+        "rawDamage": "160",
+        "speed": 2,
+        "range": 12,
+        "accuracy": 66,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 90
+      },
+      {
+        "level": 50,
+        "rawDamage": "175",
+        "speed": 2,
+        "range": 12,
+        "accuracy": 66,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 90
+      }
+    ],
+    "id": "00003aad",
+    "ammo": ".50 ball"
+  },
+  "00003aac": {
+    "name": "Black powder pistol",
+    "levels": [
+      {
+        "level": 10,
+        "rawDamage": "115",
+        "speed": 2,
+        "range": 204,
+        "accuracy": 66,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 90
+      },
+      {
+        "level": 20,
+        "rawDamage": "130",
+        "speed": 2,
+        "range": 204,
+        "accuracy": 66,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 90
+      },
+      {
+        "level": 30,
+        "rawDamage": "145",
+        "speed": 2,
+        "range": 204,
+        "accuracy": 66,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 90
+      },
+      {
+        "level": 40,
+        "rawDamage": "160",
+        "speed": 2,
+        "range": 204,
+        "accuracy": 66,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 90
+      },
+      {
+        "level": 50,
+        "rawDamage": "175",
+        "speed": 2,
+        "range": 204,
+        "accuracy": 66,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 3,
+        "value": 90
+      }
+    ],
+    "id": "00003aac",
+    "ammo": ".50 ball"
+  },
+  "001025ac": {
+    "name": "Flare gun",
+    "levels": [
+      {
+        "level": 1,
+        "rawDamage": "5",
+        "speed": 3,
+        "range": 147,
+        "accuracy": 75,
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "capacity": 1,
+        "weight": 2,
+        "value": 50
+      }
+    ],
+    "id": "001025ac",
+    "ammo": "Flare"
+  },
+  "0054a165": {
+    "name": "Gauss pistol",
+    "levels": [
+      {
+        "level": 15,
+        "rawDamage": "62",
+        "speed": 67,
+        "range": 120,
+        "accuracy": 58,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 18,
+        "weight": 4,
+        "value": 85
+      },
+      {
+        "level": 20,
+        "rawDamage": "70",
+        "speed": 67,
+        "range": 120,
+        "accuracy": 58,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 18,
+        "weight": 4,
+        "value": 85
+      },
+      {
+        "level": 25,
+        "rawDamage": "76",
+        "speed": 67,
+        "range": 120,
+        "accuracy": 58,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 18,
+        "weight": 4,
+        "value": 85
+      },
+      {
+        "level": 30,
+        "rawDamage": "85",
+        "speed": 67,
+        "range": 120,
+        "accuracy": 58,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 18,
+        "weight": 4,
+        "value": 85
+      },
+      {
+        "level": 35,
+        "rawDamage": "92",
+        "speed": 67,
+        "range": 120,
+        "accuracy": 58,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 18,
+        "weight": 4,
+        "value": 85
+      },
+      {
+        "level": 40,
+        "rawDamage": "100",
+        "speed": 67,
+        "range": 120,
+        "accuracy": 58,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 18,
+        "weight": 4,
+        "value": 85
+      },
+      {
+        "level": 45,
+        "rawDamage": "108",
+        "speed": 67,
+        "range": 120,
+        "accuracy": 58,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 18,
+        "weight": 4,
+        "value": 85
+      },
+      {
+        "level": 50,
+        "rawDamage": "115",
+        "speed": 67,
+        "range": 120,
+        "accuracy": 58,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 18,
+        "weight": 4,
+        "value": 85
+      }
+    ],
+    "id": "0054a165",
+    "ammo": "2mm EC"
+  },
+  "001c7a69": {
+    "name": "Single action revolver",
+    "levels": [
+      {
+        "level": 10,
+        "rawDamage": "42",
+        "speed": 6,
+        "range": 204,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 6,
+        "weight": 4,
+        "value": 85
+      },
+      {
+        "level": 20,
+        "rawDamage": "48",
+        "speed": 6,
+        "range": 204,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 6,
+        "weight": 4,
+        "value": 85
+      },
+      {
+        "level": 30,
+        "rawDamage": "52",
+        "speed": 6,
+        "range": 204,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 6,
+        "weight": 4,
+        "value": 85
+      },
+      {
+        "level": 40,
+        "rawDamage": "58",
+        "speed": 6,
+        "range": 204,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 6,
+        "weight": 4,
+        "value": 85
+      },
+      {
+        "level": 50,
+        "rawDamage": "62",
+        "speed": 6,
+        "range": 204,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 6,
+        "weight": 4,
+        "value": 85
+      }
+    ],
+    "id": "001c7a69",
+    "ammo": ".44"
+  },
+  "00113d6a": {
+    "name": "Western revolver",
+    "levels": [
+      {
+        "level": 20,
+        "rawDamage": "50",
+        "speed": 6,
+        "range": 120,
+        "accuracy": 68,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 6,
+        "weight": 4,
+        "value": 120
+      },
+      {
+        "level": 30,
+        "rawDamage": "55",
+        "speed": 6,
+        "range": 120,
+        "accuracy": 68,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 6,
+        "weight": 4,
+        "value": 120
+      },
+      {
+        "level": 40,
+        "rawDamage": "60",
+        "speed": 6,
+        "range": 120,
+        "accuracy": 68,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 6,
+        "weight": 4,
+        "value": 120
+      },
+      {
+        "level": 50,
+        "rawDamage": "65",
+        "speed": 6,
+        "range": 120,
+        "accuracy": 68,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 6,
+        "weight": 4,
+        "value": 120
+      }
+    ],
+    "id": "00113d6a",
+    "ammo": ".44"
+  }
+}

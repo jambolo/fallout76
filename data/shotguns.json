@@ -1,0 +1,277 @@
+{
+  "0014831c": {
+    "name": "Combat shotgun",
+    "levels": [
+      {
+        "level": 20,
+        "rawDamage": "60",
+        "speed": 20,
+        "range": 36,
+        "accuracy": 16,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 8,
+        "weight": 9.8,
+        "value": 131
+      },
+      {
+        "level": 30,
+        "rawDamage": "70",
+        "speed": 20,
+        "range": 36,
+        "accuracy": 16,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 8,
+        "weight": 9.8,
+        "value": 131
+      },
+      {
+        "level": 40,
+        "rawDamage": "80",
+        "speed": 20,
+        "range": 36,
+        "accuracy": 16,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 8,
+        "weight": 9.8,
+        "value": 131
+      },
+      {
+        "level": 50,
+        "rawDamage": "90",
+        "speed": 20,
+        "range": 36,
+        "accuracy": 16,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 8,
+        "weight": 9.8,
+        "value": 131
+      }
+    ],
+    "id": "0014831c",
+    "ammo": "Shell"
+  },
+  "00092217": {
+    "name": "Double-barrel shotgun",
+    "levels": [
+      {
+        "level": 15,
+        "rawDamage": "80",
+        "speed": 36,
+        "range": 36,
+        "accuracy": 14,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 2,
+        "weight": 8.4,
+        "value": 105
+      },
+      {
+        "level": 25,
+        "rawDamage": "90",
+        "speed": 36,
+        "range": 36,
+        "accuracy": 14,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 2,
+        "weight": 8.4,
+        "value": 105
+      },
+      {
+        "level": 35,
+        "rawDamage": "100",
+        "speed": 36,
+        "range": 36,
+        "accuracy": 14,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 2,
+        "weight": 8.4,
+        "value": 105
+      },
+      {
+        "level": 45,
+        "rawDamage": "115",
+        "speed": 36,
+        "range": 36,
+        "accuracy": 14,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 2,
+        "weight": 8.4,
+        "value": 105
+      }
+    ],
+    "id": "00092217",
+    "ammo": "Shell"
+  },
+  "0042b0d3": {
+    "name": "Salt of the Earth",
+    "levels": [
+      {
+        "level": 45,
+        "rawDamage": "115",
+        "speed": 44,
+        "range": 36,
+        "accuracy": 14,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 2,
+        "weight": 9.8,
+        "value": 219
+      }
+    ],
+    "id": "0042b0d3",
+    "ammo": "Shell"
+  },
+  "0055c150": {
+    "name": "Gauss shotgun",
+    "levels": [
+      {
+        "level": 25,
+        "rawDamage": "80",
+        "speed": -1,
+        "range": -1,
+        "accuracy": -1,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 8,
+        "weight": 7,
+        "value": 125
+      },
+      {
+        "level": 30,
+        "rawDamage": "85",
+        "speed": -1,
+        "range": -1,
+        "accuracy": -1,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 8,
+        "weight": 7,
+        "value": 125
+      },
+      {
+        "level": 35,
+        "rawDamage": "90",
+        "speed": -1,
+        "range": -1,
+        "accuracy": -1,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 8,
+        "weight": 7,
+        "value": 125
+      },
+      {
+        "level": 40,
+        "rawDamage": "95",
+        "speed": -1,
+        "range": -1,
+        "accuracy": -1,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 8,
+        "weight": 7,
+        "value": 125
+      },
+      {
+        "level": 45,
+        "rawDamage": "100",
+        "speed": -1,
+        "range": -1,
+        "accuracy": -1,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 8,
+        "weight": 7,
+        "value": 125
+      },
+      {
+        "level": 50,
+        "rawDamage": "105",
+        "speed": -1,
+        "range": -1,
+        "accuracy": -1,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 8,
+        "weight": 7,
+        "value": 125
+      }
+    ],
+    "id": "0055c150",
+    "ammo": "2mm EC"
+  },
+  "0012dbb3": {
+    "name": "Civil Unrest",
+    "levels": [
+      {
+        "level": 5,
+        "rawDamage": "55",
+        "speed": 5,
+        "range": 36,
+        "accuracy": 24,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 8,
+        "weight": 7.7,
+        "value": 45
+      },
+      {
+        "level": 15,
+        "rawDamage": "65",
+        "speed": 5,
+        "range": 36,
+        "accuracy": 24,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 8,
+        "weight": 7.7,
+        "value": 45
+      },
+      {
+        "level": 25,
+        "rawDamage": "75",
+        "speed": 5,
+        "range": 36,
+        "accuracy": 24,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 8,
+        "weight": 7.7,
+        "value": 45
+      },
+      {
+        "level": 35,
+        "rawDamage": "85",
+        "speed": 5,
+        "range": 36,
+        "accuracy": 24,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 8,
+        "weight": 7.7,
+        "value": 45
+      },
+      {
+        "level": 45,
+        "rawDamage": "95",
+        "speed": 5,
+        "range": 36,
+        "accuracy": 24,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 8,
+        "weight": 7.7,
+        "value": 45
+      }
+    ],
+    "id": "0012dbb3",
+    "ammo": "Shell"
+  }
+}

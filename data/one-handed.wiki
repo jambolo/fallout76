@@ -1,0 +1,1046 @@
+===One handed/blades===
+{{clear}}
+{| class="va-table va-table-center va-table-full sortable"
+!
+! {{Icon|blade|x18px|tooltip=One-Handed melee weapon name}}
+! {{Icon|level|x18px|tooltip=Level}}
+! {{Icon|damage|x18px|tooltip=Damage per attack|link=Damage}}
+! {{Icon|dps|x18px|tooltip=Damage per second}}
+! {{Icon|attack|x18px|tooltip=Speed}}
+! {{Icon|crit|x18px|tooltip=Critical hit Damage}}
+! {{Icon|ap|x18px|tooltip=Action point cost}}
+! {{Icon|dap|x18px|tooltip=Damage per Action Point}}
+! {{Icon|weight|x18px|tooltip=Weapon weight}}
+! {{Icon|merchant|x18px|tooltip=Weapon value in caps}}
+! {{Icon|ratio|x18px|tooltip=Value to weight ratio}}
+! Base ID
+
+|- style="height:32px;"
+| rowspan="3" |[[File:Automatron_assaultron_blade.png|80px|link=Assaultron blade (Fallout 76)]]
+| rowspan="3" |[[Assaultron blade (Fallout 76)|Assaultron blade]]
+| 25
+| 28
+| 25.2
+| Medium
+| ?
+| 35
+| 0.8
+| 3
+| 70
+| 23.33
+| rowspan="3" | {{ID|0010F3F2}}
+|- style="height:32px;"
+| 35
+| 33
+| 29.7
+| Medium
+| ?
+| 35
+| 0.94
+| 3
+| 70
+| 23.33
+|- style="height:32px;"
+| 45
+| 40
+| 36
+| Medium
+| ?
+| 35
+| 1.14
+| 3
+| 70
+| 23.33
+
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="3" |[[File:Automatron_assaultron_blade.png|80px|link=The Gutter]]
+| rowspan="3" |[[The Gutter]] {{icon|FO76WA|link=Wild Appalachia}}
+| 25
+| 28
+| 25.2
+| Medium
+| ?
+| 35
+| 0.8
+| 3
+| 70
+| 23.33
+| rowspan="3" | {{ID|003f5e94}}
+|- class="va-table-highlight" style="height:32px;"
+| 35
+| 33
+| 29.7
+| Medium
+| ?
+| 35
+| 0.94
+| 3
+| 70
+| 23.33
+|- class="va-table-highlight" style="height:32px;"
+| 45
+| 40
+| 36
+| Medium
+| ?
+| 35
+| 1.14
+| 3
+| 70
+| 23.33
+
+|- style="height:32px;"
+| rowspan="4" |[[File:FO76 Bone club.png|80px|link=Bone club]]
+| rowspan="4" |[[Bone club]]
+| 15
+| 21
+| 18.9
+| Medium
+| ?
+| 30
+| 0.7
+| 3
+| 15
+| 5
+| rowspan="4" | {{ID|003643DA}}
+|- style="height:32px;"
+| 25
+| 31
+| 27.9
+| Medium
+| ?
+| 30
+| 1.033
+| 3
+| 15
+| 5
+|- style="height:32px;"
+| 35
+| 41
+| 36.9
+| Medium
+| ?
+| 30
+| 1.366
+| 3
+| 15
+| 5
+|- style="height:32px;"
+| 45
+| 51
+| 45.9
+| Medium
+| ?
+| 30
+| 1.7
+| 3
+| 15
+| 5
+
+|- style="height:32px;"
+| rowspan="5" |[[File:Fallout4 Security Baton.png|80px|link=Baton (Fallout 76)]]
+| rowspan="5" |[[Baton (Fallout 76)|Baton]]
+| 5
+| 15
+| 13.5
+| Medium
+| ?
+| 30
+| 0.5
+| 2
+| 15
+| 7.5
+| rowspan="5" | {{ID|0008C14D}}
+|- style="height:32px;"
+| 15
+| 25
+| 27.77
+| Medium
+| ?
+| 30
+| 0.833
+| 2
+| 15
+| 7.5
+|- style="height:32px;"
+| 25
+| 30
+| 27
+| Medium
+| ?
+| 30
+| 1
+| 2
+| 15
+| 7.5
+|- style="height:32px;"
+| 35
+| 35
+| 31.5
+| Medium
+| ?
+| 30
+| 1.166
+| 2
+| 15
+| 7.5
+|- style="height:32px;"
+| 45
+| 40
+| 36
+| Medium
+| ?
+| 30
+| 1.33
+| 2
+| 15
+| 7.5
+
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="1" |[[File:FO76NW Disorderly Conduct.png|80px|link=Disorderly Conduct]]
+| rowspan="1" |[[Disorderly Conduct]] {{icon|FO76NW|link=Nuclear Winter}} {{limited}}
+| 45
+| 40
+| 36
+| Medium
+| ?
+| 30
+| 1.33
+| 2
+| 15
+| 7.5
+| rowspan="1" | {{ID|0042B0CB}}
+
+|- style="height:32px;"
+| rowspan="5" |[[File:Fo76 Bowie knife.png|80px|link=Bowie knife (Fallout 76)]]
+| rowspan="5" |[[Bowie knife (Fallout 76)|Bowie knife]]
+| 5
+| 10
+| 13
+| Fast
+| ?
+| 20
+| 0.5
+| 1
+| 35
+| 35
+| rowspan="5" | {{ID|000311DE}}
+|- style="height:32px;"
+| 15
+| 15
+| 19.5
+| Fast
+| ?
+| 20
+| 0.75
+| 1
+| 35
+| 35
+|- style="height:32px;"
+| 25
+| 20
+| 26
+| Fast
+| ?
+| 20
+| 1
+| 1
+| 35
+| 35
+|- style="height:32px;"
+| 35
+| 25
+| 
+| Fast
+| ?
+| 20
+| 1.25
+| 1
+| 35
+| 35
+|- style="height:32px;"
+| 45
+| 30
+| 
+| Fast
+| ?
+| 20
+| 1.5
+| 1
+| 35
+| 35
+
+|- style="height:32px;"
+| rowspan="2" |[[File:Chinese officer sword (FO4).png|80px|link=Chinese officer sword (Fallout 76)]]
+| rowspan="2" |[[Chinese officer sword (Fallout 76)|Chinese officer sword]]
+| 5
+| 21
+| 18.9
+| Medium
+| ?
+| ?
+| ?
+| 3
+| 34
+| ?
+| rowspan="2" | {{ID|00147BE4}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="2" |[[File:Chinese officer sword (FO4).png|80px|link=Ancient blade]]
+| rowspan="2" |[[Ancient blade]]
+| ?
+| ?
+| ?
+| Medium
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| rowspan="2" | {{ID|002C3EC7}}
+|- class="va-table-highlight" style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="2" |[[File:Chinese officer sword (FO4).png|80px|link=Blade of Bastet]]
+| rowspan="2" |[[Blade of Bastet]]
+| 25
+| 48
+| 43.2
+| Medium
+| ?
+| ?
+| ?
+| 3
+| 65
+| 21.7
+| rowspan="2" | {{ID|0039C6C8}}
+|- class="va-table-highlight" style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="2" |[[File:Chinese officer sword (FO4).png|80px|link=Grant's saber]]
+| rowspan="2" |[[Grant's saber]]
+| 1
+| 11
+| 9.9
+| Medium
+| ?
+| ?
+| ?
+| 3
+| 49
+| 16.3
+| rowspan="2" | {{ID|00357FBD}}
+|- class="va-table-highlight" style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="2" |[[File:Chinese officer sword (FO4).png|80px|link=Chinese officer sword (Fallout 76)]]
+| rowspan="2" |[[Meteoritic sword]]
+| ?
+| ?
+| ?
+| Medium
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| rowspan="2" | {{ID|00111AB6}}
+|- class="va-table-highlight" style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- style="height:32px;"
+| rowspan="2" |[[File:Fallout4 Combat knife.png|80px|link=Combat knife (Fallout 76)]]
+| rowspan="2" |[[Combat knife (Fallout 76)|Combat knife]]
+| 1
+| 17
+| 18.7
+| Fast
+| ?
+| ?
+| ?
+| 1
+| 20
+| 20
+| rowspan="2" | {{ID|000913CA}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- style="height:32px;"
+| rowspan="2" |[[File:Commie Whacker.png|80px|link=Commie Whacker (Fallout 76)]]
+| rowspan="2" |[[Commie Whacker (Fallout 76)|Commie Whacker]]
+| ?
+| 7
+| 6.3
+| Medium
+| ?
+| ?
+| ?
+| 2
+| 10
+| ?
+| rowspan="2" | {{ID|0011475B}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- style="height:32px;"
+| rowspan="2" |[[File:Commie Whacker.png|80px|link=Commie Whacker (Fallout 76)]]
+| rowspan="2" |[[Camden Whacker|Camden Whacker]]
+| ?
+| 7
+| 6.3
+| Medium
+| ?
+| ?
+| ?
+| 2
+| 10
+| 
+| rowspan="2" | {{ID|002BA1D9}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- style="height:32px;"
+| rowspan="2" |[[File:FO76 Cultist blade.png|100px|link=Cultist blade]]
+| rowspan="2" |[[Cultist blade]]
+| 20
+| 29
+| 26.1
+| Medium
+| ?
+| ?
+| ?
+| 3
+| 18
+| ?
+| rowspan="2" | {{ID|0005A937}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="2" |[[File:FO76 Cultist blade.png|100px|link=Nailer]]
+| rowspan="2" |[[Nailer]]
+| ?
+| ?
+| ?
+| Medium
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| rowspan="2" | {{ID|00342521}}
+|- class="va-table-highlight" style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+
+|- style="height:32px;"
+| rowspan="2" |[[File:CultBlade76.png|100px|link=Cultist dagger]]
+| rowspan="2" |[[Cultist dagger]]
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| rowspan="2" | {{ID|0008E015}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- style="height:32px;"
+| rowspan="2" |[[File:Fo76 Drill.png|70px]]
+| rowspan="2" |[[Drill]]
+| 20
+| 14
+| ?
+| Very Fast
+| ?
+| ?
+| ?
+| 2
+| 57
+| 28.5
+| rowspan="2" | {{ID|00081DD5}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|-style="height:32px;"
+| rowspan="2" |[[File:Guitar Sword F76.png|80px|link=Guitar sword]]
+| rowspan="2" |[[Guitar sword]]
+| 15
+| 45
+| 40.5
+| Medium
+| ?
+| ?
+| ?
+| 3
+| 45
+| 15
+| rowspan="2" | {{ID|0000DC56}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|-style="height:32px;"
+| rowspan="2" |[[File:FO76_Hatchet.png|80px|link=Hatchet (Fallout 76)]]
+| rowspan="2" |[[Hatchet (Fallout 76)|Hatchet]]
+| 1
+| 23
+| 20.7
+| Medium
+| ?
+| ?
+| ?
+| 12
+| 3
+| 4
+| rowspan="2" | {{ID|0010D808}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- style="height:32px;"
+| rowspan="2" |[[File:Fo4 lead pipe.png|80px|link=Lead pipe (Fallout 76)]]
+| rowspan="2" |[[Lead pipe (Fallout 76)|Lead pipe]]
+| 40
+| 71
+| 63.9
+| Medium
+| ?
+| ?
+| ?
+| 3
+| ?
+| ?
+| rowspan="2" | {{ID|000FC9C3}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- style="height:32px;"
+| rowspan="2" |[[File:FO76_Machete.png|80px|link=Machete (Fallout 76)]]
+| rowspan="2" |[[Machete (Fallout 76)|Machete]]
+| 1
+| 23
+| 20.7
+| Medium
+| ?
+| ?
+| ?
+| 2
+| 20
+| 10
+| rowspan="2" | {{ID|00033FE0}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- style="height:32px;"
+| rowspan="2" |[[File:Fallout4_Pipe_wrench.png|80px|link=Pipe wrench (Fallout 76)]]
+| rowspan="2" |[[Pipe wrench (Fallout 76)|Pipe wrench]]
+| ?
+| 25
+| 22.5
+| Medium
+| ?
+| ?
+| ?
+| 2
+| 18
+| 9
+| rowspan="2" | {{ID|000D83BF}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- class="va-table-highlight" style="height:32px;"
+| [[File:Fo76nw Mechanic's Best Friend.png|80px|link=Mechanic's Best Friend]]
+| [[Mechanic's Best Friend]] {{icon|FO76NW|link=Nuclear Winter}} {{limited}}
+| 50
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| 2
+| 30
+| ?
+| {{ID|0042b0d1}}
+
+|-style="height:32px;"
+| rowspan="2" |[[File:Revolutionary sword.png|80px|link=Revolutionary sword (Fallout 76)]]
+| rowspan="2" |[[Revolutionary sword (Fallout 76)|Revolutionary sword]]
+| 10
+| 37
+| 33.3
+| Medium
+| ?
+| ?
+| ?
+| 3
+| 41
+| ?
+| rowspan="2" | {{ID|00143AB5}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- class="va-table-highlight" style="height:32px;"
+| [[File:Revolutionary sword.png|80px|link=Commander%27s_Charge]]
+| [[Commander's Charge]] {{icon|FO76WA|link=Wild Appalachia}} {{limited}}
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| 3
+| ?
+| ?
+| {{ID|0042b0d4}}
+
+|- style="height:32px;"
+| rowspan="2" |[[File:Ripper (Fallout 4).png|80px|link=Ripper (Fallout 76)]]
+| rowspan="2" |[[Ripper (Fallout 76)|Ripper]]
+| 40
+| 3
+| 
+| Very Fast
+| ?
+| ?
+| ?
+| 6
+| 105
+| 17.5
+| rowspan="2" | {{ID|000FA2F6}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- style="height:32px;"
+| rowspan="2" |[[File:Fallout4 Rolling pin.png|80px|link=Rolling pin (Fallout 76)]]
+| rowspan="2" |[[Rolling pin (Fallout 76)|Rolling pin]]
+| ?
+| ?
+| ?
+| Medium
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| rowspan="2" | {{ID|00142FAB}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- style="height:32px;"
+| rowspan="2" | [[File:F76WA Sheepsquatch club.png|80px|link=Sheepsquatch club]]
+| rowspan="2" |[[Sheepsquatch club]] {{Icon|FO76WA}}
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| rowspan="2" | {{ID|00455839}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- style="height:32px;"
+| rowspan="2" |[[File:Shishkebab (Fallout 4).png|60px|link=Shishkebab (Fallout 76)]]
+| rowspan="2" |[[Shishkebab (Fallout 76)|Shishkebab]]
+| 35
+| 28 + 22{{Icon|energy}}
+| 25.2 + 19.8{{Icon|energy}}
+| Medium
+| ?
+| ?
+| ?
+| 3
+| 97
+| ?
+| rowspan="2" | {{ID|000FA2FB}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- style="height:32px;"
+| rowspan="2" |[[File:Sickle.png|60px|link=Sickle]]
+| rowspan="2" |[[Sickle]]
+| ?
+| ?
+| ?
+| Medium
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| rowspan="2" | {{ID|000B3293}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|-style="height:32px;"
+| rowspan="2" |[[File:Ski sword.png|70px|link=Ski sword]]
+| rowspan="2" |[[Ski sword]]
+| 15
+| 50
+| 45
+| Medium
+| ?
+| ?
+| ?
+| 3
+| 15
+| ?
+| rowspan="2" | {{ID|000360CF}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="2" |[[File:Ski sword.png|80px|link=Ski sword]]
+| rowspan="2" |[[Black Diamond]]
+| 15
+| 80
+| 72
+| Medium
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| rowspan="2" | {{ID|000360CF}}
+|- class="va-table-highlight" style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|-style="height:32px;"
+| rowspan="2" |[[File:Fo4 switchblade.png|80px|link=Switchblade (Fallout 76)]]
+| rowspan="2" |[[Switchblade (Fallout 76)|Switchblade]]
+| 10
+| 15
+| 16.5
+| Fast
+| ?
+| ?
+| ?
+| 1
+| 12
+| ?
+| rowspan="2" | {{ID|000FDC81}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- class="va-table-highlight" style="height:32px;"
+| [[File:FO76WA The Quick Fix.png|80px|file=The_Quick_Fix]]
+| [[The Quick Fix]] {{icon|FO76WA|link=Wild Appalachia}} {{limited}}
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| 3
+| ?
+| ?
+| {{ID|00403026}}
+
+|- style="height:32px;"
+| rowspan="2" |[[File:Fallout4 Tire Iron.png|80px|link=Tire iron (Fallout 76)]]
+| rowspan="2" |[[Tire iron (Fallout 76)|Tire iron]]
+| ?
+| ?
+| ?
+| Medium
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| rowspan="2" | {{ID|00185D25}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|- style="height:32px;"
+| rowspan="2" |[[File:Walking_cane.png|80px|link=Walking cane (Fallout 76)]]
+| rowspan="2" |[[Walking cane (Fallout 76)|Walking cane]]
+| 1
+| 25
+| 22.5
+| Medium
+| ?
+| ?
+| ?
+| 2
+| 8
+| 4
+| rowspan="2" | {{ID|000FDC7D}}
+|- style="height:32px;"
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+| ?
+
+|}

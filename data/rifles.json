@@ -1,0 +1,673 @@
+{
+  "0000463f": {
+    "name": "Assault rifle",
+    "levels": [
+      {
+        "level": 30,
+        "rawDamage": "25",
+        "speed": 40,
+        "range": 120,
+        "accuracy": 71,
+        "rawCrit": "-1",
+        "actionCost": 32,
+        "capacity": 20,
+        "weight": 11.2,
+        "value": 110
+      },
+      {
+        "level": 40,
+        "rawDamage": "29",
+        "speed": 40,
+        "range": 120,
+        "accuracy": 71,
+        "rawCrit": "-1",
+        "actionCost": 32,
+        "capacity": 20,
+        "weight": 11.2,
+        "value": 110
+      },
+      {
+        "level": 50,
+        "rawDamage": "33",
+        "speed": 40,
+        "range": 120,
+        "accuracy": 71,
+        "rawCrit": "-1",
+        "actionCost": 32,
+        "capacity": 20,
+        "weight": 11.2,
+        "value": 110
+      }
+    ],
+    "id": "0000463f",
+    "ammo": "5.56mm"
+  },
+  "0042b0d2": {
+    "name": "Whistle in the Dark",
+    "levels": [
+      {
+        "level": 50,
+        "rawDamage": "33",
+        "speed": 40,
+        "range": 120,
+        "accuracy": 71,
+        "rawCrit": "-1",
+        "actionCost": 32,
+        "capacity": 20,
+        "weight": 8,
+        "value": 105
+      }
+    ],
+    "id": "0042b0d2",
+    "ammo": "5.56mm"
+  },
+  "00091bb4": {
+    "name": "Black powder rifle",
+    "levels": [
+      {
+        "level": 15,
+        "rawDamage": "150",
+        "speed": 1,
+        "range": 204,
+        "accuracy": 71,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 6,
+        "value": 134
+      },
+      {
+        "level": 25,
+        "rawDamage": "160",
+        "speed": 1,
+        "range": 204,
+        "accuracy": 71,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 6,
+        "value": 134
+      },
+      {
+        "level": 35,
+        "rawDamage": "170",
+        "speed": 1,
+        "range": 204,
+        "accuracy": 71,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 6,
+        "value": 134
+      },
+      {
+        "level": 45,
+        "rawDamage": "180",
+        "speed": 1,
+        "range": 204,
+        "accuracy": 71,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 6,
+        "value": 134
+      }
+    ],
+    "id": "00091bb4",
+    "ammo": ".50 ball"
+  },
+  "000df42e": {
+    "name": "Combat rifle",
+    "levels": [
+      {
+        "level": 20,
+        "rawDamage": "28",
+        "speed": 33,
+        "range": 120,
+        "accuracy": 68,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 20,
+        "weight": 9.8,
+        "value": 137
+      },
+      {
+        "level": 30,
+        "rawDamage": "32",
+        "speed": 33,
+        "range": 120,
+        "accuracy": 68,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 20,
+        "weight": 9.8,
+        "value": 137
+      },
+      {
+        "level": 40,
+        "rawDamage": "36",
+        "speed": 33,
+        "range": 120,
+        "accuracy": 68,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 20,
+        "weight": 9.8,
+        "value": 137
+      },
+      {
+        "level": 50,
+        "rawDamage": "40",
+        "speed": 33,
+        "range": 120,
+        "accuracy": 68,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 20,
+        "weight": 9.8,
+        "value": 137
+      }
+    ],
+    "id": "000df42e",
+    "ammo": ".45"
+  },
+  "0046d2a1": {
+    "name": "The Fixer",
+    "levels": [
+      {
+        "level": 20,
+        "rawDamage": "33",
+        "speed": 33,
+        "range": 90,
+        "accuracy": 79,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 40,
+        "weight": 13.75,
+        "value": 416
+      },
+      {
+        "level": 30,
+        "rawDamage": "38",
+        "speed": 33,
+        "range": 90,
+        "accuracy": 79,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 40,
+        "weight": 13.75,
+        "value": 416
+      },
+      {
+        "level": 40,
+        "rawDamage": "43",
+        "speed": 33,
+        "range": 90,
+        "accuracy": 79,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 40,
+        "weight": 13.75,
+        "value": 416
+      },
+      {
+        "level": 50,
+        "rawDamage": "48",
+        "speed": 33,
+        "range": 90,
+        "accuracy": 79,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 40,
+        "weight": 13.75,
+        "value": 416
+      }
+    ],
+    "id": "0046d2a1",
+    "ammo": ".45"
+  },
+  "00046946": {
+    "name": "The Dragon",
+    "levels": [
+      {
+        "level": 35,
+        "rawDamage": "200",
+        "speed": 1,
+        "range": 419,
+        "accuracy": 71,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 7.8,
+        "value": 151
+      },
+      {
+        "level": 45,
+        "rawDamage": "217",
+        "speed": 1,
+        "range": 419,
+        "accuracy": 71,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 1,
+        "weight": 7.8,
+        "value": 151
+      }
+    ],
+    "id": "00046946",
+    "ammo": ".50 ball"
+  },
+  "000d1eb0": {
+    "name": "Gauss rifle",
+    "levels": [
+      {
+        "level": 35,
+        "rawDamage": "125",
+        "speed": 67,
+        "range": 204,
+        "accuracy": 60,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 5,
+        "weight": 10.4,
+        "value": 227
+      },
+      {
+        "level": 45,
+        "rawDamage": "140",
+        "speed": 67,
+        "range": 204,
+        "accuracy": 60,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 5,
+        "weight": 10.4,
+        "value": 227
+      }
+    ],
+    "id": "000d1eb0",
+    "ammo": "2mm EC"
+  },
+  "00313982": {
+    "name": "Presidential Gauss rifle",
+    "levels": [
+      {
+        "level": 40,
+        "rawDamage": "-1",
+        "speed": 67,
+        "range": 204,
+        "accuracy": 60,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 110,
+        "weight": 10.4,
+        "value": 227
+      },
+      {
+        "level": 45,
+        "rawDamage": "-1",
+        "speed": 67,
+        "range": 204,
+        "accuracy": 60,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 5,
+        "weight": 8,
+        "value": 350
+      },
+      {
+        "level": 50,
+        "rawDamage": "170",
+        "speed": 67,
+        "range": 204,
+        "accuracy": 60,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 5,
+        "weight": 8,
+        "value": 350
+      }
+    ],
+    "id": "00313982",
+    "ammo": "2mm EC"
+  },
+  "00113854": {
+    "name": "Handmade rifle",
+    "levels": [
+      {
+        "level": 15,
+        "rawDamage": "30",
+        "speed": 40,
+        "range": 120,
+        "accuracy": 71,
+        "rawCrit": "-1",
+        "actionCost": 32,
+        "capacity": 20,
+        "weight": 11.2,
+        "value": 95
+      },
+      {
+        "level": 25,
+        "rawDamage": "35",
+        "speed": 40,
+        "range": 120,
+        "accuracy": 71,
+        "rawCrit": "-1",
+        "actionCost": 32,
+        "capacity": 20,
+        "weight": 11.2,
+        "value": 95
+      },
+      {
+        "level": 35,
+        "rawDamage": "40",
+        "speed": 40,
+        "range": 120,
+        "accuracy": 71,
+        "rawCrit": "-1",
+        "actionCost": 32,
+        "capacity": 20,
+        "weight": 11.2,
+        "value": 95
+      },
+      {
+        "level": 45,
+        "rawDamage": "45",
+        "speed": 40,
+        "range": 120,
+        "accuracy": 71,
+        "rawCrit": "-1",
+        "actionCost": 32,
+        "capacity": 20,
+        "weight": 11.2,
+        "value": 95
+      }
+    ],
+    "id": "00113854",
+    "ammo": "5.56mm"
+  },
+  "0004f46a": {
+    "name": "Hunting rifle",
+    "levels": [
+      {
+        "level": 1,
+        "rawDamage": "40",
+        "speed": 3,
+        "range": 132,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 5,
+        "weight": 6.6,
+        "value": 36
+      },
+      {
+        "level": 5,
+        "rawDamage": "45",
+        "speed": 3,
+        "range": 132,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 5,
+        "weight": 6.6,
+        "value": 36
+      },
+      {
+        "level": 10,
+        "rawDamage": "50",
+        "speed": 3,
+        "range": 132,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 5,
+        "weight": 6.6,
+        "value": 36
+      },
+      {
+        "level": 20,
+        "rawDamage": "55",
+        "speed": 3,
+        "range": 132,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 5,
+        "weight": 6.6,
+        "value": 36
+      },
+      {
+        "level": 30,
+        "rawDamage": "60",
+        "speed": 3,
+        "range": 132,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 5,
+        "weight": 6.6,
+        "value": 36
+      },
+      {
+        "level": 40,
+        "rawDamage": "65",
+        "speed": 3,
+        "range": 132,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 5,
+        "weight": 6.6,
+        "value": 36
+      },
+      {
+        "level": 50,
+        "rawDamage": "70",
+        "speed": 3,
+        "range": 132,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 28,
+        "capacity": 5,
+        "weight": 6.6,
+        "value": 36
+      }
+    ],
+    "id": "0004f46a",
+    "ammo": ".308"
+  },
+  "00110e32": {
+    "name": "Lever action rifle",
+    "levels": [
+      {
+        "level": 25,
+        "rawDamage": "65",
+        "speed": 5,
+        "range": 123,
+        "accuracy": 68,
+        "rawCrit": "-1",
+        "actionCost": 26,
+        "capacity": 5,
+        "weight": 6.6,
+        "value": 120
+      },
+      {
+        "level": 35,
+        "rawDamage": "70",
+        "speed": 5,
+        "range": 123,
+        "accuracy": 68,
+        "rawCrit": "-1",
+        "actionCost": 26,
+        "capacity": 5,
+        "weight": 6.6,
+        "value": 120
+      },
+      {
+        "level": 45,
+        "rawDamage": "75",
+        "speed": 5,
+        "range": 123,
+        "accuracy": 68,
+        "rawCrit": "-1",
+        "actionCost": 26,
+        "capacity": 5,
+        "weight": 6.6,
+        "value": 120
+      }
+    ],
+    "id": "00110e32",
+    "ammo": ".45"
+  },
+  "00403023": {
+    "name": "Sole Survivor",
+    "levels": [
+      {
+        "level": 45,
+        "rawDamage": "75",
+        "speed": 5,
+        "range": 177,
+        "accuracy": 110,
+        "rawCrit": "-1",
+        "actionCost": 26,
+        "capacity": 5,
+        "weight": 15.9,
+        "value": 470
+      }
+    ],
+    "id": "00403023",
+    "ammo": ".45"
+  },
+  "00110d41": {
+    "name": "Radium rifle",
+    "levels": [
+      {
+        "level": 40,
+        "rawDamage": "33&attack& + 13&radiation&",
+        "speed": 40,
+        "range": 120,
+        "accuracy": 65,
+        "rawCrit": "80",
+        "actionCost": 25,
+        "capacity": 20,
+        "weight": 9.8,
+        "value": 168
+      },
+      {
+        "level": 50,
+        "rawDamage": "37&attack& + 15&radiation&",
+        "speed": 40,
+        "range": 120,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "capacity": 20,
+        "weight": 9.8,
+        "value": 168
+      }
+    ],
+    "id": "00110d41",
+    "ammo": ".45"
+  },
+  "000fe268": {
+    "name": "Railway rifle",
+    "levels": [
+      {
+        "level": 30,
+        "rawDamage": "75",
+        "speed": 10,
+        "range": 120,
+        "accuracy": 64,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 10,
+        "weight": 12.6,
+        "value": 95
+      },
+      {
+        "level": 40,
+        "rawDamage": "85",
+        "speed": 10,
+        "range": 120,
+        "accuracy": 64,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 10,
+        "weight": 12.6,
+        "value": 95
+      },
+      {
+        "level": 50,
+        "rawDamage": "95",
+        "speed": 10,
+        "range": 120,
+        "accuracy": 64,
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "capacity": 10,
+        "weight": 12.6,
+        "value": 95
+      }
+    ],
+    "id": "000fe268",
+    "ammo": "Railway spike"
+  },
+  "0014d09e": {
+    "name": "Syringer",
+    "levels": [
+      {
+        "level": null,
+        "rawDamage": "5",
+        "speed": 3,
+        "range": 84,
+        "accuracy": 73,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 1,
+        "weight": 5.2,
+        "value": 73
+      }
+    ],
+    "id": "0014d09e",
+    "ammo": "Syringe"
+  },
+  "003e1331": {
+    "name": "Rose's syringer",
+    "levels": [
+      {
+        "level": null,
+        "rawDamage": "5",
+        "speed": 3,
+        "range": 84,
+        "accuracy": 73,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 1,
+        "weight": 5.2,
+        "value": 73
+      }
+    ],
+    "id": "003e1331",
+    "ammo": "Syringe"
+  },
+  "0050ca2c": {
+    "name": "Vox syringer",
+    "levels": [
+      {
+        "level": null,
+        "rawDamage": "5",
+        "speed": 3,
+        "range": 204,
+        "accuracy": 80,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 1,
+        "weight": 2.2,
+        "value": 97
+      }
+    ],
+    "id": "0050ca2c",
+    "ammo": "Syringe"
+  }
+}

@@ -1,0 +1,352 @@
+===Submachine guns===
+{| class="va-table va-table-center sortable va-table-full"
+!
+! {{Icon|rifle|24px|tooltip=Submachine Gun name}}
+! {{Icon|level|x18px|tooltip=Level}}
+! {{Icon|damage|x18px|tooltip=Damage per shot|link=Damage}}
+! {{Icon|dps|x18px|tooltip=Damage per second}}
+! {{Icon|attack|x18px|tooltip=Fire rate}}
+! {{Icon|range|x18px|tooltip=Range}}
+! {{Icon|spread|x18px|tooltip=Accuracy}}
+! {{Icon|crit|x18px|tooltip=Critical hit Damage}}
+! {{Icon|ap|x18px|tooltip=Action point cost}}
+! {{Icon|dap|x18px|tooltip=Damage per Action Point}}
+! {{Icon|ammo|x18px|tooltip=Ammunition used|link=Fallout 76 ammunition}}
+! {{Icon|mag|x18px|tooltip=Magazine capacity (shots per reload)}}
+! {{Icon|weight|x18px|tooltip=Weapon weight}}
+! {{Icon|merchant|x18px|tooltip=Weapon value in caps}}
+! {{Icon|ratio|x18px|tooltip=Value to weight ratio}}
+! Base ID
+
+|-style="height:32px;"
+| rowspan="5" |[[File:FO76 10mmSMG.png|80px|link=10mm SMG (Fallout 76)]]
+| rowspan="5" |[[10mm submachine gun (Fallout 76)|10mm submachine gun]]
+| 10
+| 17
+| 154.7
+| 91
+| 84
+| 50
+| ?
+| 28
+| 0.61
+| [[10mm round (Fallout 76)|10mm]]
+| 30
+| 3
+| 57
+| 19
+| rowspan="5" | {{ID|0010DB0F}}
+|-style="height:32px;"
+| 20
+| 19
+| 172.9
+| 91
+| 84
+| 50
+| ?
+| 28
+| 0.68
+| [[10mm round (Fallout 76)|10mm]]
+| 30
+| 3
+| 57
+| 19
+|-style="height:32px;"
+| 30
+| 23
+| 209.3
+| 91
+| 84
+| 50
+| ?
+| 28
+| 0.82
+| [[10mm round (Fallout 76)|10mm]]
+| 30
+| 3
+| 57
+| 19
+|-style="height:32px;"
+| 40
+| 28
+| 254.8
+| 91
+| 84
+| 50
+| ?
+| 28
+| 1
+| [[10mm round (Fallout 76)|10mm]]
+| 30
+| 3
+| 57
+| 19
+|-style="height:32px;"
+| 50
+| 34
+| 309.4
+| 91
+| 84
+| 50
+| ?
+| 28
+| 1.21
+| [[10mm round (Fallout 76)|10mm]]
+| 30
+| 3
+| 57
+| 19
+
+|- class="va-table-highlight" style="height:32px;"
+| rowspan="5" |[[File:Perfect Storm.png|80px|link=Perfect Storm]]
+| rowspan="5" |[[Perfect Storm]]
+| 10
+| 14
+| 127.4
+| 91
+| 120
+| 60
+| ?
+| 28
+| 0.5
+| [[10mm round (Fallout 76)|10mm]]
+| 30
+| 4.5
+| 96
+| 21.3
+| rowspan="5" | {{ID|0010DB0F}}
+|- class="va-table-highlight" style="height:32px;"
+| 20
+| 19
+| 172.9
+| 91
+| 120
+| 60
+| ?
+| 28
+| 0.68
+| [[10mm round (Fallout 76)|10mm]]
+| 30
+| 4.5
+| 96
+| 21.3
+|- class="va-table-highlight" style="height:32px;"
+| 30
+| 23
+| 209.3
+| 91
+| 120
+| 60
+| ?
+| 28
+| 0.82
+| [[10mm round (Fallout 76)|10mm]]
+| 30
+| 4.5
+| 96
+| 21.3
+|- class="va-table-highlight" style="height:32px;"
+| 40
+| 28
+| 254.8
+| 91
+| 120
+| 60
+| ?
+| 28
+| 1
+| [[10mm round (Fallout 76)|10mm]]
+| 30
+| 4.5
+| 96
+| 21.3
+|- class="va-table-highlight" style="height:32px;"
+| 50
+| 34
+| 309.4
+| 91
+| 120
+| 60
+| ?
+| 28
+| 1.21
+| [[10mm round (Fallout 76)|10mm]]
+| 30
+| 4.5
+| 96
+| 21.3
+
+|-style="height:32px;"
+| rowspan="4" |[[File:FO76 Submachine gun.png|80px|link=Submachine gun (Fallout 76)]]
+| rowspan="4" |[[Submachine gun (Fallout 76)|Submachine gun]]
+| 15
+| 17
+| 127.5
+| 75
+| 72
+| 54
+| ?
+| 35
+| 0.49
+| [[.45 round (Fallout 76)|.45]]
+| 50
+| 12.95
+| 154
+| 11.89
+| rowspan="4" | {{ID|0015B043}}
+|-style="height:32px;"
+| 25
+| 20
+| 150
+| 75
+| 72
+| 54
+| ?
+| 35
+| 0.57
+| [[.45 round (Fallout 76)|.45]]
+| 50
+| 12.95
+| 154
+| 11.89
+|-style="height:32px;"
+| 35
+| 23
+| 172.5
+| 75
+| 72
+| 54
+| ?
+| 35
+| 0.657
+| [[.45 round (Fallout 76)|.45]]
+| 50
+| 12.95
+| 154
+| 11.89
+|-style="height:32px;"
+| 45
+| 27
+| 202.5
+| 75
+| 72
+| 54
+| ?
+| 35
+| 0.77
+| [[.45 round (Fallout 76)|.45]]
+| 50
+| 12.95
+| 154
+| 11.89
+
+|-style="height:32px;"
+| rowspan="7" |[[File:F76_Sten.png|80px|link=Submachine gun (Fallout 76)]]
+| rowspan="7" |[[The Black Knight]] {{Unused}}
+| 1
+| 40
+| ?
+| ?
+| ?
+| ?
+| ?
+| 28
+| 1.43
+| [[.308 round (Fallout 76)|.308]]
+| 5
+| 6
+| 40
+| 6.6
+| rowspan="7" | {{ID|004FD64B}}
+|-style="height:32px;"
+| 5
+| 45
+| ?
+| ?
+| ?
+| ?
+| ?
+| 28
+| 1.61
+| [[.308 round (Fallout 76)|.308]]
+| 5
+| 6
+| 40
+| 6.6
+|-style="height:32px;"
+| 10
+| 50
+| ?
+| ?
+| ?
+| ?
+| ?
+| 28
+| 1.79
+| [[.308 round (Fallout 76)|.308]]
+| 5
+| 6
+| 40
+| 6.6
+|-style="height:32px;"
+| 20
+| 55
+| ?
+| ?
+| ?
+| ?
+| ?
+| 28
+| 1.96
+| [[.308 round (Fallout 76)|.308]]
+| 5
+| 6
+| 40
+| 6.6
+|-style="height:32px;"
+| 30
+| 60
+| ?
+| ?
+| ?
+| ?
+| ?
+| 28
+| 2.14
+| [[.308 round (Fallout 76)|.308]]
+| 5
+| 6
+| 40
+| 6.6
+|-style="height:32px;"
+| 40
+| 65
+| ?
+| ?
+| ?
+| ?
+| ?
+| 28
+| 2.32
+| [[.308 round (Fallout 76)|.308]]
+| 5
+| 6
+| 40
+| 6.6
+|-style="height:32px;"
+| 50
+| 70
+| ?
+| ?
+| ?
+| ?
+| ?
+| 28
+| 2.5
+| [[.308 round (Fallout 76)|.308]]
+| 5
+| 6
+| 40
+| 6.6
+
+|}
