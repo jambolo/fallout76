@@ -1,0 +1,62 @@
+{
+  "003b2626": {
+    "name": "Blast mine",
+    "levels": [
+      {
+        "rawDamage": "225&attack&",
+        "area": "-1",
+        "weight": 0.5,
+        "value": 40
+      }
+    ],
+    "id": "003b2626"
+  },
+  "000e56c2": {
+    "name": "Fragmentation mine",
+    "levels": [
+      {
+        "rawDamage": "150&attack&",
+        "area": "-1",
+        "weight": 0.5,
+        "value": 20
+      }
+    ],
+    "id": "000e56c2"
+  },
+  "0010a340": {
+    "name": "Nuke mine",
+    "levels": [
+      {
+        "rawDamage": "250&attack& + 125&radiation&",
+        "area": "-1",
+        "weight": 0.5,
+        "value": 40
+      }
+    ],
+    "id": "0010a340"
+  },
+  "0010a342": {
+    "name": "Plasma mine",
+    "levels": [
+      {
+        "rawDamage": "200&attack& +200&energy&",
+        "area": "-1",
+        "weight": 0.5,
+        "value": 35
+      }
+    ],
+    "id": "0010a342"
+  },
+  "0010a344": {
+    "name": "Pulse mine",
+    "levels": [
+      {
+        "rawDamage": "175&attack& + 175&energy&",
+        "area": "-1",
+        "weight": 0.5,
+        "value": 25
+      }
+    ],
+    "id": "0010a344"
+  }
+}

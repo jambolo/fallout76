@@ -1,0 +1,404 @@
+{
+  "003f06e2": {
+    "name": "Bear Arm",
+    "levels": [
+      {
+        "level": 20,
+        "rawDamage": "35",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "weight": 10,
+        "value": 75
+      },
+      {
+        "level": 30,
+        "rawDamage": "40",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "weight": 10,
+        "value": 75
+      },
+      {
+        "level": 40,
+        "rawDamage": "45",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "weight": 10,
+        "value": 75
+      },
+      {
+        "level": 50,
+        "rawDamage": "50",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "weight": 10,
+        "value": 75
+      }
+    ],
+    "id": "003f06e2"
+  },
+  "0016498f": {
+    "name": "Boxing glove",
+    "levels": [
+      {
+        "level": 5,
+        "rawDamage": "13",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "weight": 1,
+        "value": 15
+      },
+      {
+        "level": 15,
+        "rawDamage": "18",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "weight": 1,
+        "value": 15
+      },
+      {
+        "level": 25,
+        "rawDamage": "23",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "weight": 1,
+        "value": 15
+      },
+      {
+        "level": 35,
+        "rawDamage": "28",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "weight": 1,
+        "value": 15
+      },
+      {
+        "level": 45,
+        "rawDamage": "34",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "weight": 1,
+        "value": 15
+      }
+    ],
+    "id": "0016498f"
+  },
+  "0000dc55": {
+    "name": "Death tambo",
+    "levels": [
+      {
+        "level": 15,
+        "rawDamage": "30",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "weight": 0.5,
+        "value": 60
+      },
+      {
+        "level": 25,
+        "rawDamage": "35",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "weight": 0.5,
+        "value": 60
+      },
+      {
+        "level": 35,
+        "rawDamage": "40",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "weight": 0.5,
+        "value": 60
+      },
+      {
+        "level": 45,
+        "rawDamage": "45",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "weight": 0.5,
+        "value": 60
+      }
+    ],
+    "id": "0000dc55"
+  },
+  "000d8576": {
+    "name": "Deathclaw gauntlet",
+    "levels": [
+      {
+        "level": 30,
+        "rawDamage": "45",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "weight": 10,
+        "value": 85
+      },
+      {
+        "level": 40,
+        "rawDamage": "50",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "weight": 10,
+        "value": 85
+      },
+      {
+        "level": 50,
+        "rawDamage": "55",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "weight": 10,
+        "value": 85
+      }
+    ],
+    "id": "000d8576"
+  },
+  "0042b0ce": {
+    "name": "Unstoppable Monster",
+    "levels": [
+      {
+        "level": 50,
+        "rawDamage": "55",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "weight": 10,
+        "value": 85
+      }
+    ],
+    "id": "0042b0ce"
+  },
+  "0055c156": {
+    "name": "Gauntlet",
+    "levels": [
+      {
+        "level": 40,
+        "rawDamage": "-1",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "weight": 6,
+        "value": 130
+      },
+      {
+        "level": 50,
+        "rawDamage": "-1",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "weight": 6,
+        "value": 130
+      }
+    ],
+    "id": "0055c156"
+  },
+  "0005524b": {
+    "name": "Knuckles",
+    "levels": [
+      {
+        "level": 1,
+        "rawDamage": "8",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "weight": 0.5,
+        "value": 10
+      },
+      {
+        "level": 5,
+        "rawDamage": "10",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "weight": 0.5,
+        "value": 10
+      },
+      {
+        "level": 10,
+        "rawDamage": "15",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "weight": 0.5,
+        "value": 10
+      },
+      {
+        "level": 20,
+        "rawDamage": "20",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "weight": 0.5,
+        "value": 10
+      },
+      {
+        "level": 30,
+        "rawDamage": "25",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "weight": 0.5,
+        "value": 10
+      },
+      {
+        "level": 40,
+        "rawDamage": "30",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "weight": 0.5,
+        "value": 10
+      },
+      {
+        "level": 50,
+        "rawDamage": "35",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 25,
+        "weight": 0.5,
+        "value": 10
+      }
+    ],
+    "id": "0005524b"
+  },
+  "00111562": {
+    "name": "Meat hook",
+    "levels": [
+      {
+        "level": 5,
+        "rawDamage": "14",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "weight": 2,
+        "value": 20
+      },
+      {
+        "level": 15,
+        "rawDamage": "19",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "weight": 2,
+        "value": 20
+      },
+      {
+        "level": 25,
+        "rawDamage": "24",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "weight": 2,
+        "value": 20
+      },
+      {
+        "level": 35,
+        "rawDamage": "29",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "weight": 2,
+        "value": 20
+      },
+      {
+        "level": 45,
+        "rawDamage": "34",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "weight": 2,
+        "value": 20
+      }
+    ],
+    "id": "00111562"
+  },
+  "00012e73": {
+    "name": "Mole miner gauntlet",
+    "levels": [
+      {
+        "level": 20,
+        "rawDamage": "30",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "weight": 10,
+        "value": 75
+      },
+      {
+        "level": 30,
+        "rawDamage": "35",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "weight": 10,
+        "value": 75
+      },
+      {
+        "level": 40,
+        "rawDamage": "40",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "weight": 10,
+        "value": 75
+      },
+      {
+        "level": 50,
+        "rawDamage": "45",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "weight": 10,
+        "value": 75
+      }
+    ],
+    "id": "00012e73"
+  },
+  "0011b336": {
+    "name": "Power fist",
+    "levels": [
+      {
+        "level": 30,
+        "rawDamage": "48",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "weight": 4,
+        "value": 100
+      },
+      {
+        "level": 40,
+        "rawDamage": "53",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "weight": 4,
+        "value": 100
+      },
+      {
+        "level": 50,
+        "rawDamage": "58",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "weight": 4,
+        "value": 100
+      }
+    ],
+    "id": "0011b336"
+  }
+}

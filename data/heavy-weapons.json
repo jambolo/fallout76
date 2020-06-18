@@ -1,0 +1,410 @@
+{
+  "0003a0d4": {
+    "name": "50 cal machine gun",
+    "levels": [
+      {
+        "level": 25,
+        "rawDamage": "29",
+        "speed": 91,
+        "range": 204,
+        "accuracy": 47,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 250,
+        "weight": 18,
+        "value": 170
+      },
+      {
+        "level": 35,
+        "rawDamage": "36",
+        "speed": 91,
+        "range": 204,
+        "accuracy": 47,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 250,
+        "weight": 18,
+        "value": 170
+      },
+      {
+        "level": 45,
+        "rawDamage": "43",
+        "speed": 91,
+        "range": 204,
+        "accuracy": 47,
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "capacity": 250,
+        "weight": 18,
+        "value": 170
+      }
+    ],
+    "id": "0003a0d4",
+    "ammo": ".50 round"
+  },
+  "005a21e4": {
+    "name": "Final Word",
+    "levels": [
+      {
+        "level": 45,
+        "rawDamage": "48",
+        "speed": 114,
+        "range": 204,
+        "accuracy": 47,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 250,
+        "weight": 18,
+        "value": 175
+      }
+    ],
+    "id": "005a21e4",
+    "ammo": ".50 round"
+  },
+  "00403025": {
+    "name": "The Action Hero",
+    "levels": [
+      {
+        "level": 45,
+        "rawDamage": "49",
+        "speed": 114,
+        "range": 204,
+        "accuracy": 19,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 250,
+        "weight": 18,
+        "value": 175
+      }
+    ],
+    "id": "00403025",
+    "ammo": ".50 round"
+  },
+  "000fd11b": {
+    "name": "Broadsider",
+    "levels": [
+      {
+        "level": 25,
+        "rawDamage": "100",
+        "speed": 3,
+        "range": 204,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "capacity": 1,
+        "weight": 16,
+        "value": 136
+      },
+      {
+        "level": 35,
+        "rawDamage": "120",
+        "speed": 3,
+        "range": 204,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "capacity": 1,
+        "weight": 16,
+        "value": 136
+      },
+      {
+        "level": 45,
+        "rawDamage": "140",
+        "speed": 3,
+        "range": 204,
+        "accuracy": 65,
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "capacity": 1,
+        "weight": 16,
+        "value": 136
+      }
+    ],
+    "id": "000fd11b",
+    "ammo": "Cannonball"
+  },
+  "000e5881": {
+    "name": "Flamer",
+    "levels": [
+      {
+        "level": 30,
+        "rawDamage": "29&fire&",
+        "speed": 91,
+        "range": 264,
+        "accuracy": 60,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 100,
+        "weight": 15,
+        "value": 150
+      },
+      {
+        "level": 40,
+        "rawDamage": "32&fire&",
+        "speed": 91,
+        "range": 264,
+        "accuracy": 60,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 100,
+        "weight": 15,
+        "value": 150
+      },
+      {
+        "level": 50,
+        "rawDamage": "36&fire&",
+        "speed": 91,
+        "range": 264,
+        "accuracy": 60,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 100,
+        "weight": 15,
+        "value": 150
+      }
+    ],
+    "id": "000e5881",
+    "ammo": "Fuel"
+  },
+  "00011bf6": {
+    "name": "Gatling gun",
+    "levels": [
+      {
+        "level": 20,
+        "rawDamage": "43",
+        "speed": 20,
+        "range": 120,
+        "accuracy": 55,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 250,
+        "weight": 19.8,
+        "value": 156
+      },
+      {
+        "level": 30,
+        "rawDamage": "57",
+        "speed": 20,
+        "range": 120,
+        "accuracy": 55,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 250,
+        "weight": 19.8,
+        "value": 156
+      },
+      {
+        "level": 40,
+        "rawDamage": "72",
+        "speed": 20,
+        "range": 120,
+        "accuracy": 55,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 250,
+        "weight": 19.8,
+        "value": 156
+      },
+      {
+        "level": 50,
+        "rawDamage": "86",
+        "speed": 20,
+        "range": 120,
+        "accuracy": 55,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 250,
+        "weight": 19.8,
+        "value": 156
+      }
+    ],
+    "id": "00011bf6",
+    "ammo": "5mm round"
+  },
+  "0042b0cc": {
+    "name": "Resolute Veteran",
+    "levels": [
+      {
+        "level": 50,
+        "rawDamage": "86",
+        "speed": 20,
+        "range": 204,
+        "accuracy": 52,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 250,
+        "weight": 21.6,
+        "value": 250
+      }
+    ],
+    "id": "0042b0cc",
+    "ammo": "5mm round"
+  },
+  "0055c151": {
+    "name": "Gauss minigun",
+    "levels": [
+      {
+        "level": 45,
+        "rawDamage": "48&energy&",
+        "speed": 91,
+        "range": 204,
+        "accuracy": 57,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 500,
+        "weight": 18,
+        "value": 150
+      },
+      {
+        "level": 50,
+        "rawDamage": "58&energy&",
+        "speed": 91,
+        "range": 204,
+        "accuracy": 57,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 500,
+        "weight": 18,
+        "value": 150
+      }
+    ],
+    "id": "0055c151",
+    "ammo": "2mm EC"
+  },
+  "001109cf": {
+    "name": "Harpoon gun",
+    "levels": [
+      {
+        "level": 30,
+        "rawDamage": "125",
+        "speed": 2,
+        "range": 120,
+        "accuracy": 66,
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "capacity": 1,
+        "weight": 17.6,
+        "value": 107
+      },
+      {
+        "level": 40,
+        "rawDamage": "150",
+        "speed": 2,
+        "range": 120,
+        "accuracy": 66,
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "capacity": 1,
+        "weight": 17.6,
+        "value": 107
+      },
+      {
+        "level": 50,
+        "rawDamage": "175",
+        "speed": 2,
+        "range": 120,
+        "accuracy": 66,
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "capacity": 1,
+        "weight": 17.6,
+        "value": 107
+      }
+    ],
+    "id": "001109cf",
+    "ammo": "Harpoon"
+  },
+  "0042b0d0": {
+    "name": "Kingfisher",
+    "levels": [
+      {
+        "level": 50,
+        "rawDamage": "175",
+        "speed": 2,
+        "range": 120,
+        "accuracy": 83,
+        "rawCrit": "-1",
+        "actionCost": 40,
+        "capacity": 1,
+        "weight": 16,
+        "value": 120
+      }
+    ],
+    "id": "0042b0d0",
+    "ammo": "Harpoon"
+  },
+  "0007cab1": {
+    "name": "Light machine gun",
+    "levels": [
+      {
+        "level": 30,
+        "rawDamage": "29",
+        "speed": 159,
+        "range": 174,
+        "accuracy": 74,
+        "rawCrit": "-1",
+        "actionCost": 32,
+        "capacity": 75,
+        "weight": 16,
+        "value": 382
+      },
+      {
+        "level": 40,
+        "rawDamage": "34",
+        "speed": 159,
+        "range": 174,
+        "accuracy": 74,
+        "rawCrit": "-1",
+        "actionCost": 32,
+        "capacity": 75,
+        "weight": 16,
+        "value": 382
+      },
+      {
+        "level": 50,
+        "rawDamage": "42",
+        "speed": 159,
+        "range": 174,
+        "accuracy": 74,
+        "rawCrit": "-1",
+        "actionCost": 32,
+        "capacity": 75,
+        "weight": 16,
+        "value": 382
+      }
+    ],
+    "id": "0007cab1",
+    "ammo": ".308 round"
+  },
+  "0001f669": {
+    "name": "Minigun",
+    "levels": [
+      {
+        "level": 35,
+        "rawDamage": "20",
+        "speed": 182,
+        "range": 204,
+        "accuracy": 47,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 500,
+        "weight": 18,
+        "value": 146
+      },
+      {
+        "level": 45,
+        "rawDamage": "24",
+        "speed": 182,
+        "range": 204,
+        "accuracy": 47,
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "capacity": 500,
+        "weight": 18,
+        "value": 146
+      }
+    ],
+    "id": "0001f669",
+    "ammo": "5mm round"
+  }
+}

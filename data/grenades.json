@@ -1,0 +1,146 @@
+{
+  "00107bd6": {
+    "name": "Baseball grenade",
+    "levels": [
+      {
+        "rawDamage": "175&attack&",
+        "area": "-1",
+        "weight": 1,
+        "value": 20
+      }
+    ],
+    "id": "00107bd6"
+  },
+  "003fbba1": {
+    "name": "Bug grenade",
+    "levels": [
+      {
+        "rawDamage": "29&attack&",
+        "area": "-1",
+        "weight": 0.5,
+        "value": 25
+      }
+    ],
+    "id": "003fbba1"
+  },
+  "0055c159": {
+    "name": "Dynamite",
+    "levels": [
+      {
+        "rawDamage": "175&attack&",
+        "area": "-1",
+        "weight": 0.5,
+        "value": 15
+      }
+    ],
+    "id": "0055c159"
+  },
+  "000eebed": {
+    "name": "Fragmentation grenade",
+    "levels": [
+      {
+        "rawDamage": "150&attack&",
+        "area": "-1",
+        "weight": 0.5,
+        "value": 15
+      }
+    ],
+    "id": "000eebed"
+  },
+  "00113849": {
+    "name": "Fragmentation grenade MIRV",
+    "levels": [
+      {
+        "rawDamage": "100&attack&",
+        "area": "-1",
+        "weight": 1,
+        "value": 50
+      }
+    ],
+    "id": "00113849"
+  },
+  "000e98e5": {
+    "name": "HalluciGen gas grenade",
+    "levels": [
+      {
+        "rawDamage": "1&attack&",
+        "area": "-1",
+        "weight": 1,
+        "value": 25
+      }
+    ],
+    "id": "000e98e5"
+  },
+  "0010c3c6": {
+    "name": "Molotov cocktail",
+    "levels": [
+      {
+        "rawDamage": "50&attack& + 8&energy&",
+        "area": "-1",
+        "weight": 0.5,
+        "value": 20
+      }
+    ],
+    "id": "0010c3c6"
+  },
+  "000e5750": {
+    "name": "Nuka grenade",
+    "levels": [
+      {
+        "rawDamage": "250&attack& + 125&radiation&",
+        "area": "-1",
+        "weight": 0.5,
+        "value": 35
+      }
+    ],
+    "id": "000e5750"
+  },
+  "00113d0f": {
+    "name": "Nuka Quantum grenade",
+    "levels": [
+      {
+        "rawDamage": "300&attack&",
+        "area": "-1",
+        "weight": 0.5,
+        "value": 50
+      }
+    ],
+    "id": "00113d0f"
+  },
+  "0010a33d": {
+    "name": "Plasma grenade",
+    "levels": [
+      {
+        "rawDamage": "200&attack& + 200&energy&",
+        "area": "-1",
+        "weight": 0.5,
+        "value": 30
+      }
+    ],
+    "id": "0010a33d"
+  },
+  "000ff21f": {
+    "name": "Pulse grenade",
+    "levels": [
+      {
+        "rawDamage": "175&attack& + 175&energy&",
+        "area": "-1",
+        "weight": 0.5,
+        "value": 20
+      }
+    ],
+    "id": "000ff21f"
+  },
+  "00045884": {
+    "name": "Pumpkin grenade",
+    "levels": [
+      {
+        "rawDamage": "80 &attack& + 40 &radiation&",
+        "area": "-1",
+        "weight": 0.5,
+        "value": 20
+      }
+    ],
+    "id": "00045884"
+  }
+}

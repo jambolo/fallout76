@@ -1,0 +1,920 @@
+{
+  "0010f3f2": {
+    "name": "Assaultron blade",
+    "levels": [
+      {
+        "level": 25,
+        "rawDamage": "28",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "weight": 3,
+        "value": 70
+      },
+      {
+        "level": 35,
+        "rawDamage": "33",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "weight": 3,
+        "value": 70
+      },
+      {
+        "level": 45,
+        "rawDamage": "40",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "weight": 3,
+        "value": 70
+      }
+    ],
+    "id": "0010f3f2"
+  },
+  "003f5e94": {
+    "name": "The Gutter",
+    "levels": [
+      {
+        "level": 25,
+        "rawDamage": "28",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "weight": 3,
+        "value": 70
+      },
+      {
+        "level": 35,
+        "rawDamage": "33",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "weight": 3,
+        "value": 70
+      },
+      {
+        "level": 45,
+        "rawDamage": "40",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 35,
+        "weight": 3,
+        "value": 70
+      }
+    ],
+    "id": "003f5e94"
+  },
+  "003643da": {
+    "name": "Bone club",
+    "levels": [
+      {
+        "level": 15,
+        "rawDamage": "21",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "weight": 3,
+        "value": 15
+      },
+      {
+        "level": 25,
+        "rawDamage": "31",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "weight": 3,
+        "value": 15
+      },
+      {
+        "level": 35,
+        "rawDamage": "41",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "weight": 3,
+        "value": 15
+      },
+      {
+        "level": 45,
+        "rawDamage": "51",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "weight": 3,
+        "value": 15
+      }
+    ],
+    "id": "003643da"
+  },
+  "0008c14d": {
+    "name": "Baton",
+    "levels": [
+      {
+        "level": 5,
+        "rawDamage": "15",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "weight": 2,
+        "value": 15
+      },
+      {
+        "level": 15,
+        "rawDamage": "25",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "weight": 2,
+        "value": 15
+      },
+      {
+        "level": 25,
+        "rawDamage": "30",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "weight": 2,
+        "value": 15
+      },
+      {
+        "level": 35,
+        "rawDamage": "35",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "weight": 2,
+        "value": 15
+      },
+      {
+        "level": 45,
+        "rawDamage": "40",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "weight": 2,
+        "value": 15
+      }
+    ],
+    "id": "0008c14d"
+  },
+  "0042b0cb": {
+    "name": "Disorderly Conduct",
+    "levels": [
+      {
+        "level": 45,
+        "rawDamage": "40",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": 30,
+        "weight": 2,
+        "value": 15
+      }
+    ],
+    "id": "0042b0cb"
+  },
+  "000311de": {
+    "name": "Bowie knife",
+    "levels": [
+      {
+        "level": 5,
+        "rawDamage": "10",
+        "speed": "Fast",
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "weight": 1,
+        "value": 35
+      },
+      {
+        "level": 15,
+        "rawDamage": "15",
+        "speed": "Fast",
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "weight": 1,
+        "value": 35
+      },
+      {
+        "level": 25,
+        "rawDamage": "20",
+        "speed": "Fast",
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "weight": 1,
+        "value": 35
+      },
+      {
+        "level": 35,
+        "rawDamage": "25",
+        "speed": "Fast",
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "weight": 1,
+        "value": 35
+      },
+      {
+        "level": 45,
+        "rawDamage": "30",
+        "speed": "Fast",
+        "rawCrit": "-1",
+        "actionCost": 20,
+        "weight": 1,
+        "value": 35
+      }
+    ],
+    "id": "000311de"
+  },
+  "00147be4": {
+    "name": "Chinese officer sword",
+    "levels": [
+      {
+        "level": 5,
+        "rawDamage": "21",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 3,
+        "value": 34
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "00147be4"
+  },
+  "002c3ec7": {
+    "name": "Ancient blade",
+    "levels": [
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "002c3ec7"
+  },
+  "0039c6c8": {
+    "name": "Blade of Bastet",
+    "levels": [
+      {
+        "level": 25,
+        "rawDamage": "48",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 3,
+        "value": 65
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "0039c6c8"
+  },
+  "00357fbd": {
+    "name": "Grant's saber",
+    "levels": [
+      {
+        "level": 1,
+        "rawDamage": "11",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 3,
+        "value": 49
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "00357fbd"
+  },
+  "00111ab6": {
+    "name": "Meteoritic sword",
+    "levels": [
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "00111ab6"
+  },
+  "000913ca": {
+    "name": "Combat knife",
+    "levels": [
+      {
+        "level": 1,
+        "rawDamage": "17",
+        "speed": "Fast",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 1,
+        "value": 20
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "000913ca"
+  },
+  "0011475b": {
+    "name": "Commie Whacker",
+    "levels": [
+      {
+        "level": -1,
+        "rawDamage": "7",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 2,
+        "value": 10
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "0011475b"
+  },
+  "002ba1d9": {
+    "name": "Camden Whacker",
+    "levels": [
+      {
+        "level": -1,
+        "rawDamage": "7",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 2,
+        "value": 10
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "002ba1d9"
+  },
+  "0005a937": {
+    "name": "Cultist blade",
+    "levels": [
+      {
+        "level": 20,
+        "rawDamage": "29",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 3,
+        "value": 18
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "0005a937"
+  },
+  "00342521": {
+    "name": "Nailer",
+    "levels": [
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "00342521"
+  },
+  "0008e015": {
+    "name": "Cultist dagger",
+    "levels": [
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "0008e015"
+  },
+  "00081dd5": {
+    "name": "Drill",
+    "levels": [
+      {
+        "level": 20,
+        "rawDamage": "14",
+        "speed": "Very Fast",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 2,
+        "value": 57
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "00081dd5"
+  },
+  "0000dc56": {
+    "name": "Guitar sword",
+    "levels": [
+      {
+        "level": 15,
+        "rawDamage": "45",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 3,
+        "value": 45
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "0000dc56"
+  },
+  "0010d808": {
+    "name": "Hatchet",
+    "levels": [
+      {
+        "level": 1,
+        "rawDamage": "23",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 12,
+        "value": 3
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "0010d808"
+  },
+  "000fc9c3": {
+    "name": "Lead pipe",
+    "levels": [
+      {
+        "level": 40,
+        "rawDamage": "71",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 3,
+        "value": -1
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "000fc9c3"
+  },
+  "00033fe0": {
+    "name": "Machete",
+    "levels": [
+      {
+        "level": 1,
+        "rawDamage": "23",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 2,
+        "value": 20
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "00033fe0"
+  },
+  "000d83bf": {
+    "name": "Pipe wrench",
+    "levels": [
+      {
+        "level": -1,
+        "rawDamage": "25",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 2,
+        "value": 18
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "000d83bf"
+  },
+  "0042b0d1": {
+    "name": "Mechanic's Best Friend",
+    "levels": [
+      {
+        "level": 50,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 2,
+        "value": 30
+      }
+    ],
+    "id": "0042b0d1"
+  },
+  "00143ab5": {
+    "name": "Revolutionary sword",
+    "levels": [
+      {
+        "level": 10,
+        "rawDamage": "37",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 3,
+        "value": 41
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "00143ab5"
+  },
+  "0042b0d4": {
+    "name": "Commander's Charge",
+    "levels": [
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 3,
+        "value": -1
+      }
+    ],
+    "id": "0042b0d4"
+  },
+  "000fa2f6": {
+    "name": "Ripper",
+    "levels": [
+      {
+        "level": 40,
+        "rawDamage": "3",
+        "speed": "Very Fast",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 6,
+        "value": 105
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "000fa2f6"
+  },
+  "00142fab": {
+    "name": "Rolling pin",
+    "levels": [
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "00142fab"
+  },
+  "00455839": {
+    "name": "Sheepsquatch club",
+    "levels": [
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "00455839"
+  },
+  "000fa2fb": {
+    "name": "Shishkebab",
+    "levels": [
+      {
+        "level": 35,
+        "rawDamage": "28 + 22&energy&",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 3,
+        "value": 97
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "000fa2fb"
+  },
+  "000b3293": {
+    "name": "Sickle",
+    "levels": [
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "000b3293"
+  },
+  "000360cf": {
+    "name": "Ski sword",
+    "levels": [
+      {
+        "level": 15,
+        "rawDamage": "50",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 3,
+        "value": 15
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "000360cf"
+  },
+  "000fdc81": {
+    "name": "Switchblade",
+    "levels": [
+      {
+        "level": 10,
+        "rawDamage": "15",
+        "speed": "Fast",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 1,
+        "value": 12
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "000fdc81"
+  },
+  "00403026": {
+    "name": "The Quick Fix",
+    "levels": [
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 3,
+        "value": -1
+      }
+    ],
+    "id": "00403026"
+  },
+  "00185d25": {
+    "name": "Tire iron",
+    "levels": [
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "00185d25"
+  },
+  "000fdc7d": {
+    "name": "Walking cane",
+    "levels": [
+      {
+        "level": 1,
+        "rawDamage": "25",
+        "speed": "Medium",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": 2,
+        "value": 8
+      },
+      {
+        "level": -1,
+        "rawDamage": "-1",
+        "speed": "-1",
+        "rawCrit": "-1",
+        "actionCost": -1,
+        "weight": -1,
+        "value": -1
+      }
+    ],
+    "id": "000fdc7d"
+  }
+}
