@@ -50,8 +50,8 @@ args = yargs
 console.log "args = " + JSON.stringify(args) if args.debug > 0
 
 linkText = (link) ->
-  results = link.match(/(?<=\[\[.+\|).+(?=\]\])/)
-  results = link.match(/(?<=\[\[).+(?=\]\])/) if not results?
+  results = link.match(/(?<=\[\[.+\|).+(?=\]\])/)               # Matches the link text if there is any
+  results = link.match(/(?<=\[\[).+(?=\]\])/) if not results?   # Otherwise, matches the link
   return if results? then results[0] else null
 
 groupIntoRows = (lines) ->
@@ -61,13 +61,13 @@ groupIntoRows = (lines) ->
   row = []
 
   # Make sure the first line starts a row
-  if not lines[0].match(/^\|-/)
+  if not RegExp("^\\|-").test(lines[0])
     console.error "There are extra (or missing) lines before the first row."
     console.error "=> \"" + lines[0] + "\""
     process.exit 1
 
   for line in lines[1..]
-    if line.match(/^\|-/)
+    if RegExp("^\\|-").test(line)
       rows.push row
       row = []
     else
@@ -102,7 +102,7 @@ groupIntoWeapons = (rows) ->
   duplicates = {}
 
   # Make sure the first row starts a weapon
-  if not rows[0][0].match(/File\:/i)
+  if not RegExp("File\\:", "i").test(rows[0][0])
     console.error "There are extra (or missing) rows before the first row of a weapon."
     console.error "=> \"" + rows[0] + "\""
     process.exit 1
@@ -112,7 +112,7 @@ groupIntoWeapons = (rows) ->
   weapon.levels.push rows[0]
 
   for row in rows[1..]
-    if row[0].match(/File\:/i)
+    if RegExp("File\\:", "i").test(row[0])
       if not weapons[weapon.id]?
         weapons[weapon.id] = weapon
       else
@@ -123,19 +123,35 @@ groupIntoWeapons = (rows) ->
   weapons[weapon.id] = weapon
   return [ weapons, duplicates ]
 
+damageComponents = (string) ->
+  damage = {}
+  tokens = string.split(/\s*\+\s*/)
+  for token in tokens
+    parts = token.match(/\s*(-?\d+)(?:\s*\&(\w+)\&)?/)
+    if parts?
+      if (parts[2]?)
+          damage[parts[2]] = Number(parts[1])
+        else 
+          damage["ballistic"] = Number(parts[1])
+    else
+      console.error "Couldn't parse this damage string: '#{string}'"
+  return damage
+
+# ===== MAIN =====
+
 fs.readFile args.inpath, (err, input) ->
   throw err if err
 
   converted = input.toString()
 
-  console.log JSON.stringify(converted, null, 2) if --args.debug == 0
+  console.log "converted = #{JSON.stringify(converted, null, 2)}" if --args.debug == 0
 
   # Convert line endings to ~ to make replace work (?)
   converted = converted.replace(/\r\n|\r|\n/g, "~")
 
   # Remove {{...}} except IDs and weapon damage
   converted = converted.replace(/\{\{ID\|([a-f0-9A-F]+)\}\}/gi, "$1")
-  converted = converted.replace(/\{\{Icon\|attack\}\}/gi, "&attack&")
+  converted = converted.replace(/\{\{Icon\|attack\}\}/gi, "&ballistic&")
   converted = converted.replace(/\{\{Icon\|energy\}\}/gi, "&energy&")
   converted = converted.replace(/\{\{Icon\|radiation\}\}/gi, "&radiation&")
   converted = converted.replace(/\{\{Icon\|fire\}\}/gi, "&fire&")
@@ -147,21 +163,21 @@ fs.readFile args.inpath, (err, input) ->
   # Remove rowspans
   converted = converted.replace(/rowspan=".+?"\s*\|\s*/gi, "")
 
-  console.log JSON.stringify(converted, null, 2) if --args.debug == 0
+  console.log "converted = #{JSON.stringify(converted, null, 2)}" if --args.debug == 0
   
   # Split into an array of line (after removing blank lines first)
   converted = converted.replace(/~~+/g, "~")
   lines = converted.split(/~/)
 
-  console.log JSON.stringify(lines, null, 2) if --args.debug == 0
+  console.log "lines = #{JSON.stringify(lines, null, 2)}" if --args.debug == 0
   
   # Remove anything before the table
   extra = 0
-  while not lines[extra].match(/\{\|/)
+  while lines[extra]? and not RegExp("\\{\\|").test(lines[extra])
     ++extra
   lines.splice 0, extra if extra > 0
 
-  console.log JSON.stringify(lines, null, 2) if --args.debug == 0
+  console.log "lines = #{JSON.stringify(lines, null, 2)}" if --args.debug == 0
 
   # Remove the table start and headings and table end
   switch args.type
@@ -169,8 +185,7 @@ fs.readFile args.inpath, (err, input) ->
     when "melee" then lines = lines[14...-2]
     when "explosives" then lines = lines[10...-2]
 
-  # Remove the table 
-  console.log JSON.stringify(lines, null, 2) if --args.debug == 0
+  console.log "lines = #{JSON.stringify(lines, null, 2)}" if --args.debug == 0
 
   # Get rid of the "| " at the beginning of each line that has one
   for i in [0...lines.length]
@@ -180,17 +195,17 @@ fs.readFile args.inpath, (err, input) ->
   lines = lines.filter (line) ->
     line != "|-"
 
-  console.log JSON.stringify(lines, null, 2) if --args.debug == 0
+  console.log "lines = #{JSON.stringify(lines, null, 2)}" if --args.debug == 0
 
   # Group into rows.
   rows = groupIntoRows(lines)
 
-  console.log JSON.stringify(rows, null, 2) if --args.debug == 0
+  console.log "rows = #{JSON.stringify(rows, null, 2)}" if --args.debug == 0
 
   # Group into weapons.
   [weapons, duplicates] = groupIntoWeapons(rows)
 
-  console.log JSON.stringify({ weapons, duplicates }, null, 2) if --args.debug == 0
+  console.log "{ weapons, duplicates } = #{JSON.stringify({ weapons, duplicates }, null, 2)}" if --args.debug == 0
 
   # Massage level entries into maps and exclude uneccessary values
   for id, weapon of weapons
@@ -224,7 +239,20 @@ fs.readFile args.inpath, (err, input) ->
             weight: Number(level[2])
             value: Number(level[3])
 
-  console.log JSON.stringify(weapons, null, 2) if --args.debug == 0
+  console.log "weapons = #{JSON.stringify(weapons, null, 2)}" if --args.debug == 0
+
+  # Parse "raw" damage into component damages
+
+  for id, weapon of weapons
+    for level, i in weapon.levels
+      if level.rawDamage?
+        level.damage = damageComponents(level.rawDamage)
+        delete level.rawDamage
+      if level.rawCrit?
+        level.crit = damageComponents(level.rawCrit)
+        delete level.rawCrit
+
+  console.log "weapons = #{JSON.stringify(weapons, null, 2)}" if --args.debug == 0
 
   # Output the statistics
   console.log "Found #{lines.length} lines, #{rows.length} rows, #{Object.keys(weapons).length} weapons, plus #{Object.keys(duplicates).length} duplicated IDs (#{Object.keys(duplicates)})."
