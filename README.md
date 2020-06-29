@@ -2,7 +2,7 @@
 Fallout 76 tools using Node and implemented in Coffeescript
 
 ## base-weapons-dps
-Displays base dps for all weapons
+Displays base dps for all weapons based on data scraped from [akarnokd/rng-76](https://github.com/akarnokd/rng-76)
 
 #### Command syntax
 
@@ -20,7 +20,7 @@ Displays base dps for all weapons
 | --csv          | Output the results in CSV format |
 
 ## convert-weapon-wiki-to-json
-Converts the weapon information from the Fallout Wiki (https://fallout.fandom.com/wiki/Fallout_76_weapons) to JSON
+Converts the weapon information from the [Fallout Wiki](https://fallout.fandom.com/wiki/Fallout_76_weapons) to JSON
 
 #### Command syntax
 
@@ -39,13 +39,6 @@ Converts the weapon information from the Fallout Wiki (https://fallout.fandom.co
 | type      | Type of weapon table. One of "ranged", "melee", or "explosives" |
 | inpath    | Wiki input file path |
 | outpath   | JSON output file path |
-
-## convert-all-wiki-data
-Converts all wiki files using convert-weapon-wiki-to-json
-
-#### Command syntax
-
-    convert-all-wiki-data
 
 ## convert-weapon-mods-wiki-to-json
 Converts the weapon mods information from the Fallout Wiki to JSON
