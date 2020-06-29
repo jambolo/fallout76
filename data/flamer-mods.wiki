@@ -1,0 +1,144 @@
+===Weapon modifications===
+<!-- INSERT BULLET LIST OF MODS HERE -->
+<section begin="mods" />{{Weapon mod FO76|start|slot=Tank}}
+{{Weapon mod FO76|row
+|mod        =[[Standard tank]]
+|desc       =Standard.
+|prefix     =Flamer
+|damage     ={{icon|attack}}36<br />{{icon|fire}}3
+|components =[[Adhesive (Fallout 76)|Adhesive]] x2<br />[[Screw (Fallout 76)|Screw]] x2<br />[[Steel (Fallout 76)|Steel]] x11
+|base id    ={{ID|001889C7}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Napalm tank]]
+|desc       =Superior damage.
+|prefix     =Napalmer
+|damage     ={{icon|attack}}72<br />{{icon|fire}}3
+|spread     =
+|weight     =+4.5
+|value      =+60
+|perk       =
+|components =[[Adhesive (Fallout 76)|Adhesive]] x2<br />[[Aluminum (Fallout 76)|Aluminum]] x5<br />[[Copper (Fallout 76)|Copper]] x1<br />[[Screw (Fallout 76)|Screw]] x2
+|base id    ={{ID|001889C6}}
+}}
+{{Weapon mod FO76|end}}
+{{Weapon mod FO76|start|slot=Barrel}}
+{{Weapon mod FO76|row
+|mod        =[[Standard barrel (Fallout 76)|Standard barrel]]
+|desc       =Standard.
+|components =[[Adhesive (Fallout 76)|Adhesive]] x1<br />[[Asbestos (Fallout 76)|Asbestos]] x1<br />[[Screw (Fallout 76)|Screw]] x1<br />[[Steel (Fallout 76)|Steel]] x6
+|base id    ={{ID|001889C5}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Long barrel (Fallout 76)|Long barrel]]
+|desc       =Increased reach.
+|prefix     =Extended
+|range      =+24
+|spread     =-7
+|weight     =+4.5
+|value      =+30
+|perk       =
+|components =[[Adhesive (Fallout 76)|Adhesive]] x2<br />[[Asbestos (Fallout 76)|Asbestos]] x2<br />[[Screw (Fallout 76)|Screw]] x2<br />[[Steel (Fallout 76)|Steel]] x11
+|base id    ={{ID|001889C4}}
+}}
+{{Weapon mod FO76|end}}
+{{Weapon mod FO76|start|slot=Propellant tank}}
+{{Weapon mod FO76|row
+|mod        =[[Standard propellant tank]]
+|desc       =Standard.
+|components =[[Adhesive (Fallout 76)|Adhesive]] x1<br />[[Screw (Fallout 76)|Screw]] x1<br />[[Spring (Fallout 76)|Spring]] x1<br />[[Steel (Fallout 76)|Steel]] x6
+|base id    ={{ID|00147AFB}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Large propellant tank]]
+|desc       =Better ammo capacity. Reduced reload speed.
+|prefix     =Large
+|spread     =
+|magazine   =+50
+|weight     =+4.5
+|value      =+38
+|perk       =
+|components =[[Adhesive (Fallout 76)|Adhesive]] x1<br />[[Screw (Fallout 76)|Screw]] x1<br />[[Spring (Fallout 76)|Spring]] x2<br />[[Steel (Fallout 76)|Steel]] x8
+|base id    ={{ID|001AC24F}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Huge propellant tank]]
+|desc       =Exceptional ammo capacity. Inferior reload speed.
+|prefix     =Maximum capacity huge
+|spread     =
+|magazine   =+100
+|weight     =+4.5
+|value      =+60
+|perk       =
+|components =[[Adhesive (Fallout 76)|Adhesive]] x1<br />[[Gears (Fallout 76)|Gears]] x1<br />[[Screw (Fallout 76)|Screw]] x1<br />[[Spring (Fallout 76)|Spring]] x2<br />[[Steel (Fallout 76)|Steel]] x8
+|base id    ={{ID|001AC24F}}
+}}
+{{Weapon mod FO76|end}}
+{{Weapon mod FO76|start|slot=Nozzle}}
+{{Weapon mod FO76|row
+|mod        =[[Standard nozzle]]
+|desc       =Standard.
+|prefix     =
+|damage     =
+|components =[[Adhesive (Fallout 76)|Adhesive]] x2<br />[[Asbestos (Fallout 76)|Asbestos]] x1<br />[[Steel (Fallout 76)|Steel]] x3
+|base id    ={{ID|001889CB}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Compression nozzle]]
+|desc       =Exceptional ammo capacity. Inferior reload speed.
+|prefix     =Maximum capacity huge
+|damage     ={{icon|attack}}+7
+|range      =-48
+|spread     =
+|weight     =-0.15
+|value      =+26
+|perk       =
+|components =[[Aluminum (Fallout 76)|Aluminum]] x2<br />[[Asbestos (Fallout 76)|Asbestos]] x2<br />[[Steel (Fallout 76)|Steel]] x7
+|base id    ={{ID|001889CA}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Vaporization nozzle]]
+|desc       =Superior damage. Inferior range.
+|prefix     =Vaporizing
+|damage     ={{icon|attack}}+36
+|range      =-60
+|spread     =
+|weight     =+4.13
+|value      =+56
+|perk       =
+|components =[[Adhesive (Fallout 76)|Adhesive]] x4<br />[[Asbestos (Fallout 76)|Asbestos]] x4<br />[[Steel (Fallout 76)|Steel]] x7
+|base id    ={{ID|001C5AB1}}
+}}
+{{Weapon mod FO76|end}}
+{{Weapon mod FO76|start|slot=Paint}}
+{{Weapon mod FO76|row
+|mod        =[[Standard paint]]
+|desc       =Standard.
+|prefix     =
+|components =None
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Fireman paint]] {{icon|atom}}
+|desc       =
+|prefix     =
+|components =[[Oil (Fallout 76)|Oil]] x1
+|base id    ={{ID|0053861C}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Frostbite paint]] {{icon|atom}}
+|desc       =
+|prefix     =
+|components =[[Oil (Fallout 76)|Oil]] x1
+|base id    ={{ID|00465100}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Vault-Tec paint (Fallout 76)|Vault-Tec paint]] {{icon|atom}}
+|desc       =Vault-Tec Official Paint.
+|prefix     =
+|components =[[Oil (Fallout 76)|Oil]] x1
+|base id    ={{ID|00475C21}}
+}}
+* Damage values are for level 45
+
+{{Weapon mod FO76|end}}<section end="mods" />
