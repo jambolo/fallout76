@@ -1,0 +1,314 @@
+===Weapon modifications===
+{{Weapon mod FO76|start|slot=Receiver}}
+{{Weapon mod FO76|row
+|mod        =[[Standard receiver (Fallout 76)|Standard receiver]]
+|desc       =Standard.
+|components =[[Gears (Fallout 76)|Gears]] x1<br />[[Screw (Fallout 76)|Screw]] x1<br />[[Steel (Fallout 76)|Steel]] x3
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Calibrated receiver (Fallout 76)|Calibrated receiver]]
+|desc       =Superior critical shot damage.
+|prefix     =Calibrated
+|spread     =+1
+|weight     =+1.2
+|value      =+13
+|components =[[Gears (Fallout 76)|Gears]] x1<br />[[Screw (Fallout 76)|Screw]] x1<br />[[Steel (Fallout 76)|Steel]] x3
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Hair trigger receiver (Fallout 76)|Hair trigger receiver]]
+|desc       =Superior rate of fire.
+|prefix     =Hair trigger
+|attack     =+1
+|spread     =-2
+|weight     =+1.2
+|value      =+13
+|components =[[Gears (Fallout 76)|Gears]] x1<br />[[Screw (Fallout 76)|Screw]] x1<br />[[Steel (Fallout 76)|Steel]] x3
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Hardened receiver (Fallout 76)|Hardened receiver]]
+|desc       =Superior damage.
+|prefix     =Hardened
+|damage     =+10
+|weight     =+1.2
+|value      =+13
+|components =[[Gears (Fallout 76)|Gears]] x1<br />[[Screw (Fallout 76)|Screw]] x1<br />[[Steel (Fallout 76)|Steel]] x3
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[True receiver]]
+|desc       =Superior hip-fire accuracy.
+|prefix     =True
+|spread     =+4
+|weight     =+1.2
+|value      =+13
+|components =[[Gears (Fallout 76)|Gears]] x1<br />[[Screw (Fallout 76)|Screw]] x1<br />[[Steel (Fallout 76)|Steel]] x3
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Steadfast receiver]]
+|desc       =Improved rate of fire, hip-fire accuracy.
+|prefix     =Steadfast
+|weight     =+0.8
+|value      =+17
+|perk       =[[Gunsmith]] 2
+|components =[[Gears (Fallout 76)|Gears]] x1<br />[[Screw (Fallout 76)|Screw]] x1<br />[[Steel (Fallout 76)|Steel]] x3
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Vicious receiver]]
+|desc       =Improved hip-fire accuracy, critical shot damage.
+|prefix     =Vicious
+|spread     =+1
+|weight     =+1.2
+|value      =+20
+|perk       =[[Gunsmith]] 2
+|components =[[Gears (Fallout 76)|Gears]] x1<br />[[Screw (Fallout 76)|Screw]] x1<br />[[Steel (Fallout 76)|Steel]] x3
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Refined receiver]]
+|desc       =Improved hip-fire accuracy, damage.
+|prefix     =Refined
+|damage     =+5
+|spread     =+1
+|weight     =+0.8
+|value      =+20
+|perk       =[[Gunsmith]] 2
+|components =[[Gears (Fallout 76)|Gears]] x1<br />[[Screw (Fallout 76)|Screw]] x1<br />[[Steel (Fallout 76)|Steel]] x3
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Fierce receiver]]
+|desc       =Improved rate of fire, critical shot damage.
+|prefix     =Fierce
+|weight     =+1.2
+|value      =+23
+|perk       =[[Gunsmith]] 2
+|components =[[Gears (Fallout 76)|Gears]] x1<br />[[Screw (Fallout 76)|Screw]] x1<br />[[Steel (Fallout 76)|Steel]] x3
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Vigorous receiver]]
+|desc       =Improved rate of fire, damage.
+|prefix     =Vigorous
+|damage     =+5
+|spread     =-1
+|weight     =+1.2
+|value      =+23
+|perk       =[[Gunsmith]] 2
+|components =[[Gears (Fallout 76)|Gears]] x1<br />[[Screw (Fallout 76)|Screw]] x1<br />[[Steel (Fallout 76)|Steel]] x3
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Severe receiver]]
+|desc       =Improved damage, critical shot damage.
+|prefix     =Severe
+|damage     =+5
+|spread     =+1
+|weight     =+1.2
+|value      =+26
+|perk       =[[Gunsmith]] 2
+|components =[[Gears (Fallout 76)|Gears]] x1<br />[[Screw (Fallout 76)|Screw]] x1<br />[[Steel (Fallout 76)|Steel]] x3
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|end}}
+{{Weapon mod FO76|start|slot=Barrel}}
+{{Weapon mod FO76|row
+|mod        =[[Snubnose barrel (Fallout 76)|Snubnose barrel]]
+|desc       =Standard.
+|prefix     =Snubnosed
+|components =[[Adhesive (Fallout 76)|Adhesive]] x2<br />[[Screw (Fallout 76)|Screw]] x3<br />[[Steel (Fallout 76)|Steel]] x8
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Standard long barrel]]
+|desc       =Superior range.
+|range      =+120
+|value      =+7
+|components =[[Adhesive (Fallout 76)|Adhesive]] x2<br />[[Aluminum (Fallout 76)|Aluminum]] x5<br />[[Screw (Fallout 76)|Screw]] x3
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Stabilized stub barrel]]
+|desc       =Inferior range. Superior recoil.
+|prefix     =Snubnosed
+|spread     =+1
+|weight     =+1.2
+|value      =+13
+|components =[[Adhesive (Fallout 76)|Adhesive]] x2<br />[[Screw (Fallout 76)|Screw]] x3<br />[[Steel (Fallout 76)|Steel]] x8
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Stabilized long barrel]]
+|desc       =Superior range and recoil.
+|range      =+120
+|spread     =+2
+|weight     =+1.2
+|value      =+20
+|components =[[Adhesive (Fallout 76)|Adhesive]] x3<br />[[Aluminum (Fallout 76)|Aluminum]] x5<br />[[Screw (Fallout 76)|Screw]] x3
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[True snubnose barrel]]
+|desc       =Improved range. Superior hip-fire accuracy.
+|prefix     =Snubnosed
+|spread     =+4
+|weight     =+1.2
+|value      =+13
+|components =[[Adhesive (Fallout 76)|Adhesive]] x2<br />[[Screw (Fallout 76)|Screw]] x3<br />[[Steel (Fallout 76)|Steel]] x8
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[True long barrel]]
+|desc       =Superior range, hip-fire accuracy.
+|range      =+120
+|spread     =+3
+|weight     =+1.2
+|value      =+20
+|components =[[Adhesive (Fallout 76)|Adhesive]] x3<br />[[Aluminum (Fallout 76)|Aluminum]]x5<br />[[Screw (Fallout 76)|Screw]] x3
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Aligned snubnosed barrel]]
+|desc       =Inferior range. Improved recoil and hip-fire accuracy.
+|prefix     =Snubnosed
+|spread     =+2
+|weight     =+0.4
+|value      =+13
+|perk       =[[Gunsmith]] 2
+|components =[[Adhesive (Fallout 76)|Adhesive]] x2<br />[[Screw (Fallout 76)|Screw]] x3<br />[[Steel (Fallout 76)|Steel]] x8
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Aligned long barrel]]
+|desc       =Superior range. Improved recoil and hip-fire accuracy.
+|prefix     =
+|range      =+120
+|spread     =+2
+|weight     =+0.4
+|value      =+16
+|perk       =[[Gunsmith]] 2
+|components =[[Adhesive (Fallout 76)|Adhesive]] x3<br />[[Aluminum (Fallout 76)|Aluminum]] x5<br />[[Screw (Fallout 76)|Screw]] x3
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|end}}
+{{Weapon mod FO76|start|slot=Grip}}
+{{Weapon mod FO76|row
+|mod        =[[Standard grip (Fallout 76)|Standard grip]]
+|desc       =Standard.
+|components =[[Adhesive (Fallout 76)|Adhesive]] x1<br />[[Screw (Fallout 76)|Screw]] x3<br />[[Steel (Fallout 76)|Steel]] x8
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Bruising grip]]
+|desc       =Superior bash damage.
+|weight     =+1.2
+|value      =+13
+|components =[[Adhesive (Fallout 76)|Adhesive]] x1<br />[[Screw (Fallout 76)|Screw]] x3<br />[[Steel (Fallout 76)|Steel]] x8
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Stabilized grip]]
+|desc       =Superior recoil.
+|spread     =+1
+|weight     =+1.2
+|value      =+13
+|components =[[Adhesive (Fallout 76)|Adhesive]] x1<br />[[Screw (Fallout 76)|Screw]] x3<br />[[Steel (Fallout 76)|Steel]] x8
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[True grip]]
+|desc       =Superior hip-fire accuracy.
+|spread     =+4
+|weight     =+1.2
+|value      =+13
+|components =[[Adhesive (Fallout 76)|Adhesive]] x1<br />[[Screw (Fallout 76)|Screw]] x3<br />[[Steel (Fallout 76)|Steel]] x8
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Aligned grip]]
+|desc       =Improved recoil, hip-fire accuracy.
+|spread     =+2
+|weight     =+0.4
+|value      =+13
+|perk       =[[Gunsmith]] 2
+|components =[[Adhesive (Fallout 76)|Adhesive]] x1<br />[[Screw (Fallout 76)|Screw]] x3<br />[[Steel (Fallout 76)|Steel]] x8
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Forceful grip]]
+|desc       =Improved bash damage and recoil.
+|spread     =+1
+|weight     =+0.8
+|value      =+17
+|perk       =[[Gunsmith]] 2
+|components =[[Adhesive (Fallout 76)|Adhesive]] x1<br />[[Screw (Fallout 76)|Screw]] x3<br />[[Steel (Fallout 76)|Steel]] x8
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Precise grip]]
+|desc       =Improved bash damage and hip-fire accuracy.
+|spread     =+1
+|weight     =+0.8
+|value      =+17
+|perk       =[[Gunsmith]] 2
+|components =[[Adhesive (Fallout 76)|Adhesive]] x1<br />[[Screw (Fallout 76)|Screw]] x3<br />[[Steel (Fallout 76)|Steel]] x8
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|end}}
+{{Weapon mod FO76|start|slot=Sights}}
+{{Weapon mod FO76|row
+|mod        =[[Standard sights (Fallout 76)|Standard sights]]
+|desc       =Standard.
+|components =[[Adhesive (Fallout 76)|Adhesive]] x2<br />[[Aluminum (Fallout 76)|Aluminum]] x4<br />[[Glass (Fallout 76)|Glass]] x2<br />[[Gears (Fallout 76)|Gears]] x3<br />[[Screw (Fallout 76)|Screw]] x2
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Reflex sight (Fallout 76)|Reflex sight]]
+|desc       =Better focus and sighted accuracy.
+|prefix     =Tactical
+|spread     =+3
+|weight     =+0.4
+|value      =+9
+|components =[[Adhesive (Fallout 76)|Adhesive]] x2<br />[[Aluminum (Fallout 76)|Aluminum]] x4<br />[[Glass (Fallout 76)|Glass]] x2<br />[[Gears (Fallout 76)|Gears]] x3<br />[[Screw (Fallout 76)|Screw]] x2
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Short scope (Fallout 76)|Short scope]]
+|desc       =Improved magnification. Superior sighted accuracy.
+|spread     =+13
+|weight     =+0.8
+|value      =+7
+|components =[[Adhesive (Fallout 76)|Adhesive]] x2<br />[[Aluminum (Fallout 76)|Aluminum]] x5<br />[[Crystal (Fallout 76)|Crystal]] x4<br />[[Glass (Fallout 76)|Glass]] x1 <br /> [[Screw (Fallout 76)|Screw]] x1 <br />[[Steel (Fallout 76)|Steel]] x6
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =[[Short recon scope (Fallout 76)|Short recon scope]]
+|desc       =Tracks targets. Improved magnification.
+|prefix     =Recon
+|spread     =+6
+|weight     =+1
+|value      =+20
+|perk       =[[Gunsmith]] 3
+|components =[[Adhesive (Fallout 76)|Adhesive]] x2<br />[[Aluminum (Fallout 76)|Aluminum]] x5<br />[[Crystal (Fallout 76)|Crystal]] x4<br />[[Glass (Fallout 76)|Glass]] x1<br />[[Screw (Fallout 76)|Screw]] x1<br />[[Steel (Fallout 76)|Steel]] x6
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|end}}
+{{Weapon mod FO76|start|slot=Paint}}
+{{Weapon mod FO76|row
+|mod        =Standard paint
+|desc       =Standard
+|components =
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|row
+|mod        =Blue camouflage paint
+|desc       =Blue camouflage paint.
+|prefix     =Blue camouflage
+|components =[[Oil (Fallout 76)|Oil]] x1
+|base id    ={{ID|}}
+}}
+{{Weapon mod FO76|end}}
