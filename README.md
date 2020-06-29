@@ -39,3 +39,23 @@ Converts the weapon information from the [Fallout Wiki](https://fallout.fandom.c
 | type      | Type of weapon table. One of "ranged", "melee", or "explosives" |
 | inpath    | Wiki input file path |
 | outpath   | JSON output file path |
+
+## convert-weapon-mods-wiki-to-json
+Converts the weapon mods information from the Fallout Wiki to JSON
+
+#### Command syntax
+
+    convert-weapon-wiki-mods-to-json [--debug <n>] <inpath> <outpath>
+
+#### Options
+
+| Option         | Description |
+|----------------|-------------|
+| --debug, -d    | Dumps the current state of the conversion at the desired stage |
+
+#### Parameters
+
+| Parameter | Description |
+|-----------|-------------|
+| inpath    | Wiki input file path |
+| outpath   | JSON output file path |

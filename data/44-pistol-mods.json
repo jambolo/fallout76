@@ -1,0 +1,421 @@
+{
+  "receiver": [
+    {
+      "name": "Standard receiver",
+      "description": "Standard.",
+      "resources": {
+        "gears": 1,
+        "screw": 1,
+        "steel": 3
+      }
+    },
+    {
+      "name": "Calibrated receiver",
+      "description": "Superior critical shot damage.",
+      "prefix": "Calibrated",
+      "accuracy": 1,
+      "weight": 1.2,
+      "value": 13,
+      "resources": {
+        "gears": 1,
+        "screw": 1,
+        "steel": 3
+      }
+    },
+    {
+      "name": "Hair trigger receiver",
+      "description": "Superior rate of fire.",
+      "prefix": "Hair trigger",
+      "attack": "+1",
+      "accuracy": -2,
+      "weight": 1.2,
+      "value": 13,
+      "resources": {
+        "gears": 1,
+        "screw": 1,
+        "steel": 3
+      }
+    },
+    {
+      "name": "Hardened receiver",
+      "description": "Superior damage.",
+      "prefix": "Hardened",
+      "damage": {
+        "ballistic": 10
+      },
+      "weight": 1.2,
+      "value": 13,
+      "resources": {
+        "gears": 1,
+        "screw": 1,
+        "steel": 3
+      }
+    },
+    {
+      "name": "True receiver",
+      "description": "Superior hip-fire accuracy.",
+      "prefix": "True",
+      "accuracy": 4,
+      "weight": 1.2,
+      "value": 13,
+      "resources": {
+        "gears": 1,
+        "screw": 1,
+        "steel": 3
+      }
+    },
+    {
+      "name": "Steadfast receiver",
+      "description": "Improved rate of fire, hip-fire accuracy.",
+      "prefix": "Steadfast",
+      "weight": 0.8,
+      "value": 17,
+      "perk": "Gunsmith 2",
+      "resources": {
+        "gears": 1,
+        "screw": 1,
+        "steel": 3
+      }
+    },
+    {
+      "name": "Vicious receiver",
+      "description": "Improved hip-fire accuracy, critical shot damage.",
+      "prefix": "Vicious",
+      "accuracy": 1,
+      "weight": 1.2,
+      "value": 20,
+      "perk": "Gunsmith 2",
+      "resources": {
+        "gears": 1,
+        "screw": 1,
+        "steel": 3
+      }
+    },
+    {
+      "name": "Refined receiver",
+      "description": "Improved hip-fire accuracy, damage.",
+      "prefix": "Refined",
+      "damage": {
+        "ballistic": 5
+      },
+      "accuracy": 1,
+      "weight": 0.8,
+      "value": 20,
+      "perk": "Gunsmith 2",
+      "resources": {
+        "gears": 1,
+        "screw": 1,
+        "steel": 3
+      }
+    },
+    {
+      "name": "Fierce receiver",
+      "description": "Improved rate of fire, critical shot damage.",
+      "prefix": "Fierce",
+      "weight": 1.2,
+      "value": 23,
+      "perk": "Gunsmith 2",
+      "resources": {
+        "gears": 1,
+        "screw": 1,
+        "steel": 3
+      }
+    },
+    {
+      "name": "Vigorous receiver",
+      "description": "Improved rate of fire, damage.",
+      "prefix": "Vigorous",
+      "damage": {
+        "ballistic": 5
+      },
+      "accuracy": -1,
+      "weight": 1.2,
+      "value": 23,
+      "perk": "Gunsmith 2",
+      "resources": {
+        "gears": 1,
+        "screw": 1,
+        "steel": 3
+      }
+    },
+    {
+      "name": "Severe receiver",
+      "description": "Improved damage, critical shot damage.",
+      "prefix": "Severe",
+      "damage": {
+        "ballistic": 5
+      },
+      "accuracy": 1,
+      "weight": 1.2,
+      "value": 26,
+      "perk": "Gunsmith 2",
+      "resources": {
+        "gears": 1,
+        "screw": 1,
+        "steel": 3
+      }
+    }
+  ],
+  "barrel": [
+    {
+      "name": "Snubnose barrel",
+      "description": "Standard.",
+      "prefix": "Snubnosed",
+      "resources": {
+        "adhesive": 2,
+        "screw": 3,
+        "steel": 8
+      }
+    },
+    {
+      "name": "Standard long barrel",
+      "description": "Superior range.",
+      "range": 120,
+      "value": 7,
+      "resources": {
+        "adhesive": 2,
+        "aluminum": 5,
+        "screw": 3
+      }
+    },
+    {
+      "name": "Stabilized stub barrel",
+      "description": "Inferior range. Superior recoil.",
+      "prefix": "Snubnosed",
+      "accuracy": 1,
+      "weight": 1.2,
+      "value": 13,
+      "resources": {
+        "adhesive": 2,
+        "screw": 3,
+        "steel": 8
+      }
+    },
+    {
+      "name": "Stabilized long barrel",
+      "description": "Superior range and recoil.",
+      "range": 120,
+      "accuracy": 2,
+      "weight": 1.2,
+      "value": 20,
+      "resources": {
+        "adhesive": 3,
+        "aluminum": 5,
+        "screw": 3
+      }
+    },
+    {
+      "name": "True snubnose barrel",
+      "description": "Improved range. Superior hip-fire accuracy.",
+      "prefix": "Snubnosed",
+      "accuracy": 4,
+      "weight": 1.2,
+      "value": 13,
+      "resources": {
+        "adhesive": 2,
+        "screw": 3,
+        "steel": 8
+      }
+    },
+    {
+      "name": "True long barrel",
+      "description": "Superior range, hip-fire accuracy.",
+      "range": 120,
+      "accuracy": 3,
+      "weight": 1.2,
+      "value": 20,
+      "resources": {
+        "adhesive": 3,
+        "aluminum": 5,
+        "screw": 3
+      }
+    },
+    {
+      "name": "Aligned snubnosed barrel",
+      "description": "Inferior range. Improved recoil and hip-fire accuracy.",
+      "prefix": "Snubnosed",
+      "accuracy": 2,
+      "weight": 0.4,
+      "value": 13,
+      "perk": "Gunsmith 2",
+      "resources": {
+        "adhesive": 2,
+        "screw": 3,
+        "steel": 8
+      }
+    },
+    {
+      "name": "Aligned long barrel",
+      "description": "Superior range. Improved recoil and hip-fire accuracy.",
+      "range": 120,
+      "accuracy": 2,
+      "weight": 0.4,
+      "value": 16,
+      "perk": "Gunsmith 2",
+      "resources": {
+        "adhesive": 3,
+        "aluminum": 5,
+        "screw": 3
+      }
+    }
+  ],
+  "grip": [
+    {
+      "name": "Standard grip",
+      "description": "Standard.",
+      "resources": {
+        "adhesive": 1,
+        "screw": 3,
+        "steel": 8
+      }
+    },
+    {
+      "name": "Bruising grip",
+      "description": "Superior bash damage.",
+      "weight": 1.2,
+      "value": 13,
+      "resources": {
+        "adhesive": 1,
+        "screw": 3,
+        "steel": 8
+      }
+    },
+    {
+      "name": "Stabilized grip",
+      "description": "Superior recoil.",
+      "accuracy": 1,
+      "weight": 1.2,
+      "value": 13,
+      "resources": {
+        "adhesive": 1,
+        "screw": 3,
+        "steel": 8
+      }
+    },
+    {
+      "name": "True grip",
+      "description": "Superior hip-fire accuracy.",
+      "accuracy": 4,
+      "weight": 1.2,
+      "value": 13,
+      "resources": {
+        "adhesive": 1,
+        "screw": 3,
+        "steel": 8
+      }
+    },
+    {
+      "name": "Aligned grip",
+      "description": "Improved recoil, hip-fire accuracy.",
+      "accuracy": 2,
+      "weight": 0.4,
+      "value": 13,
+      "perk": "Gunsmith 2",
+      "resources": {
+        "adhesive": 1,
+        "screw": 3,
+        "steel": 8
+      }
+    },
+    {
+      "name": "Forceful grip",
+      "description": "Improved bash damage and recoil.",
+      "accuracy": 1,
+      "weight": 0.8,
+      "value": 17,
+      "perk": "Gunsmith 2",
+      "resources": {
+        "adhesive": 1,
+        "screw": 3,
+        "steel": 8
+      }
+    },
+    {
+      "name": "Precise grip",
+      "description": "Improved bash damage and hip-fire accuracy.",
+      "accuracy": 1,
+      "weight": 0.8,
+      "value": 17,
+      "perk": "Gunsmith 2",
+      "resources": {
+        "adhesive": 1,
+        "screw": 3,
+        "steel": 8
+      }
+    }
+  ],
+  "sights": [
+    {
+      "name": "Standard sights",
+      "description": "Standard.",
+      "resources": {
+        "adhesive": 2,
+        "aluminum": 4,
+        "glass": 2,
+        "gears": 3,
+        "screw": 2
+      }
+    },
+    {
+      "name": "Reflex sight",
+      "description": "Better focus and sighted accuracy.",
+      "prefix": "Tactical",
+      "accuracy": 3,
+      "weight": 0.4,
+      "value": 9,
+      "resources": {
+        "adhesive": 2,
+        "aluminum": 4,
+        "glass": 2,
+        "gears": 3,
+        "screw": 2
+      }
+    },
+    {
+      "name": "Short scope",
+      "description": "Improved magnification. Superior sighted accuracy.",
+      "accuracy": 13,
+      "weight": 0.8,
+      "value": 7,
+      "resources": {
+        "adhesive": 2,
+        "aluminum": 5,
+        "crystal": 4,
+        "glass": 1,
+        " screw": 1,
+        "steel": 6
+      }
+    },
+    {
+      "name": "Short recon scope",
+      "description": "Tracks targets. Improved magnification.",
+      "prefix": "Recon",
+      "accuracy": 6,
+      "weight": 1,
+      "value": 20,
+      "perk": "Gunsmith 3",
+      "resources": {
+        "adhesive": 2,
+        "aluminum": 5,
+        "crystal": 4,
+        "glass": 1,
+        "screw": 1,
+        "steel": 6
+      }
+    }
+  ],
+  "paint": [
+    {
+      "name": "Standard paint",
+      "description": "Standard"
+    },
+    {
+      "name": "Blue camouflage paint",
+      "description": "Blue camouflage paint.",
+      "prefix": "Blue camouflage",
+      "resources": {
+        "oil": 1
+      }
+    }
+  ]
+}

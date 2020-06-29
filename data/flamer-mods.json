@@ -1,0 +1,185 @@
+{
+  "tank": [
+    {
+      "name": "Standard tank",
+      "description": "Standard.",
+      "prefix": "Flamer",
+      "damage": {
+        "ballistic": 36,
+        "fire": 3
+      },
+      "resources": {
+        "adhesive": 2,
+        "screw": 2,
+        "steel": 11
+      },
+      "id": "001889C7"
+    },
+    {
+      "name": "Napalm tank",
+      "description": "Superior damage.",
+      "prefix": "Napalmer",
+      "damage": {
+        "ballistic": 72,
+        "fire": 3
+      },
+      "weight": 4.5,
+      "value": 60,
+      "resources": {
+        "adhesive": 2,
+        "aluminum": 5,
+        "copper": 1,
+        "screw": 2
+      },
+      "id": "001889C6"
+    }
+  ],
+  "barrel": [
+    {
+      "name": "Standard barrel",
+      "description": "Standard.",
+      "resources": {
+        "adhesive": 1,
+        "asbestos": 1,
+        "screw": 1,
+        "steel": 6
+      },
+      "id": "001889C5"
+    },
+    {
+      "name": "Long barrel",
+      "description": "Increased reach.",
+      "prefix": "Extended",
+      "range": 24,
+      "accuracy": -7,
+      "weight": 4.5,
+      "value": 30,
+      "resources": {
+        "adhesive": 2,
+        "asbestos": 2,
+        "screw": 2,
+        "steel": 11
+      },
+      "id": "001889C4"
+    }
+  ],
+  "propellant tank": [
+    {
+      "name": "Standard propellant tank",
+      "description": "Standard.",
+      "resources": {
+        "adhesive": 1,
+        "screw": 1,
+        "spring": 1,
+        "steel": 6
+      },
+      "id": "00147AFB"
+    },
+    {
+      "name": "Large propellant tank",
+      "description": "Better ammo capacity. Reduced reload speed.",
+      "prefix": "Large",
+      "capacity": 50,
+      "weight": 4.5,
+      "value": 38,
+      "resources": {
+        "adhesive": 1,
+        "screw": 1,
+        "spring": 2,
+        "steel": 8
+      },
+      "id": "001AC24F"
+    },
+    {
+      "name": "Huge propellant tank",
+      "description": "Exceptional ammo capacity. Inferior reload speed.",
+      "prefix": "Maximum capacity huge",
+      "capacity": 100,
+      "weight": 4.5,
+      "value": 60,
+      "resources": {
+        "adhesive": 1,
+        "gears": 1,
+        "screw": 1,
+        "spring": 2,
+        "steel": 8
+      },
+      "id": "001AC24F"
+    }
+  ],
+  "nozzle": [
+    {
+      "name": "Standard nozzle",
+      "description": "Standard.",
+      "resources": {
+        "adhesive": 2,
+        "asbestos": 1,
+        "steel": 3
+      },
+      "id": "001889CB"
+    },
+    {
+      "name": "Compression nozzle",
+      "description": "Exceptional ammo capacity. Inferior reload speed.",
+      "prefix": "Maximum capacity huge",
+      "damage": {
+        "ballistic": 7
+      },
+      "range": -48,
+      "weight": -0.15,
+      "value": 26,
+      "resources": {
+        "aluminum": 2,
+        "asbestos": 2,
+        "steel": 7
+      },
+      "id": "001889CA"
+    },
+    {
+      "name": "Vaporization nozzle",
+      "description": "Superior damage. Inferior range.",
+      "prefix": "Vaporizing",
+      "damage": {
+        "ballistic": 36
+      },
+      "range": -60,
+      "weight": 4.13,
+      "value": 56,
+      "resources": {
+        "adhesive": 4,
+        "asbestos": 4,
+        "steel": 7
+      },
+      "id": "001C5AB1"
+    }
+  ],
+  "paint": [
+    {
+      "name": "Standard paint",
+      "description": "Standard.",
+      "resources": {}
+    },
+    {
+      "name": "Fireman paint",
+      "resources": {
+        "oil": 1
+      },
+      "id": "0053861C"
+    },
+    {
+      "name": "Frostbite paint",
+      "resources": {
+        "oil": 1
+      },
+      "id": "00465100"
+    },
+    {
+      "name": "Vault-Tec paint",
+      "description": "Vault-Tec Official Paint.",
+      "resources": {
+        "oil": 1
+      },
+      "id": "00475C21"
+    }
+  ]
+}
