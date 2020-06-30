@@ -6,9 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["fallout-76", "coffeescript", "node-js"],
   "author": "John Bolton <jambolo@users.noreply.github.com> (https://jambolo.github.io)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jambolo/fallout76.git"
+  },
   "dependencies": {
     "yargs": "^15.3.1"
   }
